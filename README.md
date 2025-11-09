@@ -1,4 +1,4 @@
-# Fortnite Data Repository
+# Fortnite Data Archive
 
 Fortnite data obtained from [FortniteAPI.io](https://fortniteapi.io/)
 
