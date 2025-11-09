@@ -1,0 +1,4253 @@
+{
+  "result": true,
+  "lang": "en",
+  "season": 33,
+  "bundles": [
+    {
+      "tag": null,
+      "name": "",
+      "colorData": null,
+      "bundles": [
+        {
+          "id": "MissionBundle_S33_Week_00",
+          "name": "Week 0 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_Weekly_W00_Q01",
+              "name": "Crack opponent's shields at Nightshift Forest, Magic Mosses, or Rolling Blossoms Farm",
+              "description": "Ready to engage.",
+              "shortDescription": "Crack opponent's shields at Nightshift Forest, Magic Mosses, or Rolling Blossoms Farm",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W00_Q02",
+              "name": "Eliminate an opponent with the Suppressed Pistol",
+              "description": "They'll never hear you coming.",
+              "shortDescription": "Eliminate an opponent with the Suppressed Pistol",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W00_Q03",
+              "name": "Collect Boons",
+              "description": "This Island offers a new kind of power...",
+              "shortDescription": "Collect Boons",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W00_Q04",
+              "name": "Search different types of containers",
+              "description": "What magic awaits inside?",
+              "shortDescription": "Search different types of containers",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 4,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W00_Q05",
+              "name": "Collect weapons from eliminated players",
+              "description": "They won't be needing that.",
+              "shortDescription": "Collect weapons from eliminated players",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W00_Suppressed01",
+              "name": "Headshot enemy players",
+              "description": "The head is the little part on top of the body.",
+              "shortDescription": "Headshot enemy players",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W00_Suppressed02",
+              "name": "Collect ammo",
+              "description": "They're like tiny little boons, in a way?",
+              "shortDescription": "Collect ammo",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S33_Week_01",
+          "name": "Week 1 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_Weekly_W01_Q01",
+              "name": "Collect a Void Oni Mask in different matches",
+              "description": "",
+              "shortDescription": "Collect a Void Oni Mask in different matches",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W01_Q02",
+              "name": "Give weapons to an Earth Sprite",
+              "description": "",
+              "shortDescription": "Give weapons to an Earth Sprite",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W01_Q03",
+              "name": "Eliminate players with headshots",
+              "description": "",
+              "shortDescription": "Eliminate players with headshots",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W01_Q04",
+              "name": "Collect Epic or better weapons",
+              "description": "",
+              "shortDescription": "Collect Epic or better weapons",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 15,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W01_Q05",
+              "name": "Hit opponents with a melee weapon",
+              "description": "",
+              "shortDescription": "Hit opponents with a melee weapon",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 15,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W01_Suppressed01",
+              "name": "Eliminate opponents",
+              "description": "",
+              "shortDescription": "Eliminate opponents",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W01_Suppressed02",
+              "name": "Collect Common or Uncommon weapons",
+              "description": "",
+              "shortDescription": "Collect Common or Uncommon weapons",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 15,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S33_Week_02",
+          "name": "Week 2 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_Weekly_W02_Q01",
+              "name": "Destroy rocks with melee weapons",
+              "description": "",
+              "shortDescription": "Destroy rocks with melee weapons",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-17 19:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W02_Q02",
+              "name": "Collect ammo while you have a specialist hired",
+              "description": "",
+              "shortDescription": "Collect ammo while you have a specialist hired",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-17 19:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 100,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W02_Q03",
+              "name": "Travel distance while swimming",
+              "description": "",
+              "shortDescription": "Travel distance while swimming",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-17 19:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 250,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W02_Q04",
+              "name": "Headshot players before the first Storm Circle closes",
+              "description": "",
+              "shortDescription": "Headshot players before the first Storm Circle closes",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-17 19:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W02_Q05",
+              "name": "Eliminate an opponent with the Typhoon Blade in different matches",
+              "description": "",
+              "shortDescription": "Eliminate an opponent with the Typhoon Blade in different matches",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-17 19:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W02_suppressed01",
+              "name": "Collect Mythic items",
+              "description": "",
+              "shortDescription": "Collect Mythic items",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-17 19:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W02_suppressed02",
+              "name": "Gain shields",
+              "description": "",
+              "shortDescription": "Gain shields",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-17 19:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 200,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S33_Week_03",
+          "name": "Week 3 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_Weekly_W03_Q01",
+              "name": "Collect a Sprite and pick up a Boon in the same match",
+              "description": "",
+              "shortDescription": "Collect a Sprite and pick up a Boon in the same match",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-24 16:34:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W03_Q02",
+              "name": "Eliminate opponents with the Fire Oni Mask",
+              "description": "",
+              "shortDescription": "Eliminate opponents with the Fire Oni Mask",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-24 16:34:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W03_Q03",
+              "name": "Travel distance in Nightshift Forest",
+              "description": "",
+              "shortDescription": "Travel distance in Nightshift Forest",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-24 16:34:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W03_Q04",
+              "name": "Hit demons while in a vehicle",
+              "description": "",
+              "shortDescription": "Hit demons while in a vehicle",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-24 16:34:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W03_Q05",
+              "name": "Gain shields within 15 seconds of being damaged by an opponent",
+              "description": "",
+              "shortDescription": "Gain shields within 15 seconds of being damaged by an opponent",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-24 16:34:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 250,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W03_suppressed01",
+              "name": "Restore health",
+              "description": "",
+              "shortDescription": "Restore health",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-24 16:34:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 200,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W03_suppressed02",
+              "name": "Hit weakpoints with a pickaxe",
+              "description": "",
+              "shortDescription": "Hit weakpoints with a pickaxe",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-24 16:34:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 30,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S33_Week_04",
+          "name": "Week 4 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_Weekly_W04_Q01",
+              "name": "Hit an opponent with Typhoon Blade while on a motorcycle",
+              "description": "",
+              "shortDescription": "Hit an opponent with Typhoon Blade while on a motorcycle",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-31 16:24:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W04_Q02",
+              "name": "Travel distance through the air in a vehicle",
+              "description": "",
+              "shortDescription": "Travel distance through the air in a vehicle",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-31 16:24:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W04_Q03",
+              "name": "Damage opponents within 30 seconds of gliding",
+              "description": "",
+              "shortDescription": "Damage opponents within 30 seconds of gliding",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-31 16:24:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 250,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W04_Q04",
+              "name": "Damage opponents in Shogun's Arena",
+              "description": "",
+              "shortDescription": "Damage opponents in Shogun's Arena",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-31 16:24:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 300,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W04_Q05",
+              "name": "Reload weapons within 30 seconds after damaging an opponent",
+              "description": "",
+              "shortDescription": "Reload weapons within 30 seconds after damaging an opponent",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-31 16:24:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 30,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W04_suppressed01",
+              "name": "Survive Storm Circles",
+              "description": "",
+              "shortDescription": "Survive Storm Circles",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-31 16:24:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W04_suppressed02",
+              "name": "Destroy objects or structures",
+              "description": "",
+              "shortDescription": "Destroy objects or structures",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-31 16:24:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 40,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S33_Week_05",
+          "name": "Week 5 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_Weekly_W05_Q01",
+              "name": "Gain shields with Chug Splash, Chili Chug Splash, or Shield Kegs",
+              "description": "",
+              "shortDescription": "Gain shields with Chug Splash, Chili Chug Splash, or Shield Kegs",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-07 16:20:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 200,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W05_Q02",
+              "name": "Search chests at Magic Mosses",
+              "description": "",
+              "shortDescription": "Search chests at Magic Mosses",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-07 16:20:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W05_Q03",
+              "name": "Travel distance in vehicles",
+              "description": "",
+              "shortDescription": "Travel distance in vehicles",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-07 16:20:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 2500,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W05_Q04",
+              "name": "Damage opponents while aiming down sights",
+              "description": "",
+              "shortDescription": "Damage opponents while aiming down sights",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-07 16:20:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W05_Q05",
+              "name": "Collect items from eliminated demons",
+              "description": "",
+              "shortDescription": "Collect items from eliminated demons",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-07 16:20:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W05_suppressed01",
+              "name": "Outlast players",
+              "description": "",
+              "shortDescription": "Outlast players",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-07 16:20:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 75,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W05_suppressed02",
+              "name": "Search Chests",
+              "description": "",
+              "shortDescription": "Search Chests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-07 16:20:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 15,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S33_Week_06",
+          "name": "Week 6 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_Weekly_W06_Q01",
+              "name": "Damage opponents with a Stark Industries Energy Rifle",
+              "description": "",
+              "shortDescription": "Damage opponents with a Stark Industries Energy Rifle",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-14 23:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 750,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W06_Q02",
+              "name": "Visit [Iron Man Item Location] and [Iron Man Item Location 2]",
+              "description": "",
+              "shortDescription": "Eliminate players with Epic or better assault rifles",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-14 23:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W06_Q03",
+              "name": "Headshot players from above",
+              "description": "",
+              "shortDescription": "Land at Named Locations in different matches",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-14 23:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W06_Q04",
+              "name": "Collect [Marvel Weapon Group]",
+              "description": "",
+              "shortDescription": "Purchase items or services from characters or vending machines",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-14 23:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W06_Q05",
+              "name": "Damage opponents with Assault Rifles",
+              "description": "",
+              "shortDescription": "Damage opponents while in a vehicle",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-14 23:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 2000,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W06_suppressed01",
+              "name": "Collect rare or better items",
+              "description": "",
+              "shortDescription": "Collect rare or better items",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-14 23:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W06_suppressed02",
+              "name": "Gain shields",
+              "description": "",
+              "shortDescription": "Gain shields",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-14 23:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 250,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S33_Week_07",
+          "name": "Week 7 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_Weekly_W07_Q01",
+              "name": "Travel distance while airborne without a glider",
+              "description": "",
+              "shortDescription": "Collect an Oni Mask in different matches",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-22 07:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 1000,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W07_Q02",
+              "name": "Drive in different Named Locations in a single match",
+              "description": "",
+              "shortDescription": "Eliminate players with shotguns",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-22 07:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W07_Q03",
+              "name": "Search different types of containers",
+              "description": "",
+              "shortDescription": "Gain health or shields while you have a specialist",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-22 07:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 4,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W07_Q04",
+              "name": "Eliminate players beyond 50 meters",
+              "description": "",
+              "shortDescription": "Headshot players from combined distance",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-22 07:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W07_Q05",
+              "name": "Collect Mythic items from eliminated players",
+              "description": "",
+              "shortDescription": "Light campfires",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-22 07:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W07_suppressed01",
+              "name": "Destroy objects or structures",
+              "description": "",
+              "shortDescription": "Destroy objects or structures",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-22 07:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W07_suppressed02",
+              "name": "Outlast players",
+              "description": "",
+              "shortDescription": "Outlast players",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-22 07:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 200,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S33_Week_08",
+          "name": "Week 8 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_Weekly_W08_Q01",
+              "name": "Land a trick at different Named Locations in a single match",
+              "description": "",
+              "shortDescription": "Hit opponents with the Typhoon Blade without taking damage",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-28 16:18:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W08_Q02",
+              "name": "Collect items from eliminated Bosses or Henchmen",
+              "description": "",
+              "shortDescription": "Restore health or gain shields using Water Sprites",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-28 16:18:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W08_Q03",
+              "name": "Hide in dumpsters or Port-O-Potties within 30 seconds of damaging an opponent",
+              "description": "",
+              "shortDescription": "Headshot players from above",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-28 16:18:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W08_Q04",
+              "name": "Accept Shadow Briefings",
+              "description": "",
+              "shortDescription": "Search containers at Canyon Crossing",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-28 16:18:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W08_Q05",
+              "name": "Use Ascenders, Zip Lines, or Grind Rails in different matches",
+              "description": "",
+              "shortDescription": "Travel distance within 15 seconds of being damaged by an opponent",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-28 16:18:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W08_suppressed01",
+              "name": "Search Chests",
+              "description": "",
+              "shortDescription": "Search Chests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-28 16:18:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 15,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W08_suppressed02",
+              "name": "Survive Storm Circles",
+              "description": "",
+              "shortDescription": "Survive Storm Circles",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-28 16:18:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S33_Week_09",
+          "name": "Week 9 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_Weekly_W09_Q01",
+              "name": "Damage Demon Warriors or Shogun X",
+              "description": "",
+              "shortDescription": "Damage Demon Warriors or Shogun X",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-04 16:10:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 750,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W09_Q02",
+              "name": "Destroy objects at Twinkle Terrace",
+              "description": "",
+              "shortDescription": "Destroy objects at Twinkle Terrace",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-04 16:10:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W09_Q03",
+              "name": "Spend bars",
+              "description": "",
+              "shortDescription": "Spend bars",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-04 16:10:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W09_Q04",
+              "name": "Reach 10 players remaining",
+              "description": "",
+              "shortDescription": "Reach 10 players remaining",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-04 16:10:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W09_Q05",
+              "name": "Visit Landmarks in different matches",
+              "description": "",
+              "shortDescription": "Visit Landmarks in different matches",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-04 16:10:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W09_suppressed01",
+              "name": "Hit weakpoints with a pickaxe",
+              "description": "",
+              "shortDescription": "Hit weakpoints with a pickaxe",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-04 16:10:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W09_suppressed02",
+              "name": "Restore health",
+              "description": "",
+              "shortDescription": "Restore health",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-04 16:10:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 200,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S33_Week_10",
+          "name": "Week 10 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_Weekly_W10_Q01",
+              "name": "Complete a Train Heist or capture a Storm Forecast Tower",
+              "description": "",
+              "shortDescription": "Complete a Train Heist or capture a Storm Forecast Tower",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-11 23:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 15,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W10_Q02",
+              "name": "Damage opponents while you have a specialist hired",
+              "description": "",
+              "shortDescription": "Damage opponents while you have a specialist hired",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-11 23:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 1000000,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W10_Q03",
+              "name": "Boost distance without leaving the road",
+              "description": "",
+              "shortDescription": "Boost distance without leaving the road",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-11 23:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 25,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W10_Q04",
+              "name": "Damage opponents with Common or Uncommon weapons",
+              "description": "",
+              "shortDescription": "Damage opponents with Common or Uncommon weapons",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-11 23:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W10_Q05",
+              "name": "Collect ammo from eliminated opponents",
+              "description": "",
+              "shortDescription": "Collect ammo from eliminated opponents",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-11 23:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 30,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W10_suppressed01",
+              "name": "Travel distance in vehicles",
+              "description": "",
+              "shortDescription": "Travel distance in vehicles",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-11 23:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 300,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W10_suppressed02",
+              "name": "Collect Rare items",
+              "description": "",
+              "shortDescription": "Collect Rare items",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-11 23:45:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 4,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S33_Week_11",
+          "name": "Week 11 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_Weekly_W11_Q01",
+              "name": "Hit headshots while airborne",
+              "description": "[Placeholder Flavor Text]",
+              "shortDescription": "Hit headshots while airborne",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W11_Q02",
+              "name": "Gain health or shields while you have a Medic specialist",
+              "description": "[Placeholder Flavor Text]",
+              "shortDescription": "Gain health or shields while you have a Medic specialist",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 50,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W11_Q03",
+              "name": "Destroy Supply Drones at Hot Spots",
+              "description": "[Placeholder Flavor Text]",
+              "shortDescription": "Destroy Supply Drones at Hot Spots",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W11_Q04",
+              "name": "Damage opponents with SMGs",
+              "description": "[Placeholder Flavor Text]",
+              "shortDescription": "Damage opponents with SMGs",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 750,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W11_Q05",
+              "name": "Spend bars",
+              "description": "[Placeholder Flavor Text]",
+              "shortDescription": "Spend bars",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 750,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W11_suppressed01",
+              "name": "Collect Common or Uncommon weapons",
+              "description": "[Placeholder Flavor Text]",
+              "shortDescription": "Collect Common or Uncommon weapons",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Weekly_W11_suppressed02",
+              "name": "Eliminate opponents",
+              "description": "[Placeholder Flavor Text]",
+              "shortDescription": "Eliminate opponents",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_CompleteSeason",
+          "name": "Bonus Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Weekly Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_S33_CompleteSeason_01",
+              "name": "Complete Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 4,
+              "tags": [],
+              "reward": {
+                "xp": 40000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_FollowCreator",
+          "name": "Daily Discover",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "PrimaryColor": "#1D1D37",
+            "SecondaryColor": "#000000",
+            "AccentColor": "#FFE81F",
+            "Context_LimitedTimeColor": "#FFFFFF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_DailyCreative_FollowCreator",
+              "name": "Favorite a Creator from their Creator Page",
+              "description": "",
+              "shortDescription": "Favorite a Creator from their Creator Page",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_FoundQuests_BatterBoi",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_BatterBoi_Completed_Hidden",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_FoundQuests_Shell",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "PlaySpace_EncounterQuest_Shell_01",
+              "name": "Help Ryūji at The Great Turtle",
+              "description": "",
+              "shortDescription": "Help Ryūji at The Great Turtle",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_Kickstart",
+          "name": "Kickstart",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "PrimaryColor": "#1D1D37",
+            "SecondaryColor": "#000000",
+            "AccentColor": "#FFE81F",
+            "Context_LimitedTimeColor": "#FFFFFF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_Kickstart_Q01",
+              "name": "Perform Wall Scrambles by jumping while running towards a wall",
+              "description": "PARKOUR! - Hope",
+              "shortDescription": "Perform Wall Scrambles by jumping while running towards a wall",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 15000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Kickstart_Q02",
+              "name": "Perform Roll Landings by holding the jump button before landing",
+              "description": "Show me what you can do, hotshot. - Hope",
+              "shortDescription": "Perform Roll Landings by holding the jump button before landing",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 15000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Kickstart_Q03",
+              "name": "Perform Ledge Jumps by jumping near the edge of a ledge while sprinting",
+              "description": "Now, this takes a little finesse... - Hope",
+              "shortDescription": "Perform Ledge Jumps by jumping near the edge of a ledge while sprinting",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 15000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Kickstart_Q04",
+              "name": "Perform Wall Kicks by jumping near walls",
+              "description": "Let's kick it up a notch! - Hope",
+              "shortDescription": "Perform Wall Kicks by jumping near walls",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 15000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Kickstart_Q05",
+              "name": "Use a Sprite Shrine to reveal nearby Sprites in different matches",
+              "description": "There are lots of Sprites on this Island! Here's how you can track them down. - Hope",
+              "shortDescription": "Use a Sprite Shrine to reveal nearby Sprites in different matches",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 15000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Kickstart_Q06",
+              "name": "Catch different Sprites in a single match",
+              "description": "Time to make some new friends! - Hope",
+              "shortDescription": "Catch different Sprites in a single match",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 15000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Kickstart_Q07",
+              "name": "Return Sprites to a Sprite Shrine to receive a Boon",
+              "description": "This Island is full of wonders. - Hope",
+              "shortDescription": "Return Sprites to a Sprite Shrine to receive a Boon",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 15000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Kickstart_Q08",
+              "name": "Search Typhoon Blade Stands or Elemental Chest",
+              "description": "Keep an eye out for these. They've got useful loot. - Hope",
+              "shortDescription": "Search Typhoon Blade Stands or Elemental Chest",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 15000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Kickstart_Q09",
+              "name": "Damage opponents with Typhoon Blade",
+              "description": "These blades... Kendo has told me a lot about them. - Hope",
+              "shortDescription": "Damage opponents with Typhoon Blade",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 1000,
+              "tags": [],
+              "reward": {
+                "xp": 15000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Kickstart_Q10",
+              "name": "Teleport with Void Oni Mask or Hit an opponent with Fire Oni Mask",
+              "description": "I have to admit, I'm curious about these things... - Hope",
+              "shortDescription": "Teleport with Void Oni Mask or Hit an opponent with Fire Oni Mask",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 9,
+              "tags": [],
+              "reward": {
+                "xp": 15000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Kickstart_Suppressed_01",
+              "name": "Visit Pumped Power, Nightshift Forest, and Masked Meadows",
+              "description": "Time for a little Island tour... - Hope",
+              "shortDescription": "Visit Pumped Power, Nightshift Forest, and Masked Meadows",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 15000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Kickstart_Suppressed_02",
+              "name": "Damage opponents with Oni Shotgun or Surgefire SMG",
+              "description": "Get yourself acclimated with local weaponry. - Hope",
+              "shortDescription": "Damage opponents with Oni Shotgun or Surgefire SMG",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 1000,
+              "tags": [],
+              "reward": {
+                "xp": 15000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_MobileQuests",
+          "name": "Bonus Goals (Bundle def)",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_MobileQuests_01",
+              "name": "",
+              "description": "",
+              "shortDescription": "Earn XP on PC or in the Fortnite App on iOS (in the EU) or Android (Globally)",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 25000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_MobileQuests_02",
+              "name": "",
+              "description": "",
+              "shortDescription": "Earn XP on PC or in the Fortnite App on iOS (in the EU) or Android (Globally)",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 50000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_MobileQuests_03",
+              "name": "",
+              "description": "",
+              "shortDescription": "Earn XP on PC or in the Fortnite App on iOS (in the EU) or Android (Globally)",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 75000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_MobileQuests_04",
+              "name": "",
+              "description": "",
+              "shortDescription": "Earn XP on PC or in the Fortnite App on iOS (in the EU) or Android (Globally)",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 100000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_MobileQuest_Granter_02",
+              "name": "previous Fortnite Mobile App Quests",
+              "description": "",
+              "shortDescription": "previous Fortnite Mobile App Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_MobileQuest_Granter_03",
+              "name": "previous Fortnite Mobile App Quests",
+              "description": "",
+              "shortDescription": "previous Fortnite Mobile App Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_MobileQuest_Granter_04",
+              "name": "previous Fortnite Mobile App Quests",
+              "description": "",
+              "shortDescription": "previous Fortnite Mobile App Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_MobileQuests_PunchCard",
+          "name": "Mobile Quest XP Bonus Goals (Bonus Bundle)",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Fortnite Mobile App Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_S33_MobileQuests_Goal_01",
+              "name": "",
+              "description": "",
+              "shortDescription": "Complete 1 Fortnite Mobile App Quest",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Wrap_ExcitedCyan",
+                    "type": {
+                      "id": "wrap",
+                      "name": "Wrap"
+                    },
+                    "name": "Tactical Kat",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/71bb5d75f15f1137a19f8dbbbd3712f5/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/71bb5d75f15f1137a19f8dbbbd3712f5/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/71bb5d75f15f1137a19f8dbbbd3712f5/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/71bb5d75f15f1137a19f8dbbbd3712f5/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_MobileQuests_Goal_02",
+              "name": "",
+              "description": "",
+              "shortDescription": "Complete Part 2 Fortnite Mobile App Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Pickaxe_ExcitedCyan",
+                    "type": {
+                      "id": "pickaxe",
+                      "name": "Pickaxes"
+                    },
+                    "name": "Kat Claws",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/1e0ef86def9011dc01d34bc21b1be14e/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/1e0ef86def9011dc01d34bc21b1be14e/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/1e0ef86def9011dc01d34bc21b1be14e/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/1e0ef86def9011dc01d34bc21b1be14e/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_MobileQuests_Goal_03",
+              "name": "",
+              "description": "",
+              "shortDescription": "Complete 3 Fortnite Mobile App Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_MobileQuests_Goal_04",
+              "name": "",
+              "description": "",
+              "shortDescription": "Complete 4 Fortnite Mobile App Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 4,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_MobileSproutQuests",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S33_MobileSproutQuests_01",
+              "name": "",
+              "description": "",
+              "shortDescription": "Earn XP in the Fortnite App on iOS (in the EU) or Android (Globally)",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-13 07:46:19+00:00",
+              "parentQuest": null,
+              "progressTotal": 100000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_MobileSproutQuests_PunchCard",
+          "name": "Mobile Quest XP Bonus Goals (Bonus Bundle)",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "FORTNITE MOBILE APP Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_S33_MobileSproutQuests_Goal_01",
+              "name": "",
+              "description": "",
+              "shortDescription": "Complete the Fortnite Mobile App Quest",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-13 07:46:19+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Character_WonderClef",
+                    "type": {
+                      "id": "outfit",
+                      "name": "Outfit"
+                    },
+                    "name": "Chord Kahele",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/553e779896a72e75bbaa55444bb584ab/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/553e779896a72e75bbaa55444bb584ab/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/553e779896a72e75bbaa55444bb584ab/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/553e779896a72e75bbaa55444bb584ab/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_NexusBP",
+          "name": "Midseason Character Bundle 1",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Bonus Goals - Battle Pass",
+          "quests": [
+            {
+              "id": "Quest_S33_NexusBP_Q01",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 30,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_NexusBP_Q02",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 27,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_NexusBP_Q03",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 24,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_NexusBP_Q04",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 21,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_NexusBP_Q05",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 18,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_NexusBP_Q06",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 15,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_NexusBP_Q07",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 12,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_NexusBP_Q08",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 9,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_NexusBP_Q09",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 6,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_NexusBP_Q10",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_Ranked_BR_Punchcard",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Ranked Battle Royale Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_S33_Ranked_BonusGoal_01",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Backpack_RankedRube",
+                    "type": {
+                      "id": "backpack",
+                      "name": "BackBling"
+                    },
+                    "name": "Ranking Ronin",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/5c28db11a2f8c55625b542daf8dc2c19/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/5c28db11a2f8c55625b542daf8dc2c19/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/5c28db11a2f8c55625b542daf8dc2c19/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/5c28db11a2f8c55625b542daf8dc2c19/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Ranked_BonusGoal_02",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 4,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "BRS33_Helmut",
+                    "type": {
+                      "id": "bannertoken",
+                      "name": "BANNER"
+                    },
+                    "name": "Banner Icon",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/9f047ca2f70c3f70326ce8f9fea02199/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/9f047ca2f70c3f70326ce8f9fea02199/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/9f047ca2f70c3f70326ce8f9fea02199/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/9f047ca2f70c3f70326ce8f9fea02199/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Ranked_BonusGoal_03",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 6,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_S33_Eye",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "Watch Carefully",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/765e12828ae37c4a2d545b52b0b55bb7/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/765e12828ae37c4a2d545b52b0b55bb7/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/765e12828ae37c4a2d545b52b0b55bb7/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/765e12828ae37c4a2d545b52b0b55bb7/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Ranked_BonusGoal_04",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 8,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_RankedCubicVice",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "The Warrior",
+                    "rarity": {
+                      "id": "Epic",
+                      "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/e1ba0e37921fc67aaa8cfdb5528739a6/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/e1ba0e37921fc67aaa8cfdb5528739a6/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/e1ba0e37921fc67aaa8cfdb5528739a6/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/e1ba0e37921fc67aaa8cfdb5528739a6/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Ranked_BonusGoal_05",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 12,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "LoadingScreen_33Ranked",
+                    "type": {
+                      "id": "loadingscreen",
+                      "name": "Loading Screen"
+                    },
+                    "name": "Lanterns of the Dragon",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/1a9ff9e6b53f8690c5ab1b9b59bf727a/transparent.png",
+                      "featured": "https://media.fortniteapi.io/images/1a9ff9e6b53f8690c5ab1b9b59bf727a/full_featured.png",
+                      "background": "https://media.fortniteapi.io/images/cosmetics/1a9ff9e6b53f8690c5ab1b9b59bf727a/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/1a9ff9e6b53f8690c5ab1b9b59bf727a/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/1a9ff9e6b53f8690c5ab1b9b59bf727a/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Ranked_BonusGoal_06",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 16,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_S33_FishBones",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "Floppy Bones",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/f75507177042389bc216da90655ef4fd/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/f75507177042389bc216da90655ef4fd/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/f75507177042389bc216da90655ef4fd/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/f75507177042389bc216da90655ef4fd/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Ranked_BonusGoal_07",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 20,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_RankedIronLilac",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "The Shadow",
+                    "rarity": {
+                      "id": "Epic",
+                      "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/0eac0d997e874516bcc1d25d535070bf/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/0eac0d997e874516bcc1d25d535070bf/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/0eac0d997e874516bcc1d25d535070bf/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/0eac0d997e874516bcc1d25d535070bf/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Ranked_BonusGoal_08",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 30,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_S33_Skull",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "Burn to Compete",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/3e96cb84f9e8d97cf59ecab6f063fa16/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/3e96cb84f9e8d97cf59ecab6f063fa16/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/3e96cb84f9e8d97cf59ecab6f063fa16/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/3e96cb84f9e8d97cf59ecab6f063fa16/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Ranked_BonusGoal_09",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 40,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "BRS33_Skull",
+                    "type": {
+                      "id": "bannertoken",
+                      "name": "BANNER"
+                    },
+                    "name": "Banner Icon",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/7708c9222ea2fdf44aed5975e25f9e52/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/7708c9222ea2fdf44aed5975e25f9e52/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/7708c9222ea2fdf44aed5975e25f9e52/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/7708c9222ea2fdf44aed5975e25f9e52/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Ranked_BonusGoal_10",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 50,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_RankedRoseDepth",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "The Captain",
+                    "rarity": {
+                      "id": "Epic",
+                      "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/57cd24f74e35f70632ff0fbfb4c43acc/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/57cd24f74e35f70632ff0fbfb4c43acc/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/57cd24f74e35f70632ff0fbfb4c43acc/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/57cd24f74e35f70632ff0fbfb4c43acc/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Ranked_BonusGoal_11",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 60,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_S33_Star",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "You're a Star",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/22453338fd7f12b12305f5c75b7b2eed/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/22453338fd7f12b12305f5c75b7b2eed/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/22453338fd7f12b12305f5c75b7b2eed/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/22453338fd7f12b12305f5c75b7b2eed/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Ranked_BonusGoal_12",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 70,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_RankedMistMylar",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "The Mask Maker",
+                    "rarity": {
+                      "id": "Epic",
+                      "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/55dcead223b43c654357fb072f3a39e8/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/55dcead223b43c654357fb072f3a39e8/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/55dcead223b43c654357fb072f3a39e8/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/55dcead223b43c654357fb072f3a39e8/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S33_Ranked_BonusGoal_13",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 80,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Pickaxe_RankedRube",
+                    "type": {
+                      "id": "pickaxe",
+                      "name": "Pickaxes"
+                    },
+                    "name": "Trident of Excellence",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/c57e2ad27b6b2d053826cdb85d589d39/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/c57e2ad27b6b2d053826cdb85d589d39/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/c57e2ad27b6b2d053826cdb85d589d39/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/c57e2ad27b6b2d053826cdb85d589d39/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "Questbundle_S33_Story_Ally",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Quests",
+          "quests": [
+            {
+              "id": "quest_S33_story_ally_granter",
+              "name": "the Spirit Realm Story",
+              "description": "",
+              "shortDescription": "the Spirit Realm Story",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-02-04 16:10:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_ally_ph",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_ally_q01",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "Questbundle_S33_Story_Confrontation",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Quests",
+          "quests": [
+            {
+              "id": "quest_S33_story_confrontation_granter",
+              "name": "the Confrontation Story",
+              "description": "",
+              "shortDescription": "the Confrontation Story",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2025-01-14 23:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_confrontation_ph",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_confrontation_q01",
+              "name": "Speak to Kendo about Hope",
+              "description": "I think all of this is connected. And the comet is at the center of all of it.",
+              "shortDescription": "Speak to Kendo about Hope",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "Questbundle_S33_Story_Maker",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Quests",
+          "quests": [
+            {
+              "id": "quest_S33_story_maker_granter",
+              "name": "the Mask Maker Story",
+              "description": "",
+              "shortDescription": "the Mask Maker Story",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_maker_q01",
+              "name": "Speak to Kendo about Daigo's use of dark magic",
+              "description": "Jade is missing... and I believe my brother Daigo knows more than he's saying.",
+              "shortDescription": "Speak to Kendo about Daigo's use of dark magic",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_maker_q02",
+              "name": "Look into the Portal to find Jade",
+              "description": "Sometimes I glimpse Jade on the other side of that portal. But I must be seeing things",
+              "shortDescription": "Look into the Portal to find Jade",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_maker_q03",
+              "name": "Locate Daigo’s underground Hidden Workshop",
+              "description": "My brother has a workshop at The Thousand Faces. Find out what he's done.",
+              "shortDescription": "Locate Daigo’s underground Hidden Workshop",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_maker_q03b",
+              "name": "Investigate Daigo’s Hidden Workshop",
+              "description": "What is my brother up to? And what does it have to do with what happened to Jade?",
+              "shortDescription": "Investigate Daigo’s Hidden Workshop",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_maker_q03_hidden_01",
+              "name": "Investigate a Sprite cage",
+              "description": "FLAVOR TEXT",
+              "shortDescription": "Investigate a Sprite cage",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_maker_q03_hidden_02",
+              "name": "Confront Daigo",
+              "description": "FLAVOR TEXT",
+              "shortDescription": "Confront Daigo",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_maker_q03_hidden_03",
+              "name": "Investigate the Mask of Power",
+              "description": "FLAVOR TEXT",
+              "shortDescription": "Investigate the Mask of Power",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_maker_q04",
+              "name": "Collect a Fire Oni Mask or Void Oni Mask",
+              "description": "I need to understand Daigo's masks. The power within them.",
+              "shortDescription": "Collect a Fire Oni Mask or Void Oni Mask",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_maker_q05",
+              "name": "Decide to use the Mask or rid yourself of it",
+              "description": "It is your choice, whether to embrace dark power or spurn it. I know what I choose.",
+              "shortDescription": "Decide to use the Mask or rid yourself of it",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_maker_q06",
+              "name": "Return to Kendo",
+              "description": "We should speak. About Jade, and... about what comes next.",
+              "shortDescription": "Return to Kendo",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "Questbundle_S33_Story_Meeting",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::Manually",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Quests",
+          "quests": [
+            {
+              "id": "quest_S33_story_meeting_hidden",
+              "name": "Investigate locations to learn about the return of magic.",
+              "description": "",
+              "shortDescription": "Investigate locations to learn about the return of magic.",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_meeting_q01",
+              "name": "Speak to Kendo about the invading demons",
+              "description": "Newcomer! If you're wandering this Island, there are things you should know for your safety.",
+              "shortDescription": "Speak to Kendo about the invading demons",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_meeting_q02",
+              "name": "Damage demons",
+              "description": "Demons are attacking any innocent who crosses their paths. We must defend the Island.",
+              "shortDescription": "Damage demons",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 350,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_meeting_q03",
+              "name": "Place Spirit Charms to learn about magic",
+              "description": "I've met another stranger, named Hope, who is eager to learn more about magic.",
+              "shortDescription": "Place Spirit Charms to learn about magic",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_meeting_q04",
+              "name": "Collect Residual Essence around Warrior's Watch, Demon's Dojo, or Shogun's Solitude",
+              "description": "If we can gather samples of essence from demons, we can learn more about their nature.",
+              "shortDescription": "Collect Residual Essence around Warrior's Watch, Demon's Dojo, or Shogun's Solitude",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_meeting_q05",
+              "name": "Eliminate demons to collect Fresh Essence",
+              "description": "Gather some essence fresh from the source. That might be potent enough.",
+              "shortDescription": "Eliminate demons to collect Fresh Essence",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_S33_story_meeting_q06",
+              "name": "Give Hope the collected Essence",
+              "description": "Bring this to Hope. It will aid her in discovering more about the emergence of magic.",
+              "shortDescription": "Give Hope the collected Essence",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_WeaponExpertise",
+          "name": "Expertise",
+          "unlockType": "EChallengeBundleQuestUnlockType::Manually",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "PrimaryColor": "#1D1D37",
+            "SecondaryColor": "#000000",
+            "AccentColor": "#FFE81F",
+            "Context_LimitedTimeColor": "#FFFFFF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "quest_s33_weaponexpertise_assaultrifle_complete_01",
+              "name": "Talk to Hope about Assault Rifle Expertise",
+              "description": "You did good work. Come see me.",
+              "shortDescription": "Talk to Hope about Assault Rifle Expertise",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_assaultrifle_complete_02",
+              "name": "Purchase a legendary assault rifle from Hope",
+              "description": "You're officially what we call an Expert, and that's got perks.",
+              "shortDescription": "Purchase a legendary assault rifle from Hope",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_assaultrifle_hiddengranter",
+              "name": "Assault Expertise - Hidden Granter Quest",
+              "description": "",
+              "shortDescription": "Assault Expertise - Hidden Granter Quest",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 100,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_assault_01",
+              "name": "Damage players with assault rifles",
+              "description": "Let's start with the basics.",
+              "shortDescription": "Damage players with assault rifles",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 15000,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_assault_02",
+              "name": "Deal headshot damage to players with assault rifles",
+              "description": "Alright, how about some headshots, hotshot?",
+              "shortDescription": "Deal headshot damage to players with assault rifles",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7500,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_assault_03",
+              "name": "Hit players with assault rifles in a single match",
+              "description": "Now for some more intermediate skills testing...",
+              "shortDescription": "Hit players with assault rifles in a single match",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 100,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_assault_04",
+              "name": "Eliminate players with assault rifles after reaching 10 players remaining",
+              "description": "We're getting to the top tier expertise here.",
+              "shortDescription": "Eliminate players with assault rifles after reaching 10 players remaining",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 50,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_assault_05",
+              "name": "Eliminate 5 players with assault rifles in a single match and win",
+              "description": "It's time. Show me you're an expert.",
+              "shortDescription": "Eliminate 5 players with assault rifles in a single match and win",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_masks_01",
+              "name": "Damage players with the Fire Oni Mask",
+              "description": "Demonstrate your capabilities. And don't bore me.",
+              "shortDescription": "Damage players with the Fire Oni Mask",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 10000,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_masks_02",
+              "name": "Damage players within 15 seconds of teleporting with a Void Oni Mask",
+              "description": "Embrace the cold duplicity of the void.",
+              "shortDescription": "Damage players within 15 seconds of teleporting with a Void Oni Mask",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 2500,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_masks_03",
+              "name": "Hit different players with the Fire Oni Mask in a single match",
+              "description": "Master the flames, if you can.",
+              "shortDescription": "Hit different players with the Fire Oni Mask in a single match",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_masks_04",
+              "name": "Eliminate players within 10 seconds of teleporting with a Void Oni Mask",
+              "description": "Master the void, or don't waste my time.",
+              "shortDescription": "Eliminate players within 10 seconds of teleporting with a Void Oni Mask",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_masks_05",
+              "name": "Down or Eliminate a player wearing a mask with a Fire Oni Mask",
+              "description": "The only worthwhile opponent, by my estimation.",
+              "shortDescription": "Down or Eliminate a player wearing a mask with a Fire Oni Mask",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_masks_complete_01",
+              "name": "Talk to Nyanja about Masks Expertise",
+              "description": "You know your way around these masks. Impressive.",
+              "shortDescription": "Talk to Nyanja about Masks Expertise",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_masks_complete_02",
+              "name": "Purchase a Mask from Nyanja",
+              "description": "Go do something cool with this. You've earned it.",
+              "shortDescription": "Purchase a Mask from Nyanja",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_masks_hiddengranter",
+              "name": "Mask Expertise - Hidden Granter Quest",
+              "description": "",
+              "shortDescription": "Mask Expertise - Hidden Granter Quest",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 100,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_shotgun_01",
+              "name": "Damage players with shotguns",
+              "description": "To have true expertise, you must have the breath of the dragon.",
+              "shortDescription": "Damage players with shotguns",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 10000,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_shotgun_02",
+              "name": "Hit players within 15 meters with shotguns 5 seconds after sprinting or sliding",
+              "description": "Be agile as a dragon's claw. Or perhaps its tail.",
+              "shortDescription": "Hit players within 15 meters with shotguns 5 seconds after sprinting or sliding",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 250,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_shotgun_03",
+              "name": "Hit different players with shotguns in a single match",
+              "description": "Practice. Practice. Practice.",
+              "shortDescription": "Hit different players with shotguns in a single match",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 15,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_shotgun_04",
+              "name": "Hit players with two shotgun blasts in 1 second or less",
+              "description": "Control your breath. Embrace your fire.",
+              "shortDescription": "Hit players with two shotgun blasts in 1 second or less",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 50,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_shotgun_05",
+              "name": "Eliminate 5 players with shotguns in a single match and win",
+              "description": "Test your might against the mighty, and unlock your true potential.",
+              "shortDescription": "Eliminate 5 players with shotguns in a single match and win",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_shotgun_complete_01",
+              "name": "Talk to Ryūji about Shotgun Expertise",
+              "description": "Come see me, warrior. You've proven yourself.",
+              "shortDescription": "Talk to Ryūji about Shotgun Expertise",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_shotgun_complete_02",
+              "name": "Purchase a legendary shotgun from Ryūji",
+              "description": "A true warrior deserves a true warrior's weapon.",
+              "shortDescription": "Purchase a legendary shotgun from Ryūji",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_shotgun_hiddengranter",
+              "name": "Shotgun Expertise - Hidden Granter Quest",
+              "description": "",
+              "shortDescription": "Shotgun Expertise - Hidden Granter Quest",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 100,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_smg_01",
+              "name": "Damage players with SMGs",
+              "description": "Let's hope you never need the training I'm about to give you.",
+              "shortDescription": "Damage players with SMGs",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 12500,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_smg_02",
+              "name": "Eliminate players with SMGs within 10 seconds of dealing damage with another weapon type",
+              "description": "Flexibility is the key to a firefight.",
+              "shortDescription": "Eliminate players with SMGs within 10 seconds of dealing damage with another weapon type",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 30,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_smg_03",
+              "name": "Hit players within 30 meters with SMGs in a single match",
+              "description": "You want to impress me? Take some risky shots.",
+              "shortDescription": "Hit players within 30 meters with SMGs in a single match",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 125,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_smg_04",
+              "name": "Hit players with 10 SMG shots in 3 seconds or less",
+              "description": "The key is focus. And, well, aim.",
+              "shortDescription": "Hit players with 10 SMG shots in 3 seconds or less",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 50,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_smg_05",
+              "name": "Eliminate 5 players with SMGs in a single match and win",
+              "description": "The real world doesn't let you know before a test, but I will. This time.",
+              "shortDescription": "Eliminate 5 players with SMGs in a single match and win",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_smg_complete_01",
+              "name": "Talk to Vengeance Jones about SMG Expertise",
+              "description": "Good work.",
+              "shortDescription": "Talk to Vengeance Jones about SMG Expertise",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_smg_complete_02",
+              "name": "Purchase a legendary SMG from Vengeance Jones",
+              "description": "I can't sell these to just anyone. Trust me.",
+              "shortDescription": "Purchase a legendary SMG from Vengeance Jones",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_smg_hiddengranter",
+              "name": "SMG Expertise - Hidden Granter Quest",
+              "description": "",
+              "shortDescription": "SMG Expertise - Hidden Granter Quest",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 100,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s33_weaponexpertise_tutorial_01",
+              "name": "Speak to Hope, Ryūji, or Vengeance Jones about Expertise and exclusive legendary weapon sales",
+              "description": "",
+              "shortDescription": "Speak to Hope, Ryūji, or Vengeance Jones about Expertise and exclusive legendary weapon sales",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 15000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_WeaponExpertise_Assault_PunchCard",
+          "name": "Kickstart",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "PrimaryColor": "#1D1D37",
+            "SecondaryColor": "#000000",
+            "AccentColor": "#FFE81F",
+            "Context_LimitedTimeColor": "#FFFFFF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Assault Rifle Expertise Bonus Goal",
+          "quests": [
+            {
+              "id": "quest_s33_weaponexpertise_assaultrifle_bonusgoal_01",
+              "name": "Complete Hope's Assault Rifle Expertise Quests",
+              "description": "",
+              "shortDescription": "Complete Hope's Assault Rifle Expertise Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_WeaponExpertise_Masks_PunchCard",
+          "name": "Kickstart",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "PrimaryColor": "#1D1D37",
+            "SecondaryColor": "#000000",
+            "AccentColor": "#FFE81F",
+            "Context_LimitedTimeColor": "#FFFFFF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Assault Rifle Expertise Bonus Goal",
+          "quests": [
+            {
+              "id": "quest_s33_weaponexpertise_masks_bonusgoal_01",
+              "name": "Complete Daigo's Mask Expertise Quests",
+              "description": "",
+              "shortDescription": "Complete Daigo's Mask Expertise Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_WeaponExpertise_Shotgun_PunchCard",
+          "name": "Kickstart",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "PrimaryColor": "#1D1D37",
+            "SecondaryColor": "#000000",
+            "AccentColor": "#FFE81F",
+            "Context_LimitedTimeColor": "#FFFFFF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Shotgun Expertise Bonus Goal",
+          "quests": [
+            {
+              "id": "quest_s33_weaponexpertise_shotgun_bonusgoal_01",
+              "name": "Complete Ryūji's Shotgun Expertise Quests",
+              "description": "",
+              "shortDescription": "Complete Ryūji's Shotgun Expertise Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S33_WeaponExpertise_SMG_PunchCard",
+          "name": "Kickstart",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "PrimaryColor": "#1D1D37",
+            "SecondaryColor": "#000000",
+            "AccentColor": "#FFE81F",
+            "Context_LimitedTimeColor": "#FFFFFF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "SMG Expertise Bonus Goal",
+          "quests": [
+            {
+              "id": "quest_s33_weaponexpertise_smg_bonusgoal_01",
+              "name": "Complete Vengeance Jones' SMG Expertise Quests",
+              "description": "",
+              "shortDescription": "Complete Vengeance Jones' SMG Expertise Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-12-11 07:45:37+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

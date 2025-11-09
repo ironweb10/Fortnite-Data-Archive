@@ -1,1 +1,95 @@
-# Fortnite-Data-Archive
+# Fortnite Data Repository
+
+Fortnite data obtained from [FortniteAPI.io](https://fortniteapi.io/)
+
+## 📊 Available Data
+
+### Battle Passes (35 seasons)
+- [Season 2](battlepasses/season_2.json)
+- [Season 3](battlepasses/season_3.json)
+- [Season 4](battlepasses/season_4.json)
+- [Season 5](battlepasses/season_5.json)
+- [Season 6](battlepasses/season_6.json)
+- [Season 7](battlepasses/season_7.json)
+- [Season 8](battlepasses/season_8.json)
+- [Season 9](battlepasses/season_9.json)
+- [Season 10](battlepasses/season_10.json)
+- [Season 11](battlepasses/season_11.json)
+- [Season 12](battlepasses/season_12.json)
+- [Season 13](battlepasses/season_13.json)
+- [Season 14](battlepasses/season_14.json)
+- [Season 15](battlepasses/season_15.json)
+- [Season 16](battlepasses/season_16.json)
+- [Season 17](battlepasses/season_17.json)
+- [Season 18](battlepasses/season_18.json)
+- [Season 19](battlepasses/season_19.json)
+- [Season 20](battlepasses/season_20.json)
+- [Season 21](battlepasses/season_21.json)
+- [Season 22](battlepasses/season_22.json)
+- [Season 23](battlepasses/season_23.json)
+- [Season 24](battlepasses/season_24.json)
+- [Season 25](battlepasses/season_25.json)
+- [Season 26](battlepasses/season_26.json)
+- [Season 27](battlepasses/season_27.json)
+- [Season 28](battlepasses/season_28.json)
+- [Season 29](battlepasses/season_29.json)
+- [Season 30](battlepasses/season_30.json)
+- [Season 31](battlepasses/season_31.json)
+- [Season 32](battlepasses/season_32.json)
+- [Season 33](battlepasses/season_33.json)
+- [Season 34](battlepasses/season_34.json)
+- [Season 35](battlepasses/season_35.json)
+- [Season 36](battlepasses/season_36.json)
+
+### Challenges (38 seasons)
+- [Season 1](challenges/season_1.json)
+- [Season 2](challenges/season_2.json)
+- [Season 3](challenges/season_3.json)
+- [Season 4](challenges/season_4.json)
+- [Season 5](challenges/season_5.json)
+- [Season 6](challenges/season_6.json)
+- [Season 7](challenges/season_7.json)
+- [Season 8](challenges/season_8.json)
+- [Season 9](challenges/season_9.json)
+- [Season 10](challenges/season_10.json)
+- [Season 11](challenges/season_11.json)
+- [Season 12](challenges/season_12.json)
+- [Season 13](challenges/season_13.json)
+- [Season 14](challenges/season_14.json)
+- [Season 15](challenges/season_15.json)
+- [Season 16](challenges/season_16.json)
+- [Season 17](challenges/season_17.json)
+- [Season 18](challenges/season_18.json)
+- [Season 19](challenges/season_19.json)
+- [Season 20](challenges/season_20.json)
+- [Season 21](challenges/season_21.json)
+- [Season 22](challenges/season_22.json)
+- [Season 23](challenges/season_23.json)
+- [Season 24](challenges/season_24.json)
+- [Season 25](challenges/season_25.json)
+- [Season 26](challenges/season_26.json)
+- [Season 27](challenges/season_27.json)
+- [Season 28](challenges/season_28.json)
+- [Season 29](challenges/season_29.json)
+- [Season 30](challenges/season_30.json)
+- [Season 31](challenges/season_31.json)
+- [Season 32](challenges/season_32.json)
+- [Season 33](challenges/season_33.json)
+- [Season 34](challenges/season_34.json)
+- [Season 35](challenges/season_35.json)
+- [Season 36](challenges/season_36.json)
+- [Season 37](challenges/season_37.json)
+- [Season 38](challenges/season_38.json)
+
+### Seasons Info
+- [Complete list of seasons](seasons/seasons_list.json)
+
+## 🔄 Updates
+
+The data is automatically updated every week via GitHub Actions.
+
+**Last update:** 2025-11-09
+
+## 📝 Data Source
+
+All data comes from [FortniteAPI.io](https://fortniteapi.io)

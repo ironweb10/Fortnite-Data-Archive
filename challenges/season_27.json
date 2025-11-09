@@ -1,0 +1,4395 @@
+{
+  "result": true,
+  "lang": "en",
+  "season": 27,
+  "bundles": [
+    {
+      "tag": "ChallengeCategory.Survivor",
+      "name": "Survivor Medals",
+      "colorData": {
+        "RGB1": "#FF0033AC",
+        "RGB2": "#FF00B3A7"
+      },
+      "image": "https://media.fortniteapi.io/images/displayAssets/T_UI_QuestBundle_Survivor_Llama.png",
+      "bundles": [
+        {
+          "id": "MissionBundle_S27_Survivor_Goal",
+          "name": "Survivor Medal Bonus Goals",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Survivor"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#FF00EE33",
+            "Context_LimitedTimeColor": "#FFCCF7FF",
+            "Context_BaseColor": "#FFFFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Survivor Medals",
+            "defaultHeaderName": ""
+          },
+          "header": "Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_s27_Survivor_R1_Goal",
+              "name": "Complete all Common Quests to earn the Common Prized Llama",
+              "description": "",
+              "shortDescription": "Complete all Common Quests to earn the Common Prized Llama",
+              "categoryHeader": "Survivor Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 6,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity01"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Backpack_LlamaNuggets",
+                    "type": {
+                      "id": "backpack",
+                      "name": "BackBling"
+                    },
+                    "name": "Prized Llama",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/1118ccfe6bebdd142633afbc4da7665e/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/1118ccfe6bebdd142633afbc4da7665e/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/1118ccfe6bebdd142633afbc4da7665e/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/1118ccfe6bebdd142633afbc4da7665e/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R2_Goal",
+              "name": "Complete all Uncommon Quests to earn the Uncommon Prized Llama",
+              "description": "Complete all Uncommon Quests to earn the Uncommon Prized Llama",
+              "shortDescription": "",
+              "categoryHeader": "Survivor Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 6,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Backbling_LlamaNuggets_StyleB",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Prized Llama (Uncommon)",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/aeda0777fdfade5dc6f2a4972d49e2ce/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/aeda0777fdfade5dc6f2a4972d49e2ce/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/aeda0777fdfade5dc6f2a4972d49e2ce/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/aeda0777fdfade5dc6f2a4972d49e2ce/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R3_Goal",
+              "name": "Complete all Rare Quests to earn the Rare Prized Llama",
+              "description": "Complete all Rare Quests to earn the Rare Prized Llama",
+              "shortDescription": "",
+              "categoryHeader": "Survivor Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 6,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity03"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Backbling_LlamaNuggets_StyleC",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Prized Llama (Rare)",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/720082d4a14fbe93ee77452e4d55de81/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/720082d4a14fbe93ee77452e4d55de81/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/720082d4a14fbe93ee77452e4d55de81/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/720082d4a14fbe93ee77452e4d55de81/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R4_Goal",
+              "name": "Complete all Epic Quests to earn the Epic Prized Llama",
+              "description": "Complete all Epic Quests to earn the Epic Prized Llama",
+              "shortDescription": "",
+              "categoryHeader": "Survivor Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 6,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity04"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Backbling_LlamaNuggets_StyleD",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Prized Llama (Epic)",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/00be5b7410b27419b8e130932097665a/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/00be5b7410b27419b8e130932097665a/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/00be5b7410b27419b8e130932097665a/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/00be5b7410b27419b8e130932097665a/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R5_Goal",
+              "name": "Complete all Legendary Quests to earn the Legendary Prized Llama",
+              "description": "Complete all Legendary Quests to earn the Legendary Prized Llama",
+              "shortDescription": "",
+              "categoryHeader": "Survivor Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 6,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity05"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Backbling_LlamaNuggets_StyleE",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Prized Llama (Legendary)",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/7aacb894f98d44b4940fe9fea5f0c31c/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/7aacb894f98d44b4940fe9fea5f0c31c/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/7aacb894f98d44b4940fe9fea5f0c31c/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/7aacb894f98d44b4940fe9fea5f0c31c/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R6_Goal",
+              "name": "Complete all Exotic Quests to earn the Exotic Prized Llama",
+              "description": "Complete all Exotic Quests to earn the Exotic Prized Llama",
+              "shortDescription": "",
+              "categoryHeader": "Survivor Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 6,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity06"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Backbling_LlamaNuggets_StyleF",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Prized Llama (Exotic)",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/a2f632f4591b98132468c310cf592fbf/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/a2f632f4591b98132468c310cf592fbf/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/a2f632f4591b98132468c310cf592fbf/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/a2f632f4591b98132468c310cf592fbf/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R7_Goal",
+              "name": "Complete all Mythic Quests to earn the Mythic Prized Llama",
+              "description": "Complete all Mythic Quests to earn the Mythic Prized Llama",
+              "shortDescription": "",
+              "categoryHeader": "Survivor Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity07"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Backbling_LlamaNuggets_StyleG",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Prized Llama (Mythic)",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/fc15fa5fa308cb9baf200cb2af3fc598/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/fc15fa5fa308cb9baf200cb2af3fc598/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/fc15fa5fa308cb9baf200cb2af3fc598/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/fc15fa5fa308cb9baf200cb2af3fc598/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S27_Survivor_R1",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Survivor"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#FF00EE33",
+            "Context_LimitedTimeColor": "#FFCCF7FF",
+            "Context_BaseColor": "#FFFFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Survivor Medals",
+            "defaultHeaderName": ""
+          },
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_s27_Survivor_R1_Q05",
+              "name": "Common 6 - Reach 30 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Common 6 - Reach 30 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity01.Tier05",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R1_Q06",
+              "name": "Common 5 - Reach 28 players remaining with an elimination",
+              "description": "Common 5 - Reach 28 players remaining with an elimination",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity01.Tier06",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R1_Q07",
+              "name": "Common 4 - Reach 26 players remaining with an elimination",
+              "description": "Common 4 - Reach 26 players remaining with an elimination",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity01.Tier07",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R1_Q08",
+              "name": "Common 3 - Reach 24 players remaining with an elimination",
+              "description": "Common 3 - Reach 24 players remaining with an elimination",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity01.Tier08",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R1_Q09",
+              "name": "Common 2 - Reach 22 players remaining with an elimination",
+              "description": "Common 2 - Reach 22 players remaining with an elimination",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity01.Tier09",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R1_Q10",
+              "name": "Common 1 - Reach 20 players remaining with an elimination",
+              "description": "Common 1 - Reach 20 players remaining with an elimination",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity01.Tier10",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S27_Survivor_R2",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Survivor"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#FF00EE33",
+            "Context_LimitedTimeColor": "#FFCCF7FF",
+            "Context_BaseColor": "#FFFFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Survivor Medals",
+            "defaultHeaderName": ""
+          },
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_s27_Survivor_R2_Q05",
+              "name": "Uncommon 6 - Reach 22 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Uncommon 6 - Reach 22 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity02.Tier05",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R2_Q06",
+              "name": "Uncommon 5 - Reach 20 players remaining with an elimination",
+              "description": "Uncommon 5 - Reach 20 players remaining with an elimination",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity02.Tier06",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R2_Q07",
+              "name": "Uncommon 4 - Reach 18 players remaining with an elimination",
+              "description": "Uncommon 4 - Reach 18 players remaining with an elimination",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity02.Tier07",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R2_Q08",
+              "name": "Uncommon 3 - Reach 16 players remaining with an elimination",
+              "description": "Uncommon 3 - Reach 16 players remaining with an elimination",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity02.Tier08",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R2_Q09",
+              "name": "Uncommon 2 - Reach 14 players remaining with an elimination",
+              "description": "Uncommon 2 - Reach 14 players remaining with an elimination",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity02.Tier09",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R2_Q10",
+              "name": "Uncommon 1 - Reach 12 players remaining with an elimination",
+              "description": "Uncommon 1 - Reach 12 players remaining with an elimination",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity02.Tier10",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S27_Survivor_R3",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Survivor"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#FF00EE33",
+            "Context_LimitedTimeColor": "#FFCCF7FF",
+            "Context_BaseColor": "#FFFFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Survivor Medals",
+            "defaultHeaderName": ""
+          },
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_s27_Survivor_R3_Q05",
+              "name": "Rare 6 - Reach 22 players remaining with 2 eliminations",
+              "description": "",
+              "shortDescription": "Rare 6 - Reach 22 players remaining with 2 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity03.Tier05",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R3_Q06",
+              "name": "Rare 5 - Reach 20 players remaining with 2 eliminations",
+              "description": "Rare 5 - Reach 20 players remaining with 2 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity03.Tier06",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R3_Q07",
+              "name": "Rare 4 - Reach 18 players remaining with 2 eliminations",
+              "description": "Rare 4 - Reach 18 players remaining with 2 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity03.Tier07",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R3_Q08",
+              "name": "Rare 3 - Reach 16 players remaining with 2 eliminations",
+              "description": "Rare 3 - Reach 16 players remaining with 2 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity03.Tier08",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R3_Q09",
+              "name": "Rare 2 - Reach 14 players remaining with 2 eliminations",
+              "description": "Rare 2 - Reach 14 players remaining with 2 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity03.Tier09",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R3_Q10",
+              "name": "Rare 1 - Reach 12 players remaining with 2 eliminations",
+              "description": "Rare 1 - Reach 12 players remaining with 2 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity03.Tier10",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S27_Survivor_R4",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Survivor"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#FF00EE33",
+            "Context_LimitedTimeColor": "#FFCCF7FF",
+            "Context_BaseColor": "#FFFFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Survivor Medals",
+            "defaultHeaderName": ""
+          },
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_s27_Survivor_R4_Q05",
+              "name": "Epic 6 - Reach 12 players remaining with 3 eliminations",
+              "description": "",
+              "shortDescription": "Epic 6 - Reach 12 players remaining with 3 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity04.Tier05",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R4_Q06",
+              "name": "Epic 5 - Reach 10 players remaining with 3 eliminations",
+              "description": "Epic 5 - Reach 10 players remaining with 3 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity04.Tier06",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R4_Q07",
+              "name": "Epic 4 - Reach 8 players remaining with 3 eliminations",
+              "description": "Epic 4 - Reach 8 players remaining with 3 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity04.Tier07",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R4_Q08",
+              "name": "Epic 3 - Reach 7 players remaining with 3 eliminations",
+              "description": "Epic 3 - Reach 7 players remaining with 3 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity04.Tier08",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R4_Q09",
+              "name": "Epic 2 - Reach 6 players remaining with 3 eliminations",
+              "description": "Epic 2 - Reach 6 players remaining with 3 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity04.Tier09",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R4_Q10",
+              "name": "Epic 1 - Reach 5 players remaining with 3 eliminations",
+              "description": "Epic 1 - Reach 5 players remaining with 3 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity04.Tier10",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S27_Survivor_R5",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Survivor"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#FF00EE33",
+            "Context_LimitedTimeColor": "#FFCCF7FF",
+            "Context_BaseColor": "#FFFFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Survivor Medals",
+            "defaultHeaderName": ""
+          },
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_s27_Survivor_R5_Q05",
+              "name": "Legendary 6 - Reach 9 players remaining with 5 eliminations",
+              "description": "",
+              "shortDescription": "Legendary 6 - Reach 9 players remaining with 5 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity05.Tier05",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R5_Q06",
+              "name": "Legendary 5 - Reach 8 players remaining with 5 eliminations",
+              "description": "Legendary 5 - Reach 8 players remaining with 5 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity05.Tier06",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R5_Q07",
+              "name": "Legendary 4 - Reach 7 players remaining with 5 eliminations",
+              "description": "Legendary 4 - Reach 7 players remaining with 5 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity05.Tier07",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R5_Q08",
+              "name": "Legendary 3 - Reach 6 players remaining with 5 eliminations",
+              "description": "Legendary 3 - Reach 6 players remaining with 5 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity05.Tier08",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R5_Q09",
+              "name": "Legendary 2 - Reach 5 players remaining with 5 eliminations",
+              "description": "Legendary 2 - Reach 5 players remaining with 5 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity05.Tier09",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R5_Q10",
+              "name": "Legendary 1 - Earn a Victory Royale with 5 eliminations",
+              "description": "Legendary 1 - Earn a Victory Royale with 5 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity05.Tier10",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S27_Survivor_R6",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Survivor"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#FF00EE33",
+            "Context_LimitedTimeColor": "#FFCCF7FF",
+            "Context_BaseColor": "#FFFFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Survivor Medals",
+            "defaultHeaderName": ""
+          },
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_s27_Survivor_R6_Q05",
+              "name": "Exotic 6 - Reach 9 players remaining with 7 eliminations",
+              "description": "",
+              "shortDescription": "Exotic 6 - Reach 9 players remaining with 7 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity06.Tier05",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R6_Q06",
+              "name": "Exotic 5 - Reach 8 players remaining with 7 eliminations",
+              "description": "Exotic 5 - Reach 8 players remaining with 7 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity06.Tier06",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R6_Q07",
+              "name": "Exotic 4 - Reach 7 players remaining with 7 eliminations",
+              "description": "Exotic 4 - Reach 7 players remaining with 7 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity06.Tier07",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R6_Q08",
+              "name": "Exotic 3 - Reach 6 players remaining with 7 eliminations",
+              "description": "Exotic 3 - Reach 6 players remaining with 7 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity06.Tier08",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R6_Q09",
+              "name": "Exotic 2 - Reach 5 players remaining with 7 eliminations",
+              "description": "Exotic 2 - Reach 5 players remaining with 7 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity06.Tier09",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R6_Q10",
+              "name": "Exotic 1 - Earn a Victory Royale with 7 eliminations",
+              "description": "Exotic 1 - Earn a Victory Royale with 7 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity06.Tier10",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S27_Survivor_R7",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Survivor"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#FF00EE33",
+            "Context_LimitedTimeColor": "#FFCCF7FF",
+            "Context_BaseColor": "#FFFFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Survivor Medals",
+            "defaultHeaderName": ""
+          },
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_s27_Survivor_R7_Q05",
+              "name": "Mythic 6 - Earn a Victory Royale with 10 eliminations",
+              "description": "",
+              "shortDescription": "Mythic 6 - Earn a Victory Royale with 10 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity07.Tier05",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R7_Q06",
+              "name": "Mythic 5 - Earn a Victory Royale with 10 eliminations",
+              "description": "Mythic 5 - Earn a Victory Royale with 10 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity07.Tier06",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R7_Q07",
+              "name": "Mythic 4 - Earn a Victory Royale with 10 eliminations",
+              "description": "Mythic 4 - Earn a Victory Royale with 10 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity07.Tier07",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R7_Q08",
+              "name": "Mythic 3 - Earn a Victory Royale with 10 eliminations",
+              "description": "Mythic 3 - Earn a Victory Royale with 10 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity07.Tier08",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Survivor_R7_Q09",
+              "name": "Mythic 2 - Earn a Victory Royale with 10 eliminations",
+              "description": "Mythic 2 - Earn a Victory Royale with 10 eliminations",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.Survivor.Rarity07.Tier09",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": null,
+      "name": "",
+      "colorData": null,
+      "bundles": [
+        {
+          "id": "QuestBundle_LTM_Rufus_Week_01",
+          "name": "Week 1 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Weekly.01"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S27_Rufus_Weekly1_Suppressed1",
+              "name": "Eliminate opponents with SMGs",
+              "description": "SMG it up.",
+              "shortDescription": "Eliminate opponents with SMGs",
+              "categoryHeader": "Week 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 50000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly1_Suppressed2",
+              "name": "Collect shotgun shells",
+              "description": "Perfect for shotguns.",
+              "shortDescription": "Collect shotgun shells",
+              "categoryHeader": "Week 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_1_02",
+              "name": "Discover named locations",
+              "description": "It's like it was never destroyed by a cataclysmic event!",
+              "shortDescription": "Discover named locations",
+              "categoryHeader": "Week 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 20,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 50000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_1_1",
+              "name": "Damage opponents with Pistols or Sniper Rifles",
+              "description": "Keep your distance... or don't.",
+              "shortDescription": "Damage opponents with Pistols or Sniper Rifles",
+              "categoryHeader": "Week 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_1_3",
+              "name": "Travel distance while sprinting",
+              "description": "Get some distance.",
+              "shortDescription": "Travel distance while sprinting",
+              "categoryHeader": "Week 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_1_4",
+              "name": "Deal damage to opponents",
+              "description": "You're in it to win it.",
+              "shortDescription": "Deal damage to opponents",
+              "categoryHeader": "Week 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3000,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 50000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_1_5",
+              "name": "Search chests",
+              "description": "Find something fun.",
+              "shortDescription": "Search chests",
+              "categoryHeader": "Week 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_1_6",
+              "name": "Gain shields",
+              "description": "Keep yourself safe.",
+              "shortDescription": "Gain shields",
+              "categoryHeader": "Week 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 200,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_LTM_Rufus_Week_02",
+          "name": "Week 2 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Weekly.02"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S27_Rufus_Weekly2_Suppressed1",
+              "name": "Travel distance during the day",
+              "description": "Run in the sun.",
+              "shortDescription": "Travel distance during the day",
+              "categoryHeader": "Week 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 2000,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly2_Suppressed2",
+              "name": "Collect Light or Heavy bullets",
+              "description": "Grab some spare ammo.",
+              "shortDescription": "Collect Light or Heavy bullets",
+              "categoryHeader": "Week 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 750,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 50000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_2_1",
+              "name": "Damage opponents with SMGs",
+              "description": "Think of this as SO MANY GREAT opportunities to hit your opponent.",
+              "shortDescription": "Damage opponents with SMGs",
+              "categoryHeader": "Week 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1000,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_2_2",
+              "name": "Thank the bus driver",
+              "description": "Mind your manners.",
+              "shortDescription": "Thank the bus driver",
+              "categoryHeader": "Week 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 50000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_2_3",
+              "name": "Travel distance in vehicles",
+              "description": "Grab a cart 'n go!",
+              "shortDescription": "Travel distance in vehicles",
+              "categoryHeader": "Week 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 2000,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_2_4",
+              "name": "Eliminate enemy players",
+              "description": "Take 'em out.",
+              "shortDescription": "Eliminate enemy players",
+              "categoryHeader": "Week 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 25,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 50000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_2_5",
+              "name": "Regain health or shields by consuming produce",
+              "description": "Grab something cool.",
+              "shortDescription": "Regain health or shields by consuming produce",
+              "categoryHeader": "Week 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 100,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_2_6",
+              "name": "Collect weapons of Rare or greater rarity",
+              "description": "Find something special.",
+              "shortDescription": "Collect weapons of Rare or greater rarity",
+              "categoryHeader": "Week 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 15,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_LTM_Rufus_Week_03",
+          "name": "Week 3 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Weekly.03"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S27_Rufus_Weekly_3_1",
+              "name": "Damage opponents with Shotguns",
+              "description": "Share some shells.",
+              "shortDescription": "Damage opponents with Shotguns",
+              "categoryHeader": "Week 3",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1000,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.03.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_3_2",
+              "name": "Survive Storm Circles",
+              "description": "An umbrella won't cut it.",
+              "shortDescription": "Survive Storm Circles",
+              "categoryHeader": "Week 3",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 25,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.03.Quest"
+              ],
+              "reward": {
+                "xp": 50000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_3_3",
+              "name": "Travel distance while sliding or coruched",
+              "description": "Get low and look cool doing it.",
+              "shortDescription": "Travel distance while sliding or crouched",
+              "categoryHeader": "Week 3",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.03.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_3_4",
+              "name": "Damage opponents from 30 meters or more",
+              "description": "Keep your friends close and your enemies far away.",
+              "shortDescription": "Damage opponents from 30 meters or more",
+              "categoryHeader": "Week 3",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.03.Quest"
+              ],
+              "reward": {
+                "xp": 50000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_3_5",
+              "name": "Restore health",
+              "description": "Keep yourself healthy.",
+              "shortDescription": "Restore health",
+              "categoryHeader": "Week 3",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 250,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.03.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_3_6",
+              "name": "Hit Weak Points",
+              "description": "Do some high-efficiency smashing.",
+              "shortDescription": "Hit Weak Points",
+              "categoryHeader": "Week 3",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 100,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.03.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_3_Suppressed1",
+              "name": "Eliminate opponents with Assault Rifles",
+              "description": "Stay versatile and ready for action.",
+              "shortDescription": "Eliminate opponents with Assault Rifles",
+              "categoryHeader": "Week 3",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.03.Quest"
+              ],
+              "reward": {
+                "xp": 50000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_3_Suppressed2",
+              "name": "Collect medium bullets",
+              "description": "Not too light and not too heavy.",
+              "shortDescription": "Collect medium bullets",
+              "categoryHeader": "Week 3",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.03.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_LTM_Rufus_Week_04",
+          "name": "Week 4 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Weekly.04"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S27_Rufus_Weekly_4_1",
+              "name": "Deal damage with Assault Rifles",
+              "description": "AR you ready to rumble?",
+              "shortDescription": "Deal damage to enemy players with Assault Rifles",
+              "categoryHeader": "Week 4",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1250,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.04.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_4_2",
+              "name": "Outlast opponents",
+              "description": "You can do this.",
+              "shortDescription": "Outlast opponents",
+              "categoryHeader": "Week 4",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 250,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.04.Quest"
+              ],
+              "reward": {
+                "xp": 50000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_4_3",
+              "name": "Travel distance at night",
+              "description": "Pick your path.",
+              "shortDescription": "Travel distance with pickaxe equipped",
+              "categoryHeader": "Week 4",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1000,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.04.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_4_4",
+              "name": "Damage opponents from 15 meters or less",
+              "description": "Up close and personal.",
+              "shortDescription": "Damage opponents from 15 meters or less",
+              "categoryHeader": "Week 4",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.04.Quest"
+              ],
+              "reward": {
+                "xp": 50000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_4_5",
+              "name": "Search a chest or ammo box within 45 seconds of landing in different matches",
+              "description": "Gear up, fast.",
+              "shortDescription": "Search a chest or ammo box within 45 seconds of landing in different matches",
+              "categoryHeader": "Week 4",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.04.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_4_6",
+              "name": "Collect ammo",
+              "description": "If you want to go far, you'll need this.",
+              "shortDescription": "Collect ammo",
+              "categoryHeader": "Week 4",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1200,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.04.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_4_Suppressed1",
+              "name": "Eliminate opponents with Pistols",
+              "description": "Perfect for combat on the go.",
+              "shortDescription": "Eliminate opponents with Pistols",
+              "categoryHeader": "Week 4",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.04.Quest"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Rufus_Weekly_4_Suppressed2",
+              "name": "Eliminate opponents with Sniper Rifles",
+              "description": "Scope out the competition.",
+              "shortDescription": "Eliminate opponents with Sniper Rifles",
+              "categoryHeader": "Week 4",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.XP",
+                "ChallengeCategory.Weekly.04.Quest"
+              ],
+              "reward": {
+                "xp": 50000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "questbundle_rufus_audiologs_part01",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "quest_rufus_audiologs_p01_q01",
+              "name": "Placeholder",
+              "description": "Placeholder",
+              "shortDescription": "Play Audio Log",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "questbundle_rufus_audiologs_part02",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "quest_rufus_audiologs_p02_q01",
+              "name": "Placeholder",
+              "description": "Placeholder",
+              "shortDescription": "Play Audio Log",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "questbundle_rufus_audiologs_part03",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "quest_rufus_audiologs_p03_q01",
+              "name": "Placeholder",
+              "description": "Placeholder",
+              "shortDescription": "Play Audio Log",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "questbundle_rufus_audiologs_part04",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "quest_rufus_audiologs_p04_q01",
+              "name": "Placeholder",
+              "description": "Placeholder",
+              "shortDescription": "Play Audio Log",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S27_Hidden",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_s27_Hidden_Gnome02",
+              "name": "",
+              "description": "",
+              "shortDescription": "There's gnome better way to say thanks",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Hidden_Gnome03",
+              "name": "",
+              "description": "",
+              "shortDescription": "Go big or go gnome",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Hidden_Gnome04",
+              "name": "",
+              "description": "",
+              "shortDescription": "You gnome your way around a mine",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Hidden_Gnome05",
+              "name": "",
+              "description": "",
+              "shortDescription": "There's no place like gnome",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Hidden_Gnome06",
+              "name": "",
+              "description": "",
+              "shortDescription": "All work and gnome play...",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Hidden_Gnome07",
+              "name": "",
+              "description": "",
+              "shortDescription": "Lodge your complaint with the gnome office",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Hidden_Gnome08",
+              "name": "",
+              "description": "",
+              "shortDescription": "Gnome on the range",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Hidden_Gnome09",
+              "name": "",
+              "description": "",
+              "shortDescription": "Make your gnome way",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Hidden_Gnome1",
+              "name": "",
+              "description": "",
+              "shortDescription": "He gnomes not to take the big head for granite",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_s27_Hidden_Gnome10",
+              "name": "",
+              "description": "",
+              "shortDescription": "You know your gnomes",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 20000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S27_RebootRally",
+          "name": "Reboot Rally",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.RebootRally"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "PrimaryColor": "#FF1D1D37",
+            "SecondaryColor": "#FF000000",
+            "AccentColor": "#FFFFE81F",
+            "Context_LimitedTimeColor": "#FFFFFFFF",
+            "Context_BaseColor": "#FFFFE81F"
+          },
+          "images": {
+            "DisplayImage": "https://media.fortniteapi.io/images/displayAssets/T_UI_EGS.png",
+            "CustomBackground": "https://media.fortniteapi.io/images/displayAssets/T_UI_EGS_CustomBackground.png"
+          },
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S27_RebootRally_Quest1_01",
+              "name": "Stage 1 of 2 - Rally your friends from their profile or the Reboot Rally event panel",
+              "description": "",
+              "shortDescription": "Stage 1 of 2 - Rally your friends from their profile or the Reboot Rally event panel",
+              "categoryHeader": "Reboot Rally Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.Event.RebootRally.Quest",
+                "Quest.Metadata.ProgressInBRWarmup",
+                "Reboot.QRQuest"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_RebootRally_Quest1_02",
+              "name": "Stage 2 of 2 - Complete a Battle Royale match with an eligible friend",
+              "description": "Stage 2 of 2 - Complete a Battle Royale match with an eligible friend",
+              "shortDescription": "",
+              "categoryHeader": "Reboot Rally Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.Event.RebootRally.Quest"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_RebootRally_Quest2_01",
+              "name": "Stage 1 of 5 - Earn XP with an eligible friend in Battle Royale, Zero Build, Team Rumble, Save the World, or any creator-made experience except those made using UEFN.",
+              "description": "",
+              "shortDescription": "Stage 1 of 5 - Earn XP with an eligible friend in Battle Royale, Zero Build, Team Rumble, Save the World, or any creator-made experience except those made using UEFN.",
+              "categoryHeader": "Reboot Rally Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 80000,
+              "tags": [
+                "ChallengeCategory.Event.RebootRally.Quest"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_RebootRally_Quest2_02",
+              "name": "Stage 2 of 5 - Earn XP with an eligible friend in Battle Royale, Zero Build, Team Rumble, Save the World, or any creator-made experience except those made using UEFN.",
+              "description": "Stage 2 of 5 - Earn XP with an eligible friend in Battle Royale, Zero Build, Team Rumble, Save the World, or any creator-made experience except those made using UEFN.",
+              "shortDescription": "",
+              "categoryHeader": "Reboot Rally Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 160000,
+              "tags": [
+                "ChallengeCategory.Event.RebootRally.Quest"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_RebootRally_Quest2_03",
+              "name": "Stage 3 of 5 - Earn XP with an eligible friend in Battle Royale, Zero Build, Team Rumble, Save the World, or any creator-made experience except those made using UEFN.",
+              "description": "Stage 3 of 5 - Earn XP with an eligible friend in Battle Royale, Zero Build, Team Rumble, Save the World, or any creator-made experience except those made using UEFN.",
+              "shortDescription": "",
+              "categoryHeader": "Reboot Rally Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 250000,
+              "tags": [
+                "ChallengeCategory.Event.RebootRally.Quest"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_RebootRally_Quest2_04",
+              "name": "Stage 4 of 5 - Earn XP with an eligible friend in Battle Royale, Zero Build, Team Rumble, Save the World, or any creator-made experience except those made using UEFN.",
+              "description": "Stage 4 of 5 - Earn XP with an eligible friend in Battle Royale, Zero Build, Team Rumble, Save the World, or any creator-made experience except those made using UEFN.",
+              "shortDescription": "",
+              "categoryHeader": "Reboot Rally Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 300000,
+              "tags": [
+                "ChallengeCategory.Event.RebootRally.Quest"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_RebootRally_Quest2_05",
+              "name": "Stage 5 of 5 - Earn XP with an eligible friend in Battle Royale, Zero Build, Team Rumble, Save the World, or any creator-made experience except those made using UEFN.",
+              "description": "Stage 5 of 5 - Earn XP with an eligible friend in Battle Royale, Zero Build, Team Rumble, Save the World, or any creator-made experience except those made using UEFN.",
+              "shortDescription": "",
+              "categoryHeader": "Reboot Rally Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 400000,
+              "tags": [
+                "ChallengeCategory.Event.RebootRally.Quest"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S27_Rufus_Bootcamp",
+          "name": "Boot Camp Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::Manually",
+          "tags": [
+            "ChallengeCategory.RufusBootCamp"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "quest_s27_rufus_bootcamp_q01",
+              "name": "Sprinting Boot Camp",
+              "description": "",
+              "shortDescription": "Sprinting Boot Camp",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 25,
+              "tags": [
+                "ChallengeCategory.RufusBootCamp",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 1000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s27_rufus_bootcamp_q01_granter",
+              "name": "Sprinting Boot Camp Granter Quest",
+              "description": "",
+              "shortDescription": "Sprinting Boot Camp Granter Quest",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.RufusBootCamp"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s27_rufus_bootcamp_q02",
+              "name": "Sliding Boot Camp",
+              "description": "",
+              "shortDescription": "Sliding Boot Camp",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 20,
+              "tags": [
+                "ChallengeCategory.RufusBootCamp",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 1000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s27_rufus_bootcamp_q02_granter",
+              "name": "Sliding Boot Camp Granter Quest",
+              "description": "Sliding Boot Camp Granter Quest",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.RufusBootCamp"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s27_rufus_bootcamp_q03",
+              "name": "Mantling Boot Camp",
+              "description": "",
+              "shortDescription": "Mantling Boot Camp",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.RufusBootCamp",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 1000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s27_rufus_bootcamp_q03_granter",
+              "name": "Mantling Boot Camp Granter Quest",
+              "description": "Mantling Boot Camp Granter Quest",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.RufusBootCamp"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "ChallengeCategory.Milestone",
+      "name": "Milestones",
+      "colorData": {
+        "RGB1": "#FF3C1C75",
+        "RGB2": "#FF00FFF7"
+      },
+      "image": "https://media.fortniteapi.io/images/displayAssets/reward_milestone_quest_complete_copy.png",
+      "bundles": [
+        {
+          "id": "QuestBundle_S27_Milestone_Punchcards",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Milestone",
+            "ChallengeCategory.XP"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Milestones",
+            "defaultHeaderName": ""
+          },
+          "header": "Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Combat_Q01",
+              "name": "Complete Combat Quests",
+              "description": "",
+              "shortDescription": "Complete Combat Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Combat_Q02",
+              "name": "Complete Combat Quests",
+              "description": "",
+              "shortDescription": "Complete Combat Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Combat_Q01",
+              "progressTotal": 6,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Combat_Q03",
+              "name": "Complete Combat Quests",
+              "description": "",
+              "shortDescription": "Complete Combat Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Combat_Q02",
+              "progressTotal": 9,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Combat_Q04",
+              "name": "Complete Combat Quests",
+              "description": "",
+              "shortDescription": "Complete Combat Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Combat_Q03",
+              "progressTotal": 12,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Combat_Q05",
+              "name": "Complete Combat Quests",
+              "description": "",
+              "shortDescription": "Complete Combat Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Combat_Q04",
+              "progressTotal": 15,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Combat_Q06",
+              "name": "Complete Combat Quests",
+              "description": "",
+              "shortDescription": "Complete Combat Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Combat_Q05",
+              "progressTotal": 18,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Combat_Q07",
+              "name": "Complete Combat Quests",
+              "description": "",
+              "shortDescription": "Complete Combat Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Combat_Q06",
+              "progressTotal": 21,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Combat_Q08",
+              "name": "Complete Combat Quests",
+              "description": "",
+              "shortDescription": "Complete Combat Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Combat_Q07",
+              "progressTotal": 24,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Combat_Q09",
+              "name": "Complete Combat Quests",
+              "description": "",
+              "shortDescription": "Complete Combat Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Combat_Q08",
+              "progressTotal": 27,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Combat_Q10",
+              "name": "Complete Combat Quests",
+              "description": "",
+              "shortDescription": "Complete Combat Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Combat_Q09",
+              "progressTotal": 30,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Explore_Q01",
+              "name": "Complete Exploration Quests",
+              "description": "",
+              "shortDescription": "Complete Exploration Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Explore_Q02",
+              "name": "Complete Exploration Quests",
+              "description": "",
+              "shortDescription": "Complete Exploration Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Explore_Q01",
+              "progressTotal": 6,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Explore_Q03",
+              "name": "Complete Exploration Quests",
+              "description": "",
+              "shortDescription": "Complete Exploration Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Explore_Q02",
+              "progressTotal": 9,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Explore_Q04",
+              "name": "Complete Exploration Quests",
+              "description": "",
+              "shortDescription": "Complete Exploration Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Explore_Q03",
+              "progressTotal": 12,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Explore_Q05",
+              "name": "Complete Exploration Quests",
+              "description": "",
+              "shortDescription": "Complete Exploration Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Explore_Q04",
+              "progressTotal": 15,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Explore_Q06",
+              "name": "Complete Exploration Quests",
+              "description": "",
+              "shortDescription": "Complete Exploration Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Explore_Q05",
+              "progressTotal": 18,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Explore_Q07",
+              "name": "Complete Exploration Quests",
+              "description": "",
+              "shortDescription": "Complete Exploration Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Explore_Q06",
+              "progressTotal": 21,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Explore_Q08",
+              "name": "Complete Exploration Quests",
+              "description": "",
+              "shortDescription": "Complete Exploration Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Explore_Q07",
+              "progressTotal": 24,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Explore_Q09",
+              "name": "Complete Exploration Quests",
+              "description": "",
+              "shortDescription": "Complete Exploration Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Explore_Q08",
+              "progressTotal": 27,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Explore_Q10",
+              "name": "Complete Exploration Quests",
+              "description": "",
+              "shortDescription": "Complete Exploration Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Explore_Q09",
+              "progressTotal": 30,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Task_Q01",
+              "name": "Complete Challenge Quests",
+              "description": "",
+              "shortDescription": "Complete Challenge Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Task_Q02",
+              "name": "Complete Challenge Quests",
+              "description": "",
+              "shortDescription": "Complete Challenge Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Task_Q01",
+              "progressTotal": 6,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Task_Q03",
+              "name": "Complete Challenge Quests",
+              "description": "",
+              "shortDescription": "Complete Challenge Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Task_Q02",
+              "progressTotal": 9,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Task_Q04",
+              "name": "Complete Challenge Quests",
+              "description": "",
+              "shortDescription": "Complete Challenge Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Task_Q03",
+              "progressTotal": 12,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Task_Q05",
+              "name": "Complete Challenge Quests",
+              "description": "",
+              "shortDescription": "Complete Challenge Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Task_Q04",
+              "progressTotal": 15,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Task_Q06",
+              "name": "Complete Challenge Quests",
+              "description": "",
+              "shortDescription": "Complete Challenge Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Task_Q05",
+              "progressTotal": 18,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Task_Q07",
+              "name": "Complete Challenge Quests",
+              "description": "",
+              "shortDescription": "Complete Challenge Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Task_Q06",
+              "progressTotal": 21,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Task_Q08",
+              "name": "Complete Challenge Quests",
+              "description": "",
+              "shortDescription": "Complete Challenge Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Task_Q07",
+              "progressTotal": 24,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Task_Q09",
+              "name": "Complete Challenge Quests",
+              "description": "",
+              "shortDescription": "Complete Challenge Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Task_Q08",
+              "progressTotal": 27,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Milestone_CompleteQuests_Task_Q10",
+              "name": "Complete Challenge Quests",
+              "description": "",
+              "shortDescription": "Complete Challenge Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": "Quest_S27_Milestone_CompleteQuests_Task_Q09",
+              "progressTotal": 30,
+              "tags": [
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 30000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "ChallengeCategory.Event.S27RaiderPinkSherbet",
+      "name": "Runway Racer",
+      "colorData": {
+        "RGB1": "#FF0042A3",
+        "RGB2": "#FF00FAF7"
+      },
+      "image": "https://media.fortniteapi.io/images/displayAssets/T-Soldier-Hero-RaiderPink-Sherbet-L.png",
+      "bundles": [
+        {
+          "id": "QuestBundle_S27_RaiderPink_Sherbet",
+          "name": "Runway Racer",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Event.S27RaiderPinkSherbet"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#FF00EE33",
+            "Context_LimitedTimeColor": "#FFCCF7FF",
+            "Context_BaseColor": "#FFFFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Runway Racer",
+            "defaultHeaderName": ""
+          },
+          "header": "Runway Racer Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_S27_Event_RaiderPink_Sherbet_Q01",
+              "name": "Runway Racer Quest 1",
+              "description": "",
+              "shortDescription": "Earn 5 Account Levels",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.Event.S27RaiderPinkSherbet"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Pickaxe_RaiderPinkSherbert",
+                    "type": {
+                      "id": "pickaxe",
+                      "name": "Pickaxes"
+                    },
+                    "name": "Premiere Poms",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/a14a0411d55455fee3cd55627b92bf35/transparent.png",
+                      "featured": "https://media.fortniteapi.io/images/a14a0411d55455fee3cd55627b92bf35/full_featured.png",
+                      "background": "https://media.fortniteapi.io/images/cosmetics/a14a0411d55455fee3cd55627b92bf35/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/a14a0411d55455fee3cd55627b92bf35/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/a14a0411d55455fee3cd55627b92bf35/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Event_RaiderPink_Sherbet_Q02",
+              "name": "Runway Racer Quest 2",
+              "description": "",
+              "shortDescription": "Earn 20 Account Levels",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 20,
+              "tags": [
+                "ChallengeCategory.Event.S27RaiderPinkSherbet"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Wrap_RaiderPink_Sherbet",
+                    "type": {
+                      "id": "wrap",
+                      "name": "Wrap"
+                    },
+                    "name": "Haute Hustle",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/4705fd2206ccd31ea1443c32ad0707b9/transparent.png",
+                      "featured": "https://media.fortniteapi.io/images/4705fd2206ccd31ea1443c32ad0707b9/full_featured.png",
+                      "background": "https://media.fortniteapi.io/images/cosmetics/4705fd2206ccd31ea1443c32ad0707b9/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/4705fd2206ccd31ea1443c32ad0707b9/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/4705fd2206ccd31ea1443c32ad0707b9/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Event_RaiderPink_Sherbet_Q03",
+              "name": "Runway Racer Quest 3",
+              "description": "",
+              "shortDescription": "Earn 35 Account Levels",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 35,
+              "tags": [
+                "ChallengeCategory.Event.S27RaiderPinkSherbet"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Backpack_RaiderPink_Sherbert",
+                    "type": {
+                      "id": "backpack",
+                      "name": "BackBling"
+                    },
+                    "name": "Auto Clutch",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/23b00dbfc518a012e9b6e435cb761f29/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/23b00dbfc518a012e9b6e435cb761f29/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/23b00dbfc518a012e9b6e435cb761f29/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/23b00dbfc518a012e9b6e435cb761f29/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_Event_RaiderPink_Sherbet_Q04",
+              "name": "Runway Racer Quest 4",
+              "description": "",
+              "shortDescription": "Earn 50 Account Levels",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 50,
+              "tags": [
+                "ChallengeCategory.Event.S27RaiderPinkSherbet"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Character_RaiderPink_Sherbert",
+                    "type": {
+                      "id": "outfit",
+                      "name": "Outfit"
+                    },
+                    "name": "Runway Racer",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/5407e46e3d05aa0c3377f1ede16f729a/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/5407e46e3d05aa0c3377f1ede16f729a/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/5407e46e3d05aa0c3377f1ede16f729a/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/5407e46e3d05aa0c3377f1ede16f729a/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "ChallengeCategory.Event.RebootRally",
+      "name": "Reboot Rally",
+      "colorData": {
+        "RGB1": "#FF092081",
+        "RGB2": "#FF3477FC"
+      },
+      "image": "https://media.fortniteapi.io/images/displayAssets/T_UI_ChallengeTile_RebootRally.png",
+      "bundles": [
+        {
+          "id": "QuestBundle_S27_RebootRally_Rewards",
+          "name": "Reboot Rally Rewards",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Event.RebootRally"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#FF00EE33",
+            "Context_LimitedTimeColor": "#FFCCF7FF",
+            "Context_BaseColor": "#FFFFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Reboot Rally",
+            "defaultHeaderName": ""
+          },
+          "header": "Reboot Rally Rewards",
+          "quests": [
+            {
+              "id": "Quest_S27_RebootRally_Rewards_01",
+              "name": "Earn 50 Points",
+              "description": "",
+              "shortDescription": "Earn 50 Points",
+              "categoryHeader": "Reboot Rally Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 50,
+              "tags": [
+                "ChallengeCategory.Event.RebootRally.Quest",
+                "Quest.Metadata.ProgressInBRWarmup"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_S27_RebootRally",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "Infernal GG",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/cc6925e1fa2551489be4bda206da7a63/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/cc6925e1fa2551489be4bda206da7a63/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/cc6925e1fa2551489be4bda206da7a63/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/cc6925e1fa2551489be4bda206da7a63/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_RebootRally_Rewards_02",
+              "name": "Earn 100 Points",
+              "description": "",
+              "shortDescription": "Earn 100 Points",
+              "categoryHeader": "Reboot Rally Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 100,
+              "tags": [
+                "ChallengeCategory.Event.RebootRally.Quest",
+                "Quest.Metadata.ProgressInBRWarmup"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Wrap_WingedMedieval",
+                    "type": {
+                      "id": "wrap",
+                      "name": "Wrap"
+                    },
+                    "name": "Burning Dragon",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/7b5869dd7b61729accfb8e1843ab3192/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/7b5869dd7b61729accfb8e1843ab3192/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/7b5869dd7b61729accfb8e1843ab3192/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/7b5869dd7b61729accfb8e1843ab3192/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_RebootRally_Rewards_03",
+              "name": "Earn 150 Points",
+              "description": "",
+              "shortDescription": "Earn 150 Points",
+              "categoryHeader": "Reboot Rally Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 150,
+              "tags": [
+                "ChallengeCategory.Event.RebootRally.Quest",
+                "Quest.Metadata.ProgressInBRWarmup"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Glider_WingedMedieval",
+                    "type": {
+                      "id": "glider",
+                      "name": "Glider"
+                    },
+                    "name": "Skerran",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/4db8ad4189248471e75280522068cbcf/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/4db8ad4189248471e75280522068cbcf/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/4db8ad4189248471e75280522068cbcf/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/4db8ad4189248471e75280522068cbcf/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S27_RebootRally_Rewards_04",
+              "name": "Earn 200 Points",
+              "description": "",
+              "shortDescription": "Earn 200 Points",
+              "categoryHeader": "Reboot Rally Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 200,
+              "tags": [
+                "ChallengeCategory.Event.RebootRally.Quest",
+                "Quest.Metadata.ProgressInBRWarmup"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Pickaxe_WingedMedieval",
+                    "type": {
+                      "id": "pickaxe",
+                      "name": "Pickaxes"
+                    },
+                    "name": "Knight's Treachery",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/98eec7de617b7c37ce7857ae7a4b72b9/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/98eec7de617b7c37ce7857ae7a4b72b9/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/98eec7de617b7c37ce7857ae7a4b72b9/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/98eec7de617b7c37ce7857ae7a4b72b9/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "M_UI_QuestBundle_SnowKnight_S27",
+      "name": "",
+      "colorData": {
+        "RGB1": "#FF5F00A3",
+        "RGB2": "#FF00B4FF"
+      },
+      "image": "https://media.fortniteapi.io/images/displayAssets/T-Soldier-Character-SnowKnight-Helm-L.png",
+      "bundles": [
+        {
+          "id": "QuestBundle_s27_Rufus_Week_01_BPBonus",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.S27.Snowknight.01"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "OG PASS REWARDS WEEK 1",
+          "quests": [
+            {
+              "id": "quest_s27_rufus_weekly_bonusgoal_w01_01",
+              "name": "Complete Week 1 Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Week 1 Weekly Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.S27.Snowknight.01"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s27_rufus_weekly_bonusgoal_w01_02",
+              "name": "Complete Week 1 Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Week 1 Weekly Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.S27.Snowknight.01"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s27_rufus_weekly_bonusgoal_w01_03",
+              "name": "Complete Week 1 Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Week 1 Weekly Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.S27.Snowknight.01"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_s27_Rufus_Week_02_BPBonus",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.S27.Snowknight.02"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "OG PASS REWARDS WEEK 2",
+          "quests": [
+            {
+              "id": "quest_s27_rufus_weekly_bonusgoal_W02_01",
+              "name": "Complete Week 2 Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Week 2 Weekly Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.S27.Snowknight.02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s27_rufus_weekly_bonusgoal_W02_02",
+              "name": "Complete Week 2 Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Week 2 Weekly Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.S27.Snowknight.02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s27_rufus_weekly_bonusgoal_W02_03",
+              "name": "Complete Week 2 Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Week 2 Weekly Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.S27.Snowknight.02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_s27_Rufus_Week_03_BPBonus",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.S27.Snowknight.03"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "OG PASS REWARDS WEEK 3",
+          "quests": [
+            {
+              "id": "quest_s27_rufus_weekly_bonusgoal_W03_01",
+              "name": "Complete Week 3 Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Week 3 Weekly Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.S27.Snowknight.03"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s27_rufus_weekly_bonusgoal_W03_02",
+              "name": "Complete Week 3 Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Week 3 Weekly Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.S27.Snowknight.03"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s27_rufus_weekly_bonusgoal_W03_03",
+              "name": "Complete Week 3 Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Week 3 Weekly Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.S27.Snowknight.03"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_s27_Rufus_Week_04_BPBonus",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.S27.Snowknight.04"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "OG PASS REWARDS WEEK 4",
+          "quests": [
+            {
+              "id": "quest_s27_rufus_weekly_bonusgoal_W04_01",
+              "name": "Complete Week 4 Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Week 4 Weekly Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.S27.Snowknight.04",
+                "ChallengeCategory"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s27_rufus_weekly_bonusgoal_W04_02",
+              "name": "Complete Week 4 Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Week 4 Weekly Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.S27.Snowknight.04",
+                "ChallengeCategory"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s27_rufus_weekly_bonusgoal_W04_03",
+              "name": "Complete Week 4 Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Week 4 Weekly Quests",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.S27.Snowknight.04",
+                "ChallengeCategory"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "ChallengeCategory.Habanero.Punchcards",
+      "name": "Ranked",
+      "colorData": {
+        "RGB1": "#FF290046",
+        "RGB2": "#FFB076FF"
+      },
+      "image": "https://media.fortniteapi.io/images/displayAssets/T-Soldier-HID-748-Athena-Commando-F-Hitman-L.png",
+      "bundles": [
+        {
+          "id": "RankedCh4S5_Bundle",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Habanero.Punchcards"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Ranked",
+            "defaultHeaderName": ""
+          },
+          "header": "[Habanero] Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_RankedCh4S5_Granter",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.Habanero"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_RankedCh4S5_PunchCard_01",
+              "name": "Complete Ranked Urgent Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Urgent Quests",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "Challengecategory.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Backpack_RankedRemix",
+                    "type": {
+                      "id": "backpack",
+                      "name": "BackBling"
+                    },
+                    "name": "Ranker's Tags",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/c08e1b72bfb118c6a98007667874496c/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/c08e1b72bfb118c6a98007667874496c/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/c08e1b72bfb118c6a98007667874496c/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/c08e1b72bfb118c6a98007667874496c/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_RankedCh4S5_PunchCard_02",
+              "name": "Complete Ranked Urgent Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Urgent Quests",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "Challengecategory.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_S27_Ranked1",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "Missiles Away!",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/a01b45eed009a60968e9160af60e6257/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/a01b45eed009a60968e9160af60e6257/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/a01b45eed009a60968e9160af60e6257/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/a01b45eed009a60968e9160af60e6257/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_RankedCh4S5_PunchCard_03",
+              "name": "Complete Ranked Urgent Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Urgent Quests",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "Challengecategory.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_S27_Ranked_HornedJudgment",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "Harbinger of Victory",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/a930d1c8e074fdcd2ffe33e814716f3f/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/a930d1c8e074fdcd2ffe33e814716f3f/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/a930d1c8e074fdcd2ffe33e814716f3f/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/a930d1c8e074fdcd2ffe33e814716f3f/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_RankedCh4S5_PunchCard_04",
+              "name": "Complete Ranked Urgent Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Urgent Quests",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [
+                "Challengecategory.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_S27_Ranked2",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "Danger Skull",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/1f4e77ae10a8fdd17b5327298690c2fd/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/1f4e77ae10a8fdd17b5327298690c2fd/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/1f4e77ae10a8fdd17b5327298690c2fd/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/1f4e77ae10a8fdd17b5327298690c2fd/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_RankedCh4S5_PunchCard_05",
+              "name": "Complete Ranked Urgent Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Urgent Quests",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 9,
+              "tags": [
+                "Challengecategory.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_S27_Ranked_RebelClaw",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "Unstoppable Renegade",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/2b073db9987f5f232945e265698c2704/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/2b073db9987f5f232945e265698c2704/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/2b073db9987f5f232945e265698c2704/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/2b073db9987f5f232945e265698c2704/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_RankedCh4S5_PunchCard_06",
+              "name": "Complete Ranked Urgent Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Urgent Quests",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "Challengecategory.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_S27_Ranked3",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "On Target",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": null,
+                      "featured": null,
+                      "background": null,
+                      "icon_background": null,
+                      "full_background": null
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_RankedCh4S5_PunchCard_07",
+              "name": "Complete Ranked Urgent Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Urgent Quests",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 15,
+              "tags": [
+                "Challengecategory.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_S27_Ranked_ScaryBeary",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "Raven Team Competitor",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/abcfbfddfbc5fff9a2a4728c3781b113/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/abcfbfddfbc5fff9a2a4728c3781b113/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/abcfbfddfbc5fff9a2a4728c3781b113/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/abcfbfddfbc5fff9a2a4728c3781b113/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "RankedCh4S5_Bundle_Punchcard",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.Habanero.Punchcards"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Ranked",
+            "defaultHeaderName": ""
+          },
+          "header": "Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_RankedCh4S5_PunchCard_11",
+              "name": "Unlock all Ranked Rewards",
+              "description": "",
+              "shortDescription": "Unlock all Ranked Rewards",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [
+                "ChallengeCategory.Habanero.Punchcards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "LoadingScreen_EvergreenBattleBus",
+                    "type": {
+                      "id": "loadingscreen",
+                      "name": "Loading Screen"
+                    },
+                    "name": "Battle Blueprint",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/5f100efecda28d631409088ed02e7871/transparent.png",
+                      "featured": "https://media.fortniteapi.io/images/5f100efecda28d631409088ed02e7871/full_featured.png",
+                      "background": "https://media.fortniteapi.io/images/cosmetics/5f100efecda28d631409088ed02e7871/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/5f100efecda28d631409088ed02e7871/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/5f100efecda28d631409088ed02e7871/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

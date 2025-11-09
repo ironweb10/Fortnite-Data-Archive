@@ -1,0 +1,5561 @@
+{
+  "result": true,
+  "season": 27,
+  "displayInfo": {
+    "chapter": "",
+    "season": "Fortnite OG",
+    "chapterSeason": "Fortnite OG",
+    "battlepassName": "OG Pass"
+  },
+  "seasonDates": {
+    "begin": "2023-11-03T06:00:00.000Z",
+    "end": "2023-12-03T05:59:59.000Z"
+  },
+  "videos": [
+    {
+      "lang": "en",
+      "type": "bp",
+      "url": "https://media.fortniteapi.io/videos/seasons/bp_s27_en.mp4"
+    },
+    {
+      "lang": "en",
+      "type": "trailer",
+      "url": "https://media.fortniteapi.io/videos/seasons/trailer_s27_en.mp4"
+    }
+  ],
+  "rewards": [
+    {
+      "offerId": "931C77824A3AE0FF5AA6998DF4288B80",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 3
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "LoadingScreen_SnowKnight_Helm",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Spectra Knight",
+        "description": "Stand tall. Bear your colors with pride. \r\n\r\nArt by Pixmilk.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.03,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/2217b85151101ecee58e30abb3397690/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/2217b85151101ecee58e30abb3397690/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/2217b85151101ecee58e30abb3397690/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/2217b85151101ecee58e30abb3397690/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/2217b85151101ecee58e30abb3397690/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_SnowKnight_Helm",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass",
+          "Cosmetics.Set.BrightChampion"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BrightChampion",
+          "name": "Prismatic Knight",
+          "partOf": "Part of the Prismatic Knight set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "9F386D6E4132C93DC8216E8AAB4A5F2E",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Backpack_SnowKnight",
+        "type": {
+          "id": "backpack",
+          "name": "BackBling"
+        },
+        "name": "Spectra Protector",
+        "description": "This shield has seen everything.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.14,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/3b085222b74ac42fd0c89bfe548fda9a/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/3b085222b74ac42fd0c89bfe548fda9a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/3b085222b74ac42fd0c89bfe548fda9a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/3b085222b74ac42fd0c89bfe548fda9a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Backpacks/Backpack_SnowKnight",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.UserFacingFlags.HasVariants",
+          "Cosmetics.Set.BrightChampion"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 1,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BrightChampion",
+          "name": "Prismatic Knight",
+          "partOf": "Part of the Prismatic Knight set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [
+          {
+            "name": "LIGHT BLUE",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.012",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "WHITE",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.000",
+            "isDefault": true,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "GREY",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.001",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "DARK GREY",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.002",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "BLACK",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.003",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "SAGE",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.013",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "GREEN",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.007",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "LIGHT BLUE",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.012",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "BLUE",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.005",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "MAUVE",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.011",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "PURPLE",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.006",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "RED",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.004",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "PINK",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.010",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "YELLOW",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.009",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "TAUPE",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.014",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "ORANGE",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.008",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "CHROMA",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.015",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "GALAXY",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.016",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "ICE",
+            "channel": "Cosmetics.Variant.Channel.ClothingColor",
+            "channelName": "Secondary Color",
+            "tag": "Cosmetics.Variant.Property.Color.017",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          }
+        ],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "955D83B343D4CF622997CA9BB662FAA6",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Contrail_SnowKnight",
+        "type": {
+          "id": "contrail",
+          "name": "Contrail"
+        },
+        "name": "Shardfall",
+        "description": "A beautiful breakthrough.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.14,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/6d0332e0b5686213fb8f0abe570acbc5/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/6d0332e0b5686213fb8f0abe570acbc5/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/6d0332e0b5686213fb8f0abe570acbc5/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/6d0332e0b5686213fb8f0abe570acbc5/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Contrails/Contrail_SnowKnight",
+        "gameplayTags": [
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass.Paid",
+          "Cosmetics.Set.BrightChampion",
+          "Cosmetics.UserFacingFlags.HasVariants"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BrightChampion",
+          "name": "Prismatic Knight",
+          "partOf": "Part of the Prismatic Knight set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "ABEAEC8946A1897047C6A395089BE931",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 2
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Spray_SnowKnight_Helm",
+        "type": {
+          "id": "spray",
+          "name": "Spray"
+        },
+        "name": "Knight's Honor",
+        "description": "Leave your mark.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.06,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/6cf58d0359bd50bc91db561fca3a2201/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/6cf58d0359bd50bc91db561fca3a2201/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/6cf58d0359bd50bc91db561fca3a2201/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/6cf58d0359bd50bc91db561fca3a2201/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Sprays/Spray_SnowKnight_Helm",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Spray",
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass",
+          "Cosmetics.Set.BrightChampion"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 1,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BrightChampion",
+          "name": "Prismatic Knight",
+          "partOf": "Part of the Prismatic Knight set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "3DAE44DD4BA6DF0BF4466EB52904DFEF",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Pickaxe_SnowKnight",
+        "type": {
+          "id": "pickaxe",
+          "name": "Pickaxes"
+        },
+        "name": "Spectra Slasher",
+        "description": "Cut through endless colors.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.07,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/c1d8f307ab19a6499b4f7c86be326ee1/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/c1d8f307ab19a6499b4f7c86be326ee1/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/c1d8f307ab19a6499b4f7c86be326ee1/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/c1d8f307ab19a6499b4f7c86be326ee1/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Pickaxes/Pickaxe_SnowKnight",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Set.BrightChampion",
+          "Cosmetics.UserFacingFlags.HasVariants",
+          "Cosmetics.Source.Season27.BattlePass.Paid"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BrightChampion",
+          "name": "Prismatic Knight",
+          "partOf": "Part of the Prismatic Knight set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [
+          {
+            "name": "WHITE",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.000",
+            "isDefault": true,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "GREY",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.001",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "DARK GREY",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.002",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "BLACK",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.003",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "SAGE",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.013",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "GREEN",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.007",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "LIGHT BLUE",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.012",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "BLUE",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.005",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "MAUVE",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.011",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "PURPLE",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.006",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "RED",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.004",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "PINK",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.010",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "YELLOW",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.009",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "TAUPE",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.014",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "ORANGE",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.008",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "CHROMA",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.015",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "GALAXY",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.016",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          },
+          {
+            "name": "ICE",
+            "channel": "Cosmetics.Variant.Channel.JerseyColor",
+            "channelName": "Primary Color",
+            "tag": "Cosmetics.Variant.Property.Color.017",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": null
+          }
+        ],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "3932B91F47307F6C5C708C8EA18D94D9",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Wrap_SnowKnight",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Spectrakinetic",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.49,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/f69e15cc4c87db5cbcbd3ad43b084ce8/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/f69e15cc4c87db5cbcbd3ad43b084ce8/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/f69e15cc4c87db5cbcbd3ad43b084ce8/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/f69e15cc4c87db5cbcbd3ad43b084ce8/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_SnowKnight",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass.Free",
+          "Cosmetics.Set.BrightChampion"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 1,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BrightChampion",
+          "name": "Prismatic Knight",
+          "partOf": "Part of the Prismatic Knight set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "FB10CB5442FF9A698942048D869CD95C",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 7
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "EID_SnowKnight",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Flashback Breakdown",
+        "description": "You remember this, right?",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.36,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/2026de329bb0ba2de1635dd9b9edc6e2/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/2026de329bb0ba2de1635dd9b9edc6e2/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/2026de329bb0ba2de1635dd9b9edc6e2/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/2026de329bb0ba2de1635dd9b9edc6e2/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_SnowKnight",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Set.BrightChampion"
+        ],
+        "apiTags": [
+          "emoteDuration:15.10",
+          "emoteLoop"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BrightChampion",
+          "name": "Prismatic Knight",
+          "partOf": "Part of the Prismatic Knight set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "86A97A4B4F68DE38DF0B03BFE17A2CA8",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_SnowKnight_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Spectra Knight",
+        "description": "",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/00de50a2974be302591b72f60516b25a/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/00de50a2974be302591b72f60516b25a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/00de50a2974be302591b72f60516b25a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/00de50a2974be302591b72f60516b25a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_SnowKnight_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_SnowKnight_Helm",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "FE8CA5CD4969C9EEBCB3BF9F0B762C6B",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 3
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 5,
+      "item": {
+        "id": "LoadingScreen_LilSplit",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Lil Split",
+        "description": "All I need for a good party is my posse and something that goes BOOM! \r\n\r\nArt by Ian Jepson.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.03,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/be22c0babe0a0ca1f49fd2a93fe2282d/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/be22c0babe0a0ca1f49fd2a93fe2282d/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/be22c0babe0a0ca1f49fd2a93fe2282d/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/be22c0babe0a0ca1f49fd2a93fe2282d/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/be22c0babe0a0ca1f49fd2a93fe2282d/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_LilSplit",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass",
+          "Cosmetics.Set.ExactPicture"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "ExactPicture",
+          "name": "Splittin' Image",
+          "partOf": "Part of the Splittin' Image set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "F8526AC74B1E3B695787A1817CB98B06",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 3
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 5,
+      "item": {
+        "id": "MusicPack_191_LilSplit",
+        "type": {
+          "id": "music",
+          "name": "Music"
+        },
+        "name": "Welcome to the Split Show",
+        "description": "Press play and do The 'Split.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.04,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/b81bf9838e89c356978124939ef88c84/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/b81bf9838e89c356978124939ef88c84/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/b81bf9838e89c356978124939ef88c84/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/b81bf9838e89c356978124939ef88c84/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/MusicPacks/MusicPack_191_LilSplit",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Set.ExactPicture"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "ExactPicture",
+          "name": "Splittin' Image",
+          "partOf": "Part of the Splittin' Image set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "6696262F4AA2B37CFAE3CCB3C609DAD9",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 5,
+      "item": {
+        "id": "VTID_Pickaxe_LilSplit_Style_A",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Nanner Bashers",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/545008df9d46c4fe3e74f4e619a43d7a/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/545008df9d46c4fe3e74f4e619a43d7a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/545008df9d46c4fe3e74f4e619a43d7a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/545008df9d46c4fe3e74f4e619a43d7a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_LilSplit_Style_A",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_LilSplit",
+          "variantNameTag:Cosmetics.Variant.Property.Particle1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 2,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "03FD51A94B9C890AC2F5F192EEFA0735",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 5,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "B7FF251148CFB5258B89DFAB82840960",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 8,
+      "item": {
+        "id": "VTID_Backbling_LilSplit_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Peely Whip",
+        "description": "",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/da0e8713a1ad7e3b83d105e3faeddfc7/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/da0e8713a1ad7e3b83d105e3faeddfc7/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/da0e8713a1ad7e3b83d105e3faeddfc7/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/da0e8713a1ad7e3b83d105e3faeddfc7/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_LilSplit_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_LilSplit",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 2,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "EBAF7AA54EA1423E2B8308897909E073",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 8,
+      "item": {
+        "id": "VTID_Glider_LilSplit_Style_A",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Sundae Glider",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/36c34bc268611527d20bde4752127b47/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/36c34bc268611527d20bde4752127b47/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/36c34bc268611527d20bde4752127b47/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/36c34bc268611527d20bde4752127b47/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Glider_LilSplit_Style_A",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Glider_LilSplit",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "8246CC66413E457C7D53D89575BA6357",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 6,
+      "levelsNeededForUnlock": 8,
+      "item": {
+        "id": "VTID_Character_LilSplit_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Lil Split",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/52d6022dee94ac7270673a5a40cd15db/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/52d6022dee94ac7270673a5a40cd15db/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/52d6022dee94ac7270673a5a40cd15db/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/52d6022dee94ac7270673a5a40cd15db/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_LilSplit_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_LilSplit_Sprinkles",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "A6D4DE2C4C7C604A60A792985D57110F",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 3
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 11,
+      "item": {
+        "id": "LoadingScreen_LilSplit2",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Matcha Lil Split",
+        "description": "Even the Island's sweet sprinkle king must undergo the Ripening. \r\n\r\nArt by Gary Choo.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.03,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/24e2950ae7958656fdda2a18d2680ff6/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/24e2950ae7958656fdda2a18d2680ff6/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/24e2950ae7958656fdda2a18d2680ff6/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/24e2950ae7958656fdda2a18d2680ff6/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/24e2950ae7958656fdda2a18d2680ff6/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_LilSplit2",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass",
+          "Cosmetics.Set.ExactPicture"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "ExactPicture",
+          "name": "Splittin' Image",
+          "partOf": "Part of the Splittin' Image set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7EC03C8648323277191832B7B9C19175",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 11,
+      "item": {
+        "id": "VTID_Pickaxe_LilSplit_Style_B",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Matcha Nanner Bashers",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/7f19faa2d85a484f010c3d35cf622a3b/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/7f19faa2d85a484f010c3d35cf622a3b/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/7f19faa2d85a484f010c3d35cf622a3b/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/7f19faa2d85a484f010c3d35cf622a3b/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_LilSplit_Style_B",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_LilSplit",
+          "variantNameTag:Cosmetics.Variant.Property.Particle2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "38B784544D22CD2B47D9989AE2E81F92",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 11,
+      "item": {
+        "id": "VTID_Backbling_LilSplit_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Matcha Peely Whip",
+        "description": "",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/32a52d51e5dcf05e34f8e05b2d537760/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/32a52d51e5dcf05e34f8e05b2d537760/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/32a52d51e5dcf05e34f8e05b2d537760/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/32a52d51e5dcf05e34f8e05b2d537760/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_LilSplit_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_LilSplit",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 3,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "4DDB676D427B67CA8B1DE6A2C28D8F6A",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 11,
+      "item": {
+        "id": "VTID_Glider_LilSplit_Style_B",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Matcha Sundae Glider",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/d6b8925fff8772f344484e8bc5cb38fd/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/d6b8925fff8772f344484e8bc5cb38fd/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/d6b8925fff8772f344484e8bc5cb38fd/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/d6b8925fff8772f344484e8bc5cb38fd/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Glider_LilSplit_Style_B",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Glider_LilSplit",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "8BEDE3414D35B7576E121C9D9036845B",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 14,
+      "item": {
+        "id": "Contrail_LilSplit",
+        "type": {
+          "id": "contrail",
+          "name": "Contrail"
+        },
+        "name": "Dessert Dropper",
+        "description": "Drift on sprinkly skies.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.07,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/cd313e6690801314d9d270ffd4288592/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/cd313e6690801314d9d270ffd4288592/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/cd313e6690801314d9d270ffd4288592/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/cd313e6690801314d9d270ffd4288592/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Contrails/Contrail_LilSplit",
+        "gameplayTags": [
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass.Paid",
+          "Cosmetics.Set.ExactPicture"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 3,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "ExactPicture",
+          "name": "Splittin' Image",
+          "partOf": "Part of the Splittin' Image set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "BD36FF2E4E974E896326C2B36FE2D952",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 14,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "0E52F56E49815E702249F0BC9D3B9067",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 6,
+      "levelsNeededForUnlock": 14,
+      "item": {
+        "id": "VTID_Character_LilSplit_StyleC",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Matcha Lil Split",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/38f4bdda508b6ef623e9cd9b465b7780/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/38f4bdda508b6ef623e9cd9b465b7780/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/38f4bdda508b6ef623e9cd9b465b7780/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/38f4bdda508b6ef623e9cd9b465b7780/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_LilSplit_StyleC",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_LilSplit_Sprinkles",
+          "variantNameTag:Cosmetics.Variant.Property.Stage3"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "EB887B464055756335759E81B1728591",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 3
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 18,
+      "item": {
+        "id": "LoadingScreen_RebelClaw",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Renegade Lynx",
+        "description": "By the time you hit your ninth life, you're not afraid of a few rockets.\r\n\r\nArt by Studio Muti.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.16,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/1247f31f551a293195ee8a41a43a51a7/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/1247f31f551a293195ee8a41a43a51a7/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/1247f31f551a293195ee8a41a43a51a7/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/1247f31f551a293195ee8a41a43a51a7/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/1247f31f551a293195ee8a41a43a51a7/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_RebelClaw",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass",
+          "Cosmetics.Set.RainyHunter"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 4,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RainyHunter",
+          "name": "Storm Scavenger Lynx",
+          "partOf": "Part of the Storm Scavenger Lynx set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "0A0FC4904DE6222572CE0DB70E2ECA10",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 18,
+      "item": {
+        "id": "VTID_Backbling_RebelClaw_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Renegade Rustcat",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/21ceb1e4725fce685ef037119f5287dd/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/21ceb1e4725fce685ef037119f5287dd/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/21ceb1e4725fce685ef037119f5287dd/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/21ceb1e4725fce685ef037119f5287dd/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_RebelClaw_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_RebelClaw",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "DB403F1249B1BAEB1031FA8939F5A5F3",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 2
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 18,
+      "item": {
+        "id": "BRS27_RebelClaw",
+        "type": {
+          "id": "bannertoken",
+          "name": "BANNER"
+        },
+        "name": "Banner Icon",
+        "description": "A new icon for your banner. Assign it in the Locker.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.02,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/f5f489af16c4ddd3deb554f3f241a318/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/f5f489af16c4ddd3deb554f3f241a318/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/f5f489af16c4ddd3deb554f3f241a318/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/f5f489af16c4ddd3deb554f3f241a318/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/Game/Items/BannerIcons/BRS27_RebelClaw",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass",
+          "Cosmetics.Set.RainyHunter"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RainyHunter",
+          "name": "Storm Scavenger Lynx",
+          "partOf": "Part of the Storm Scavenger Lynx set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "F2AA771342783473652550ABFEA7D655",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 18,
+      "item": {
+        "id": "VTID_Glider_RebelClaw_Style_A",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Raider's Wayfarer",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/b5ae480f42bc0b6cd69df2b52338f337/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/b5ae480f42bc0b6cd69df2b52338f337/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/b5ae480f42bc0b6cd69df2b52338f337/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/b5ae480f42bc0b6cd69df2b52338f337/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Glider_RebelClaw_Style_A",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Glider_RebelClaw",
+          "variantNameTag:Cosmetics.Variant.Property.Particle1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "DCC452BC42C6E6982D95BFB4A73C7673",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 22,
+      "item": {
+        "id": "Wrap_RebelClaw",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Raider's Return",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.2,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/def320fae0fb39f6df17f69322742278/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/def320fae0fb39f6df17f69322742278/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/def320fae0fb39f6df17f69322742278/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/def320fae0fb39f6df17f69322742278/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_RebelClaw",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+          "Cosmetics.Source.Season27.BattlePass.Free",
+          "Cosmetics.Set.RainyHunter"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 4,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RainyHunter",
+          "name": "Storm Scavenger Lynx",
+          "partOf": "Part of the Storm Scavenger Lynx set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7A0152C5463E68147FFBF883B5BC5101",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 22,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "AC31577D466E37DE3D6199AEF55AEAA5",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 6,
+      "levelsNeededForUnlock": 22,
+      "item": {
+        "id": "VTID_Character_RebelClaw_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Renegade Lynx",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/5a19f3134df6d9c95c191fd4144009e2/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/5a19f3134df6d9c95c191fd4144009e2/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/5a19f3134df6d9c95c191fd4144009e2/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/5a19f3134df6d9c95c191fd4144009e2/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_RebelClaw_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_RebelClaw_Aviator",
+          "variantNameTag:Cosmetics.Variant.Property.Mat1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "BEE81E064F117460DB7D1D825F1F760B",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 3
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 26,
+      "item": {
+        "id": "LoadingScreen_RebelClaw2",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Dark Storm Renegade Lynx",
+        "description": "This suit may be my greatest design yet.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.03,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/11fb6dd96186d962daaa93cad61740b0/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/11fb6dd96186d962daaa93cad61740b0/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/11fb6dd96186d962daaa93cad61740b0/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/11fb6dd96186d962daaa93cad61740b0/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/11fb6dd96186d962daaa93cad61740b0/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_RebelClaw2",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass",
+          "Cosmetics.Set.RainyHunter"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RainyHunter",
+          "name": "Storm Scavenger Lynx",
+          "partOf": "Part of the Storm Scavenger Lynx set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "E67306E94D0F316D46956FBC4C253C18",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 3
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 26,
+      "item": {
+        "id": "Emoji_S27_RebelClaw",
+        "type": {
+          "id": "emoji",
+          "name": "Emoticon"
+        },
+        "name": "Renegade's Heart Eyes",
+        "description": "Express yourself on the battlefield.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.04,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/fcf92255f968bfc8839f1f3aef98d24c/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/fcf92255f968bfc8839f1f3aef98d24c/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/fcf92255f968bfc8839f1f3aef98d24c/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/fcf92255f968bfc8839f1f3aef98d24c/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S27_RebelClaw",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Emoji",
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass",
+          "Cosmetics.Set.RainyHunter",
+          "Cosmetics.UserFacingFlags.Emoticon.Animated"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 5,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RainyHunter",
+          "name": "Storm Scavenger Lynx",
+          "partOf": "Part of the Storm Scavenger Lynx set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "417617C344092ACC076792964722E797",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 26,
+      "item": {
+        "id": "VTID_Glider_RebelClaw_Style_B",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Dark Storm Raider's Wayfarer",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/d56661e5162c8717365e4e67298409ed/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/d56661e5162c8717365e4e67298409ed/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/d56661e5162c8717365e4e67298409ed/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/d56661e5162c8717365e4e67298409ed/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Glider_RebelClaw_Style_B",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Glider_RebelClaw",
+          "variantNameTag:Cosmetics.Variant.Property.Particle2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "784FF0D84CC35DB378BAEC9F3F4AD51E",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 26,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "E40FD4FB47B81BF358B65488FE7DE573",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 7
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 30,
+      "item": {
+        "id": "EID_RebelClaw",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Doze Dab",
+        "description": "Rest your weary dab.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.67,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/0f47612de682a3e10a432c1a21055c38/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/0f47612de682a3e10a432c1a21055c38/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/0f47612de682a3e10a432c1a21055c38/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/0f47612de682a3e10a432c1a21055c38/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_RebelClaw",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Set.RainyHunter"
+        ],
+        "apiTags": [
+          "emoteDuration:21.70",
+          "emoteLoop"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 5,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RainyHunter",
+          "name": "Storm Scavenger Lynx",
+          "partOf": "Part of the Storm Scavenger Lynx set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "D353BFFC444CBDFC27F2899A6D431EE5",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 30,
+      "item": {
+        "id": "VTID_Pickaxe_RebelClaw_Style_B",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Dark Storm Scratchmark Shredder",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/73a16473881dd932597f262f40221494/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/73a16473881dd932597f262f40221494/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/73a16473881dd932597f262f40221494/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/73a16473881dd932597f262f40221494/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_RebelClaw_Style_B",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_RebelClaw",
+          "variantNameTag:Cosmetics.Variant.Property.Particle2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "17772BF44AA4BA8EF5830F805C75028A",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 6,
+      "levelsNeededForUnlock": 30,
+      "item": {
+        "id": "VTID_Character_RebelClaw_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Dark Storm Renegade Lynx",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/e7b7f189446c39dff7ca8dcabd578457/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/e7b7f189446c39dff7ca8dcabd578457/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/e7b7f189446c39dff7ca8dcabd578457/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/e7b7f189446c39dff7ca8dcabd578457/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_RebelClaw_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_RebelClaw_Aviator",
+          "variantNameTag:Cosmetics.Variant.Property.Mat2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "A93BBE38475B78DD76D493B3D1E3934B",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 3
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 34,
+      "item": {
+        "id": "LoadingScreen_HornedJudgment2",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Omegarok",
+        "description": "Fear not. The end comes for us all. \r\n\r\nArt by Jim Mahfood.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.02,
+        "images": {
+          "icon": null,
+          "featured": null,
+          "background": null,
+          "icon_background": null,
+          "full_background": null
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_HornedJudgment2",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass",
+          "Cosmetics.Set.AlphaOmen"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "AlphaOmen",
+          "name": "Omega Harbinger",
+          "partOf": "Part of the Omega Harbinger set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "9B3794E24937457A23A41C9D340C4495",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 34,
+      "item": {
+        "id": "Wrap_HornedJudgment",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Final Harbinger",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.13,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/9f02d89a3d8bf4f4dcec5f9b37817a0b/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/9f02d89a3d8bf4f4dcec5f9b37817a0b/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/9f02d89a3d8bf4f4dcec5f9b37817a0b/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/9f02d89a3d8bf4f4dcec5f9b37817a0b/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_HornedJudgment",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass.Paid",
+          "Cosmetics.Set.AlphaOmen"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "AlphaOmen",
+          "name": "Omega Harbinger",
+          "partOf": "Part of the Omega Harbinger set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7E2FE60F40C37F5598DB9DB270B154AE",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "free",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 34,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "19B588004ED6610D1E0E27A4B5D90349",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 7
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 34,
+      "item": {
+        "id": "EID_HornedJudgment",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Lil' Longboat",
+        "description": "The hour of their lil' doom is set.",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.08,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/6d32527b8640c35f93a8a46fddc65206/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/6d32527b8640c35f93a8a46fddc65206/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/6d32527b8640c35f93a8a46fddc65206/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/6d32527b8640c35f93a8a46fddc65206/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_HornedJudgment",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Set.AlphaOmen",
+          "Cosmetics.UserFacingFlags.Emote.Traversal"
+        ],
+        "apiTags": [
+          "emoteDuration:13.33",
+          "emoteLoop"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "AlphaOmen",
+          "name": "Omega Harbinger",
+          "partOf": "Part of the Omega Harbinger set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "E31014494DF3A78D0571D58E00873D63",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 38,
+      "item": {
+        "id": "Backpack_HornedJudgmentCape",
+        "type": {
+          "id": "backpack",
+          "name": "BackBling"
+        },
+        "name": "Apocalypse Shroud",
+        "description": "Handed down from the ever-vengeful ancients.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.05,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/a774ffc60fadc82d823a2d3bfba64812/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/a774ffc60fadc82d823a2d3bfba64812/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/a774ffc60fadc82d823a2d3bfba64812/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/a774ffc60fadc82d823a2d3bfba64812/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Backpacks/Backpack_HornedJudgmentCape",
+        "gameplayTags": [
+          "Cosmetics.Backpack.IsCape",
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Set.AlphaOmen",
+          "Cosmetics.UserFacingFlags.HasVariants"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 6,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "AlphaOmen",
+          "name": "Omega Harbinger",
+          "partOf": "Part of the Omega Harbinger set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "F27FBE044B25178C92C25EB675007911",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 38,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "433C35AB4B55748BF65423A7CFE16B7B",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 6,
+      "levelsNeededForUnlock": 38,
+      "item": {
+        "id": "VTID_Character_HornedJudgment_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Omegarok",
+        "description": "",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/d592cb058a22d7427559e500bcc07597/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/d592cb058a22d7427559e500bcc07597/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/d592cb058a22d7427559e500bcc07597/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/d592cb058a22d7427559e500bcc07597/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_HornedJudgment_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_HornedJudgment_Midgard",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "06531E4946BC31AC74A03A98DA6F0B01",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 3
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 42,
+      "item": {
+        "id": "LoadingScreen_HornedJudgment",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Harbinger Armor Omegarok",
+        "description": "I am the harbinger of your end. I will have your respect. \r\n\r\nArt by Ink & Clog.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.03,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/311dfd1b8d21855ac1e2180378b30e17/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/311dfd1b8d21855ac1e2180378b30e17/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/311dfd1b8d21855ac1e2180378b30e17/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/311dfd1b8d21855ac1e2180378b30e17/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/311dfd1b8d21855ac1e2180378b30e17/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_HornedJudgment",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass",
+          "Cosmetics.Set.AlphaOmen"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "AlphaOmen",
+          "name": "Omega Harbinger",
+          "partOf": "Part of the Omega Harbinger set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "70EFE22B4AB4C20B987912A5A19673FD",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 42,
+      "item": {
+        "id": "Pickaxe_HornedJudgment",
+        "type": {
+          "id": "pickaxe",
+          "name": "Pickaxes"
+        },
+        "name": "Winter's Onslaught",
+        "description": "The unrelenting end, carved from glacial ice.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.02,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/d011692247c0f76eabbdf32a7d3534ba/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/d011692247c0f76eabbdf32a7d3534ba/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/d011692247c0f76eabbdf32a7d3534ba/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/d011692247c0f76eabbdf32a7d3534ba/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Pickaxes/Pickaxe_HornedJudgment",
+        "gameplayTags": [
+          "Cosmetics.UserFacingFlags.HasVariants",
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Set.AlphaOmen",
+          "Cosmetics.Source.Season27.BattlePass.Paid"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "AlphaOmen",
+          "name": "Omega Harbinger",
+          "partOf": "Part of the Omega Harbinger set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "761E60414A7C6502A3B0DE84CA81BE33",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "free",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 42,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "81D5E94B4E37940407048F8BA622D23E",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 42,
+      "item": {
+        "id": "Contrail_HornedJudgment",
+        "type": {
+          "id": "contrail",
+          "name": "Contrail"
+        },
+        "name": "Rage'n'Rock",
+        "description": "Burn all the way down.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.05,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/b5892cbbc3159b519ffd46db55637526/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/b5892cbbc3159b519ffd46db55637526/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/b5892cbbc3159b519ffd46db55637526/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/b5892cbbc3159b519ffd46db55637526/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Contrails/Contrail_HornedJudgment",
+        "gameplayTags": [
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass.Paid",
+          "Cosmetics.Set.AlphaOmen",
+          "Cosmetics.UserFacingFlags.HasVariants"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "AlphaOmen",
+          "name": "Omega Harbinger",
+          "partOf": "Part of the Omega Harbinger set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "17DB6CE04DFE054D5432E7B7666CFFFA",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 46,
+      "item": {
+        "id": "Glider_HornedJudgment",
+        "type": {
+          "id": "glider",
+          "name": "Glider"
+        },
+        "name": "Frostburn",
+        "description": "Awakened anew.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.12,
+        "images": {
+          "icon": null,
+          "featured": null,
+          "background": null,
+          "icon_background": null,
+          "full_background": null
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Gliders/Glider_HornedJudgment",
+        "gameplayTags": [
+          "Cosmetics.UserFacingFlags.HasVariants",
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Set.AlphaOmen",
+          "Cosmetics.Source.ItemShop"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 7,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "AlphaOmen",
+          "name": "Omega Harbinger",
+          "partOf": "Part of the Omega Harbinger set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "9D09ABA244736BD7F32879BC77F9014B",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 46,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "D763D796482DC8F06FA5A19C4CFF927A",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 46,
+      "item": {
+        "id": "VTID_Character_HornedJudgment_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Harbinger Armor Omegarok",
+        "description": "",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/9b9d51ec8f13d927d8e6bed123091577/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/9b9d51ec8f13d927d8e6bed123091577/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/9b9d51ec8f13d927d8e6bed123091577/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/9b9d51ec8f13d927d8e6bed123091577/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_HornedJudgment_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_HornedJudgment_Midgard",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "63147E2E4A43C3821D5D98BDF979F3C3",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "EID_LilSplit",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Do the 'Split",
+        "description": "Song of the summer.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.34,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/238d96b426da6aca1a694a70e53a4982/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/238d96b426da6aca1a694a70e53a4982/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/238d96b426da6aca1a694a70e53a4982/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/238d96b426da6aca1a694a70e53a4982/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_LilSplit",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Set.ExactPicture"
+        ],
+        "apiTags": [
+          "emoteDuration:12.80",
+          "emoteLoop"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": -1,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "ExactPicture",
+          "name": "Splittin' Image",
+          "partOf": "Part of the Splittin' Image set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "EAEC8F0D4BE761814E21A4B0A2079540",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "B657A6F4437EFFA95D617ABE86C1652E",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Backbling_RebelClaw_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Dark Storm Renegade Rustcat",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/f94425aabb4103208d91931af38ea54f/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/f94425aabb4103208d91931af38ea54f/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/f94425aabb4103208d91931af38ea54f/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/f94425aabb4103208d91931af38ea54f/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_RebelClaw_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_RebelClaw",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": -1,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "DFB065284DBBF3E60466E39BEE52F641",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Wrap_LilSplit_SprinklesFudge",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Just Desserts",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.06,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/ff7c8e4f867ff7bfe988e5939be754d0/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/ff7c8e4f867ff7bfe988e5939be754d0/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/ff7c8e4f867ff7bfe988e5939be754d0/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/ff7c8e4f867ff7bfe988e5939be754d0/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_LilSplit_SprinklesFudge",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.27",
+          "Cosmetics.Source.Season27.BattlePass.Paid",
+          "Cosmetics.Set.ExactPicture"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": -1,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "ExactPicture",
+          "name": "Splittin' Image",
+          "partOf": "Part of the Splittin' Image set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite OG",
+          "text": "Introduced in Fortnite OG."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "445EDE3D4C663695E23433AE7C3B1BC0",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "81C1C6F643FE541C867E6B80C335133E",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Pickaxe_RebelClaw_Style_A",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Scratchmark Shredder",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/2c050a172e9b4e7d1f6d0da7335cab15/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/2c050a172e9b4e7d1f6d0da7335cab15/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/2c050a172e9b4e7d1f6d0da7335cab15/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/2c050a172e9b4e7d1f6d0da7335cab15/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_RebelClaw_Style_A",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_RebelClaw",
+          "variantNameTag:Cosmetics.Variant.Property.Particle1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": -1,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "02CB018F45DCD1A6F42E788B6DD66EFA",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 6,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_RebelClaw_StyleC",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Magmatic Renegade Lynx",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-03",
+          "version": "27.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/dfef87edb95c21cbbdf20e6ca4b075b1/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/dfef87edb95c21cbbdf20e6ca4b075b1/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/dfef87edb95c21cbbdf20e6ca4b075b1/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/dfef87edb95c21cbbdf20e6ca4b075b1/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_RebelClaw_StyleC",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_RebelClaw_Aviator",
+          "variantNameTag:Cosmetics.Variant.Property.Mat3"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": -1,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "F197A07C4834873D31C2AF9F1D223059",
+      "tier": -1,
+      "page": 9,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 20
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_LilSplit_SL",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Time Breaker Lil Split",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-16",
+          "version": "27.10"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/2cf28cbf1df4efb59fdaa3c8c6a51455/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/2cf28cbf1df4efb59fdaa3c8c6a51455/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/2cf28cbf1df4efb59fdaa3c8c6a51455/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/2cf28cbf1df4efb59fdaa3c8c6a51455/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_LilSplit_SL",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_LilSplit_Sprinkles",
+          "variantNameTag:Cosmetics.Variant.Property.Stage5"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": -1,
+          "page": 9,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "F1249F3948E6E156D69E16B424250FB1",
+      "tier": -1,
+      "page": 9,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 20
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_RebelClaw_SL",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Time Breaker Renegade Lynx",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-16",
+          "version": "27.10"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/6e4c1b49ed69bf55a046c1ee29136e36/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/6e4c1b49ed69bf55a046c1ee29136e36/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/6e4c1b49ed69bf55a046c1ee29136e36/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/6e4c1b49ed69bf55a046c1ee29136e36/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_RebelClaw_SL",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_RebelClaw_Aviator",
+          "variantNameTag:Cosmetics.Variant.Property.Mat4"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": -1,
+          "page": 9,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "E59D657540053B1AF38FE09502F2A3D8",
+      "tier": -1,
+      "page": 9,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 20
+      },
+      "rewardsNeededForUnlock": 2,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_HornedJudgment_SL",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Time Breaker Omegarok",
+        "description": "",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2023-11-16",
+          "version": "27.10"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/21d324aa7a57ab3f9d19bf589aaabf81/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/21d324aa7a57ab3f9d19bf589aaabf81/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/21d324aa7a57ab3f9d19bf589aaabf81/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/21d324aa7a57ab3f9d19bf589aaabf81/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_HornedJudgment_SL",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_HornedJudgment_Midgard",
+          "variantNameTag:Cosmetics.Variant.Property.Mat2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 27,
+          "tier": -1,
+          "page": 9,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite OG",
+            "chapterSeason": "Fortnite OG"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    }
+  ]
+}

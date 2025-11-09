@@ -1,0 +1,732 @@
+{
+  "result": true,
+  "lang": "en",
+  "season": 36,
+  "bundles": [
+    {
+      "tag": null,
+      "name": "",
+      "colorData": null,
+      "bundles": [
+        {
+          "id": "QuestBundle_S36_SummerRoadtrip_BonusGoals",
+          "name": "[Road Trip] Bonus Goals",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "PARTY UP - SUMMER ROAD TRIP Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_S36_Roadtrip_Bonus_01",
+              "name": "Complete Summer Road Trip Quests",
+              "description": "Complete Summer Road Trip Quests",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-22 17:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "SID_Placeholder_627",
+                    "type": {
+                      "id": "sparks_song",
+                      "name": "Jam Track"
+                    },
+                    "name": "The Zephyr Song",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/displayAssets/visualids/7erdmrejgcqxqtxy-512x512-5653bfb7d7ea.jpg",
+                      "featured": null,
+                      "background": null,
+                      "icon_background": null,
+                      "full_background": null
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Bonus_02",
+              "name": "Complete Summer Road Trip Quests",
+              "description": "Complete Summer Road Trip Quests",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-22 17:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_SummerRoadTrip2025",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "Appeeling Drive",
+                    "rarity": {
+                      "id": "Epic",
+                      "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/0139eaed7f4fd48f38558588b9a81258/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/0139eaed7f4fd48f38558588b9a81258/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/0139eaed7f4fd48f38558588b9a81258/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/0139eaed7f4fd48f38558588b9a81258/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Bonus_03",
+              "name": "Complete Summer Road Trip Quests",
+              "description": "Complete Summer Road Trip Quests",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-22 17:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoticon_SummerRoadTrip2025",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "Cool Sun",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/dd7a4c1311c15317a8342e56a0f2ebde/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/dd7a4c1311c15317a8342e56a0f2ebde/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/dd7a4c1311c15317a8342e56a0f2ebde/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/dd7a4c1311c15317a8342e56a0f2ebde/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Bonus_04",
+              "name": "Complete Summer Road Trip Quests",
+              "description": "Complete Summer Road Trip Quests",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-22 17:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 4,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Wrap_CoconutFloater",
+                    "type": {
+                      "id": "wrap",
+                      "name": "Wrap"
+                    },
+                    "name": "Sunset Vibes",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/95080c2f81d7044071c652bd06fad19a/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/95080c2f81d7044071c652bd06fad19a/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/95080c2f81d7044071c652bd06fad19a/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/95080c2f81d7044071c652bd06fad19a/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Bonus_05",
+              "name": "Complete Summer Road Trip Quests",
+              "description": "Complete Summer Road Trip Quests",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-22 17:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_SummerRoadTrip2025_2",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "Sushi Scuba",
+                    "rarity": {
+                      "id": "Epic",
+                      "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/ef28fcd5e7cbcc46c5474715a7b03478/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/ef28fcd5e7cbcc46c5474715a7b03478/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/ef28fcd5e7cbcc46c5474715a7b03478/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/ef28fcd5e7cbcc46c5474715a7b03478/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Bonus_06",
+              "name": "Complete Summer Road Trip Quests",
+              "description": "Complete Summer Road Trip Quests",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-22 17:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 6,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Bonus_07",
+              "name": "Complete Summer Road Trip Quests",
+              "description": "Complete Summer Road Trip Quests",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-22 17:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_SummerRoadTrip2025_3",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "Jelly Jammin'",
+                    "rarity": {
+                      "id": "Epic",
+                      "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/edbbd685824f11eef19f9a8d7872c694/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/edbbd685824f11eef19f9a8d7872c694/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/edbbd685824f11eef19f9a8d7872c694/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/edbbd685824f11eef19f9a8d7872c694/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Bonus_08",
+              "name": "Complete Summer Road Trip Quests",
+              "description": "Complete Summer Road Trip Quests",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-22 17:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 8,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "CarBody_Eagle",
+                    "type": {
+                      "id": "vehicle_body",
+                      "name": "Rocket powered perfection in a league of its own."
+                    },
+                    "name": "Chevrolet Corvette ZR1",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": {
+                      "id": "Series_Chevrolet",
+                      "name": "Series_Chevrolet"
+                    },
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/148e29f4118e5489c7ccddf94ad9a79e/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/148e29f4118e5489c7ccddf94ad9a79e/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/148e29f4118e5489c7ccddf94ad9a79e/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/148e29f4118e5489c7ccddf94ad9a79e/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  },
+                  {
+                    "id": "CarSkin_EagleLivery04",
+                    "type": {
+                      "id": "vehicle_skin",
+                      "name": "Decal"
+                    },
+                    "name": "ZR1 Circuit",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": {
+                      "id": "Series_Chevrolet",
+                      "name": "Series_Chevrolet"
+                    },
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/8dac78d376b7576521f3e08c8a9c985b/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/8dac78d376b7576521f3e08c8a9c985b/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/8dac78d376b7576521f3e08c8a9c985b/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/8dac78d376b7576521f3e08c8a9c985b/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S36_SummerRoadtrip_CreativeQuests",
+          "name": "[Road Trip] Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Sweat drops",
+          "quests": [
+            {
+              "id": "Quest_S36_RoadTrip_01",
+              "name": "Earn XP in Creator Made experiences in a party with friends",
+              "description": "Earn XP in Creator Made experiences in a party with friends",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-22 17:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 40000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_RoadTrip_02",
+              "name": "Earn XP in Creator Made experiences in a party with friends",
+              "description": "Earn XP in Creator Made experiences in a party with friends",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 40000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_RoadTrip_03",
+              "name": "Earn XP in Creator Made experiences in a party with friends",
+              "description": "Earn XP in Creator Made experiences in a party with friends",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 40000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_RoadTrip_04",
+              "name": "Earn XP in Creator Made experiences in a party with friends",
+              "description": "Earn XP in Creator Made experiences in a party with friends",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 40000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_RoadTrip_05",
+              "name": "Earn XP in Creator Made experiences in a party with friends",
+              "description": "Earn XP in Creator Made experiences in a party with friends",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 40000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_RoadTrip_06",
+              "name": "Earn XP in By Epic experiences in a party with friends",
+              "description": "Earn XP in By Epic experiences in a party with friends",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-22 17:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 40000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_RoadTrip_07",
+              "name": "Earn XP in By Epic experiences in a party with friends",
+              "description": "Earn XP in By Epic experiences in a party with friends",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 40000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_RoadTrip_08",
+              "name": "Earn XP in By Epic experiences in a party with friends",
+              "description": "Earn XP in By Epic experiences in a party with friends",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 40000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_RoadTrip_09",
+              "name": "Earn XP in By Epic experiences in a party with friends",
+              "description": "Earn XP in By Epic experiences in a party with friends",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 40000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_RoadTrip_10",
+              "name": "Earn XP in By Epic experiences in a party with friends",
+              "description": "Earn XP in By Epic experiences in a party with friends",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 40000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Granter_D10",
+              "name": "Road Trip Granter Quest",
+              "description": "Road Trip Granter Quest",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-29 18:14:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Granter_D2",
+              "name": "Road Trip Granter Quest",
+              "description": "Road Trip Granter Quest",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-23 18:18:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Granter_D3",
+              "name": "Road Trip Granter Quest",
+              "description": "Road Trip Granter Quest",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-25 13:00:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Granter_D4",
+              "name": "Road Trip Granter Quest",
+              "description": "Road Trip Granter Quest",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-27 18:40:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Granter_D5",
+              "name": "Road Trip Granter Quest",
+              "description": "Road Trip Granter Quest",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-29 18:14:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Granter_D6",
+              "name": "Road Trip Granter Quest",
+              "description": "Road Trip Granter Quest",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Granter_D7",
+              "name": "Road Trip Granter Quest",
+              "description": "Road Trip Granter Quest",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-24 18:08:06+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Granter_D8",
+              "name": "Road Trip Granter Quest",
+              "description": "Road Trip Granter Quest",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-26 18:40:06+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_Roadtrip_Granter_D9",
+              "name": "Road Trip Granter Quest",
+              "description": "Road Trip Granter Quest",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-28 17:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S36_SummerRoadTrip_Favorite_a_Creator",
+              "name": "Favorite a Creator from their Creator Page",
+              "description": "Favorite a Creator from their Creator Page",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2025-07-22 17:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Banner_SummerRoadTrip2025",
+                    "type": {
+                      "id": "bannertoken",
+                      "name": "BANNER"
+                    },
+                    "name": "Banner Icon",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/fea66ef9fc675bc91830761e5ef1c2ad/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/fea66ef9fc675bc91830761e5ef1c2ad/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/fea66ef9fc675bc91830761e5ef1c2ad/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/fea66ef9fc675bc91830761e5ef1c2ad/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6280 @@
+{
+  "result": true,
+  "season": 34,
+  "displayInfo": {
+    "chapter": "Chapter 6",
+    "season": "Season 2",
+    "chapterSeason": "Chapter 6 - Season 2",
+    "battlepassName": "Battle Pass"
+  },
+  "seasonDates": {
+    "begin": "2025-02-21T06:00:00.000Z",
+    "end": "2025-05-02T05:59:59.000Z"
+  },
+  "videos": [
+    {
+      "lang": "en",
+      "type": "trailer",
+      "url": "https://media.fortniteapi.io/videos/seasons/trailer_s34_en.mp4"
+    }
+  ],
+  "rewards": [
+    {
+      "offerId": "F75569B44BE3403F93B1EA888F259557",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_CasinoReaper_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Cassidy Quinn",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/0e358c3b473030ee534c5ff42ec371fb/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/0e358c3b473030ee534c5ff42ec371fb/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/0e358c3b473030ee534c5ff42ec371fb/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/0e358c3b473030ee534c5ff42ec371fb/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_CasinoReaper_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_CasinoReaper_Die",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "DA65982D4041286CE4B4259A85BA67FF",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Backbling_CasinoReaper_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Royale Backplate",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/62f537a28d7eb2d73b46ac6989f726cd/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/62f537a28d7eb2d73b46ac6989f726cd/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/62f537a28d7eb2d73b46ac6989f726cd/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/62f537a28d7eb2d73b46ac6989f726cd/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_CasinoReaper_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_CasinoReaper",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7DBE24FE45837B7F4CFB6C91B6469D2C",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Pickaxe_CasinoReaper_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Hot Pokers",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/3ceaa1ad9d55e8d79f1efe96ec4e6c1d/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/3ceaa1ad9d55e8d79f1efe96ec4e6c1d/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/3ceaa1ad9d55e8d79f1efe96ec4e6c1d/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/3ceaa1ad9d55e8d79f1efe96ec4e6c1d/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_CasinoReaper_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_CasinoReaper",
+          "variantNameTag:Cosmetics.Variant.Property.Particle1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 1,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "B4C7FD4D4076A28124477CB3CEEA7D27",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "EID_CasinoReaper",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Duelist's Card Trick",
+        "description": "Cut the deck.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/476762188605b31f14ef6ac8ebc0763c/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/476762188605b31f14ef6ac8ebc0763c/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/476762188605b31f14ef6ac8ebc0763c/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/476762188605b31f14ef6ac8ebc0763c/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_CasinoReaper",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.ClownShovel"
+        ],
+        "apiTags": [
+          "emoteDuration:5.60"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "ClownShovel",
+          "name": "Quinn of Spades",
+          "partOf": "Part of the Quinn of Spades set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7BC0361B4DCCE8A1B03D76821081D3DC",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Spray_CasinoReaper2",
+        "type": {
+          "id": "spray",
+          "name": "Spray"
+        },
+        "name": "Piercing Ace",
+        "description": "Leave your mark.",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/1676e0968a9afe9d7a6c75c05d4cacfb/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/1676e0968a9afe9d7a6c75c05d4cacfb/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/1676e0968a9afe9d7a6c75c05d4cacfb/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/1676e0968a9afe9d7a6c75c05d4cacfb/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Sprays/Spray_CasinoReaper2",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Spray",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.ClownShovel"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 1,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "ClownShovel",
+          "name": "Quinn of Spades",
+          "partOf": "Part of the Quinn of Spades set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "01BEDE8A4E8DF325113DBEAD59C5A09F",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Contrail_CasinoReaper",
+        "type": {
+          "id": "contrail",
+          "name": "Contrail"
+        },
+        "name": "Aces Fly",
+        "description": "Those weren't up your sleeve, were they?",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/392a5710b64ae0c74808e66106c8f985/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/392a5710b64ae0c74808e66106c8f985/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/392a5710b64ae0c74808e66106c8f985/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/392a5710b64ae0c74808e66106c8f985/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Contrails/Contrail_CasinoReaper",
+        "gameplayTags": [
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+          "Cosmetics.Set.ClownShovel",
+          "Cosmetics.Source.Season34.BattlePass.Paid"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "ClownShovel",
+          "name": "Quinn of Spades",
+          "partOf": "Part of the Quinn of Spades set."
+        },
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "75AC40DB4BBB9A88ACCAB7AA0C580FE7",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "LoadingScreen_CasinoReaper2",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "AKA The Queen of Spades",
+        "description": "Do whatever it takes to even the odds. \r\n\r\nArt by Eric Canete.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/9b83de6ca400efbf9fa647dd877b5f08/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/9b83de6ca400efbf9fa647dd877b5f08/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/9b83de6ca400efbf9fa647dd877b5f08/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/9b83de6ca400efbf9fa647dd877b5f08/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/9b83de6ca400efbf9fa647dd877b5f08/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_CasinoReaper2",
+        "gameplayTags": [
+          "Cosmetics.Source.ItemShop",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Set.ClownShovel"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "ClownShovel",
+          "name": "Quinn of Spades",
+          "partOf": "Part of the Quinn of Spades set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "20516D8A446B620E4280C49B64ED01BE",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Glider_CasinoReaper_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Dealer's Deck",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/28cce1632b34d9205a5a25c67494fc47/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/28cce1632b34d9205a5a25c67494fc47/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/28cce1632b34d9205a5a25c67494fc47/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/28cce1632b34d9205a5a25c67494fc47/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Glider_CasinoReaper_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Glider_CasinoReaper",
+          "variantNameTag:Cosmetics.Variant.Property.Particle1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 1,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "A6CD76094DA79C6DC6CB4482A4AD6B9D",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Wrap_CasinoReaper",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Quinn's Winner",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/ec482b792d3f05e4b7c23569b0f48ba9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/ec482b792d3f05e4b7c23569b0f48ba9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/ec482b792d3f05e4b7c23569b0f48ba9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/ec482b792d3f05e4b7c23569b0f48ba9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_CasinoReaper",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+          "Cosmetics.Set.ClownShovel",
+          "Cosmetics.Source.Season34.BattlePass.Paid"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "ClownShovel",
+          "name": "Quinn of Spades",
+          "partOf": "Part of the Quinn of Spades set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "3395EEC54EF4F892087808A356E4F368",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "BRS34_CasinoReaper",
+        "type": {
+          "id": "bannertoken",
+          "name": "BANNER"
+        },
+        "name": "Banner Icon",
+        "description": "A new icon for your banner. Assign it in the Locker.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/c4a9982000bc5a1c3430bdaafbfa83d2/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/c4a9982000bc5a1c3430bdaafbfa83d2/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/c4a9982000bc5a1c3430bdaafbfa83d2/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/c4a9982000bc5a1c3430bdaafbfa83d2/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/BannerIcons/BRS34_CasinoReaper",
+        "gameplayTags": [
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.ClownShovel"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 2,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "ClownShovel",
+          "name": "Quinn of Spades",
+          "partOf": "Part of the Quinn of Spades set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "1512C03D4424F9E990E12F87DDB9DC96",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Glider_CasinoReaper_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Slurpshooter Dealer's Deck",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/e884b29bf4eb767fadaa03e761a2e0db/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/e884b29bf4eb767fadaa03e761a2e0db/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/e884b29bf4eb767fadaa03e761a2e0db/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/e884b29bf4eb767fadaa03e761a2e0db/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Glider_CasinoReaper_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Glider_CasinoReaper",
+          "variantNameTag:Cosmetics.Variant.Property.Particle2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "4E1DA02C4E182A99C769E8BDBDBC5477",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_CasinoReaper_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Slurpshooter Cassidy Quinn",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/daf0ac74212956bf455eaa3222850035/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/daf0ac74212956bf455eaa3222850035/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/daf0ac74212956bf455eaa3222850035/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/daf0ac74212956bf455eaa3222850035/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_CasinoReaper_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_CasinoReaper_Die",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "A9EF771F4ADDB332870BC2922499D25E",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Pickaxe_CasinoReaper_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Slurpshooter Hot Pokers",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/408de5d4078aa9b507ca3cfcc6ddd442/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/408de5d4078aa9b507ca3cfcc6ddd442/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/408de5d4078aa9b507ca3cfcc6ddd442/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/408de5d4078aa9b507ca3cfcc6ddd442/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_CasinoReaper_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_CasinoReaper",
+          "variantNameTag:Cosmetics.Variant.Property.Particle2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "B9C5ACA94FD4624070661C81A19CCC4C",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "9120ED2148D98F9542AFF5B92893FCE5",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Emoji_S34_CasinoReaper",
+        "type": {
+          "id": "emoji",
+          "name": "Emoticon"
+        },
+        "name": "Heartbreaker Ace",
+        "description": "Express yourself on the battlefield.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/7cdc83f027bb8d092bce7e1cb4681641/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/7cdc83f027bb8d092bce7e1cb4681641/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/7cdc83f027bb8d092bce7e1cb4681641/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/7cdc83f027bb8d092bce7e1cb4681641/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S34_CasinoReaper",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Emoji",
+          "Cosmetics.UserFacingFlags.Emoticon.Animated",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Set.ClownShovel"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "ClownShovel",
+          "name": "Quinn of Spades",
+          "partOf": "Part of the Quinn of Spades set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "46C86CFF47E92687D64A0E9469F0F30A",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Spray_TrafficHat2",
+        "type": {
+          "id": "spray",
+          "name": "Spray"
+        },
+        "name": "Joss' Chaos",
+        "description": "Leave your mark.",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/92ab64862e910ec17edf7fac9121a0f9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/92ab64862e910ec17edf7fac9121a0f9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/92ab64862e910ec17edf7fac9121a0f9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/92ab64862e910ec17edf7fac9121a0f9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Sprays/Spray_TrafficHat2",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Spray",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.RandomPotion"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RandomPotion",
+          "name": "Chaotic Concoctions",
+          "partOf": "Part of the Chaotic Concoctions set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "D68299B7438A2D16765DBDBC8D9BEE06",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Wrap_TrafficHat",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Strange Concoction",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/4ae3d55984201c535bff0a908a8c87b0/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/4ae3d55984201c535bff0a908a8c87b0/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/4ae3d55984201c535bff0a908a8c87b0/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/4ae3d55984201c535bff0a908a8c87b0/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_TrafficHat",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass.Free",
+          "Cosmetics.Set.RandomPotion",
+          "Cosmetics.UserFacingFlags.Wrap.Animated",
+          "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 3,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RandomPotion",
+          "name": "Chaotic Concoctions",
+          "partOf": "Part of the Chaotic Concoctions set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7C0ED9F9404577956B7E919F8EFD867B",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "834A2A8F4C8748AD9E15899787DB59F2",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_TrafficHat_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Joss",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/e235efb9a798fd19928ba8ac9da02bd5/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/e235efb9a798fd19928ba8ac9da02bd5/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/e235efb9a798fd19928ba8ac9da02bd5/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/e235efb9a798fd19928ba8ac9da02bd5/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_TrafficHat_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_TrafficHat_Boba",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "B29AD6F84B78629F7FEE6BB4F3FA91BD",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "EID_TrafficHat",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "It's Chemistry!",
+        "description": "There's a solution for every problem.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/86f3467adc65645cfaafe90eadd91f1c/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/86f3467adc65645cfaafe90eadd91f1c/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/86f3467adc65645cfaafe90eadd91f1c/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/86f3467adc65645cfaafe90eadd91f1c/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_TrafficHat",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.RandomPotion"
+        ],
+        "apiTags": [
+          "emoteDuration:9.33"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RandomPotion",
+          "name": "Chaotic Concoctions",
+          "partOf": "Part of the Chaotic Concoctions set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "DAD6D611484EDFA56C79E496492A929B",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Backpack_TrafficHat",
+        "type": {
+          "id": "backpack",
+          "name": "BackBling"
+        },
+        "name": "Bunsen Backburner",
+        "description": "Spark a bright idea.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/2d067bd20a51e292f0bd5e33977bb6b9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/2d067bd20a51e292f0bd5e33977bb6b9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/2d067bd20a51e292f0bd5e33977bb6b9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/2d067bd20a51e292f0bd5e33977bb6b9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Backpacks/Backpack_TrafficHat",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.UserFacingFlags.HasVariants",
+          "Cosmetics.Set.RandomPotion"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 3,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RandomPotion",
+          "name": "Chaotic Concoctions",
+          "partOf": "Part of the Chaotic Concoctions set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [
+          {
+            "name": "toon",
+            "channel": "Cosmetics.Variant.Channel.Material",
+            "channelName": "shading",
+            "tag": "Cosmetics.Variant.Property.Mat1",
+            "isDefault": true,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": "https://media.fortniteapi.io/images/styles/T_Icon_Backpacks_TrafficHat_Toon.png"
+          },
+          {
+            "name": "outlined gradient",
+            "channel": "Cosmetics.Variant.Channel.Material",
+            "channelName": "shading",
+            "tag": "Cosmetics.Variant.Property.Mat2",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": "https://media.fortniteapi.io/images/styles/T_Icon_Backpacks_TrafficHat_PBR_Outline.png"
+          },
+          {
+            "name": "gradient",
+            "channel": "Cosmetics.Variant.Channel.Material",
+            "channelName": "shading",
+            "tag": "Cosmetics.Variant.Property.Mat3",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": "https://media.fortniteapi.io/images/styles/T_Icon_Backpacks_TrafficHat_PBR.png"
+          }
+        ],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "51D3F5F740CFDCE264239DACFC5B2A62",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "LoadingScreen_TrafficHat",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "AKA The Witch",
+        "description": "Science is always better than magic. \r\n\r\nArt by Ricardo Lopez Ortiz.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/e2684a64e9d608ac27ad475d9da77342/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/e2684a64e9d608ac27ad475d9da77342/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/e2684a64e9d608ac27ad475d9da77342/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/e2684a64e9d608ac27ad475d9da77342/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/e2684a64e9d608ac27ad475d9da77342/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_TrafficHat",
+        "gameplayTags": [
+          "Cosmetics.Source.ItemShop",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Set.RandomPotion"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RandomPotion",
+          "name": "Chaotic Concoctions",
+          "partOf": "Part of the Chaotic Concoctions set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "C58F3D2845A6FA310DA15E87165697C3",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Emoji_S34_TrafficHat",
+        "type": {
+          "id": "emoji",
+          "name": "Emoticon"
+        },
+        "name": "Medmisty",
+        "description": "Express yourself on the battlefield.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/90a7401e00c41f521993b9aff75fea91/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/90a7401e00c41f521993b9aff75fea91/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/90a7401e00c41f521993b9aff75fea91/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/90a7401e00c41f521993b9aff75fea91/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S34_TrafficHat",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Emoji",
+          "Cosmetics.UserFacingFlags.Emoticon.Animated",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Set.RandomPotion"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 4,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RandomPotion",
+          "name": "Chaotic Concoctions",
+          "partOf": "Part of the Chaotic Concoctions set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "3CDA3AF14D0283551C6289B7AE62D911",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7346BCB04ACE036665299D8B1BB1E1F7",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "LoadingScreen_TrafficHat2",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "The Bank Job",
+        "description": "Crime is a science... and an art. \r\n\r\nArt by Leo Chiola.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/f7df006d114e96e12b05ac09152f82ac/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/f7df006d114e96e12b05ac09152f82ac/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/f7df006d114e96e12b05ac09152f82ac/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/f7df006d114e96e12b05ac09152f82ac/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/f7df006d114e96e12b05ac09152f82ac/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_TrafficHat2",
+        "gameplayTags": [
+          "Cosmetics.Source.ItemShop",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Set.RandomPotion"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RandomPotion",
+          "name": "Chaotic Concoctions",
+          "partOf": "Part of the Chaotic Concoctions set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "471BC419436ADFAD8EF9C78FACB7C066",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Glider_TrafficHat",
+        "type": {
+          "id": "glider",
+          "name": "Glider"
+        },
+        "name": "Chemist's Cloudglider",
+        "description": "Cumulonimb-tastic!",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/e1b47074b20e7b8be546205c8097af68/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/e1b47074b20e7b8be546205c8097af68/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/e1b47074b20e7b8be546205c8097af68/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/e1b47074b20e7b8be546205c8097af68/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Gliders/Glider_TrafficHat",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.RandomPotion",
+          "Cosmetics.Source.Season34.BattlePass.Free"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 4,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RandomPotion",
+          "name": "Chaotic Concoctions",
+          "partOf": "Part of the Chaotic Concoctions set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "9BA5A886487217CC9BB69D8BBDE08B1C",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "BRS34_TrafficHat",
+        "type": {
+          "id": "bannertoken",
+          "name": "BANNER"
+        },
+        "name": "Banner Icon",
+        "description": "A new icon for your banner. Assign it in the Locker.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/52438ca6365780e051693633ced24159/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/52438ca6365780e051693633ced24159/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/52438ca6365780e051693633ced24159/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/52438ca6365780e051693633ced24159/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/BannerIcons/BRS34_TrafficHat",
+        "gameplayTags": [
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.RandomPotion"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RandomPotion",
+          "name": "Chaotic Concoctions",
+          "partOf": "Part of the Chaotic Concoctions set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "984DDE9142364391A8A28788A13B469F",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_TrafficHat_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Gram Stain Joss",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/1fa4f7feb3c08590f7be59a554ecdc9a/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/1fa4f7feb3c08590f7be59a554ecdc9a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/1fa4f7feb3c08590f7be59a554ecdc9a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/1fa4f7feb3c08590f7be59a554ecdc9a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_TrafficHat_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_TrafficHat_Boba",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "75E2275A4E720AE01A469CA364103B27",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Pickaxe_TrafficHat",
+        "type": {
+          "id": "pickaxe",
+          "name": "Pickaxes"
+        },
+        "name": "Titrationator",
+        "description": "For carefully measured swings.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/18660d9b2be28f5f046b4da4b40698a7/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/18660d9b2be28f5f046b4da4b40698a7/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/18660d9b2be28f5f046b4da4b40698a7/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/18660d9b2be28f5f046b4da4b40698a7/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Pickaxes/Pickaxe_TrafficHat",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.RandomPotion",
+          "Cosmetics.Source.Season34.BattlePass.Paid"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "RandomPotion",
+          "name": "Chaotic Concoctions",
+          "partOf": "Part of the Chaotic Concoctions set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [
+          {
+            "name": "toon",
+            "channel": "Cosmetics.Variant.Channel.Material",
+            "channelName": "shading",
+            "tag": "Cosmetics.Variant.Property.Mat1",
+            "isDefault": true,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": "https://media.fortniteapi.io/images/styles/T_Icon_Pickaxes_TrafficHat_Toon.png"
+          },
+          {
+            "name": "outlined gradient",
+            "channel": "Cosmetics.Variant.Channel.Material",
+            "channelName": "shading",
+            "tag": "Cosmetics.Variant.Property.Mat2",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": "https://media.fortniteapi.io/images/styles/T_Icon_Pickaxes_TrafficHat_PBROutine.png"
+          },
+          {
+            "name": "gradient",
+            "channel": "Cosmetics.Variant.Channel.Material",
+            "channelName": "shading",
+            "tag": "Cosmetics.Variant.Property.Mat3",
+            "isDefault": false,
+            "startUnlocked": true,
+            "hideIfNotOwned": false,
+            "image": "https://media.fortniteapi.io/images/styles/T_Icon_Pickaxes_TrafficHat_PBR.png"
+          }
+        ],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "E5539D944AE53573D340ED8393FF3EFF",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "LoadingScreen_SherWolf",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Baron of Howls",
+        "description": "None of you vermin will escape my teeth! \r\n\r\nArt by Mike Del Mundo.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/0b6b2a36b90f743f26e6415688df6d74/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/0b6b2a36b90f743f26e6415688df6d74/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/0b6b2a36b90f743f26e6415688df6d74/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/0b6b2a36b90f743f26e6415688df6d74/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/0b6b2a36b90f743f26e6415688df6d74/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_SherWolf",
+        "gameplayTags": [
+          "Cosmetics.Source.ItemShop",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Set.BigLeader"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BigLeader",
+          "name": "The Baron",
+          "partOf": "Part of the The Baron set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "2145727B455F839F480FB192D1E300EC",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Backpack_SherWolf",
+        "type": {
+          "id": "backpack",
+          "name": "BackBling"
+        },
+        "name": "Lone Wolf Holster",
+        "description": "A pack for the packless.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/931d1c8b666533372c175fb42d1ccb41/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/931d1c8b666533372c175fb42d1ccb41/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/931d1c8b666533372c175fb42d1ccb41/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/931d1c8b666533372c175fb42d1ccb41/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Backpacks/Backpack_SherWolf",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.BigLeader"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 5,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BigLeader",
+          "name": "The Baron",
+          "partOf": "Part of the The Baron set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "374CD16A43DD291FB86D4195200EDC31",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Emoji_S34_SherWolf",
+        "type": {
+          "id": "emoji",
+          "name": "Emoticon"
+        },
+        "name": "Awoo",
+        "description": "Express yourself on the battlefield.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/37e1b9cc2f6916d7c967ee834d6648b2/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/37e1b9cc2f6916d7c967ee834d6648b2/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/37e1b9cc2f6916d7c967ee834d6648b2/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/37e1b9cc2f6916d7c967ee834d6648b2/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S34_SherWolf",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Emoji",
+          "Cosmetics.UserFacingFlags.Emoticon.Animated",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Set.BigLeader"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BigLeader",
+          "name": "The Baron",
+          "partOf": "Part of the The Baron set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "5C354BD549F9A7592BE446A4E9946F04",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_SherWolf_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Fletcher Kane",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/95994e4edc8cf8010803886ae49d76a5/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/95994e4edc8cf8010803886ae49d76a5/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/95994e4edc8cf8010803886ae49d76a5/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/95994e4edc8cf8010803886ae49d76a5/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_SherWolf_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_SherWolf_Gnash",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "D25FD2C84AEB58720F0188B274251761",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Glider_SherWolf",
+        "type": {
+          "id": "glider",
+          "name": "Glider"
+        },
+        "name": "Pack Leader",
+        "description": "The alpha has landed.",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/bc5479f88ea87a10a62004053ce3391c/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/bc5479f88ea87a10a62004053ce3391c/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/bc5479f88ea87a10a62004053ce3391c/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/bc5479f88ea87a10a62004053ce3391c/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Gliders/Glider_SherWolf",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.BigLeader",
+          "Cosmetics.Source.Season34.BattlePass.Paid"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BigLeader",
+          "name": "The Baron",
+          "partOf": "Part of the The Baron set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "62B9BC68448470C02F8DFB9AB4BA80DA",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Spray_SherWolf2",
+        "type": {
+          "id": "spray",
+          "name": "Spray"
+        },
+        "name": "Golden Wolf",
+        "description": "Leave your mark.",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/b7704af96d945b630466f6fbf4664c36/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/b7704af96d945b630466f6fbf4664c36/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/b7704af96d945b630466f6fbf4664c36/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/b7704af96d945b630466f6fbf4664c36/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Sprays/Spray_SherWolf2",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Spray",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.BigLeader"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 5,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BigLeader",
+          "name": "The Baron",
+          "partOf": "Part of the The Baron set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "3244FEFA48A1566553BC51AC2F89642F",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "SID_Placeholder_524",
+        "type": {
+          "id": "sparks_song",
+          "name": "Jam Track"
+        },
+        "name": "Crimson Barony",
+        "description": "",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/4529e88bb267dd0be7ea8d0cc665ea1d/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/4529e88bb267dd0be7ea8d0cc665ea1d/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/4529e88bb267dd0be7ea8d0cc665ea1d/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/4529e88bb267dd0be7ea8d0cc665ea1d/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/SparksSongTemplates/Items/Songs/SID_Placeholder_524",
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "3B1BDE4C400764D7993A1D9B943ED861",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Contrail_SherWolf",
+        "type": {
+          "id": "contrail",
+          "name": "Contrail"
+        },
+        "name": "Fur Faller",
+        "description": "Headed for the mane event.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/1230530db3c794606471f1a989ea8714/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/1230530db3c794606471f1a989ea8714/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/1230530db3c794606471f1a989ea8714/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/1230530db3c794606471f1a989ea8714/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Contrails/Contrail_SherWolf",
+        "gameplayTags": [
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+          "Cosmetics.Set.BigLeader",
+          "Cosmetics.Source.Season34.BattlePass.Paid"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BigLeader",
+          "name": "The Baron",
+          "partOf": "Part of the The Baron set."
+        },
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "A4CCE1F5447B250C578858AB326D1254",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "EID_SherWolf",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Baron's Hoard",
+        "description": "Build your golden empire, brick by brick.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/4cc350a5b006f795629b16d5f11efefc/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/4cc350a5b006f795629b16d5f11efefc/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/4cc350a5b006f795629b16d5f11efefc/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/4cc350a5b006f795629b16d5f11efefc/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_SherWolf",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.BigLeader"
+        ],
+        "apiTags": [
+          "emoteDuration:15.27",
+          "emoteLoop"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 6,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BigLeader",
+          "name": "The Baron",
+          "partOf": "Part of the The Baron set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "0E0270A246928E2FC055419E1716977D",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "146469344D756807F3A17183E34C46DA",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_SherWolf_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Midnight Fletcher Kane",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/5470cd16a6da1728c919301f0ccb4166/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/5470cd16a6da1728c919301f0ccb4166/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/5470cd16a6da1728c919301f0ccb4166/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/5470cd16a6da1728c919301f0ccb4166/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_SherWolf_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_SherWolf_Gnash",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "A7FD028B442A267D79AD1EBE727B0F01",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Pickaxe_SherWolf",
+        "type": {
+          "id": "pickaxe",
+          "name": "Pickaxes"
+        },
+        "name": "Fletcher's Cane",
+        "description": "Hides a sharp surprise.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/467c06da2e1d07d2defa726337de9343/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/467c06da2e1d07d2defa726337de9343/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/467c06da2e1d07d2defa726337de9343/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/467c06da2e1d07d2defa726337de9343/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Pickaxes/Pickaxe_SherWolf",
+        "gameplayTags": [
+          "Cosmetics.Pickaxe.DualWield",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.BigLeader",
+          "Cosmetics.Source.Season34.BattlePass.Paid"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BigLeader",
+          "name": "The Baron",
+          "partOf": "Part of the The Baron set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "50C8141A4A7FEBDD9712419170203F52",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "BRS34_SherWolf",
+        "type": {
+          "id": "bannertoken",
+          "name": "BANNER"
+        },
+        "name": "Banner Icon",
+        "description": "A new icon for your banner. Assign it in the Locker.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/8bde069cea732c89c808e2d8b75bc098/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/8bde069cea732c89c808e2d8b75bc098/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/8bde069cea732c89c808e2d8b75bc098/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/8bde069cea732c89c808e2d8b75bc098/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/BannerIcons/BRS34_SherWolf",
+        "gameplayTags": [
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.BigLeader"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 6,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BigLeader",
+          "name": "The Baron",
+          "partOf": "Part of the The Baron set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "27F9E079434DA706956C59A243D02133",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Spray_SherWolf3",
+        "type": {
+          "id": "spray",
+          "name": "Spray"
+        },
+        "name": "Howlin'",
+        "description": "Leave your mark.",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/6ebc26229614814fa9f62913199d07f2/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/6ebc26229614814fa9f62913199d07f2/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/6ebc26229614814fa9f62913199d07f2/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/6ebc26229614814fa9f62913199d07f2/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Sprays/Spray_SherWolf3",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Spray",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.BigLeader"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "BigLeader",
+          "name": "The Baron",
+          "partOf": "Part of the The Baron set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "545CCEBD4EAE96C6055CB59C4C47074F",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "LoadingScreen_RoyalAngst2",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "AKA The Vault Whisperer",
+        "description": "Never mess with the best of the best. \r\n\r\nArt by Kenneth Roccafort.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/2cfd9d308418a9136b677ceba5990aac/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/2cfd9d308418a9136b677ceba5990aac/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/2cfd9d308418a9136b677ceba5990aac/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/2cfd9d308418a9136b677ceba5990aac/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/2cfd9d308418a9136b677ceba5990aac/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_RoyalAngst2",
+        "gameplayTags": [
+          "Cosmetics.Source.ItemShop",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Set.FancyThief"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "FancyThief",
+          "name": "Robber Queen",
+          "partOf": "Part of the Robber Queen set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "8412304B4CA2FA15719697902CA30FCF",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Contrail_RoyalAngst",
+        "type": {
+          "id": "contrail",
+          "name": "Contrail"
+        },
+        "name": "24-Karat Crash",
+        "description": "Soar on solid gold.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/c8f9f041dc4851f2d93bf3fdf21165e9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/c8f9f041dc4851f2d93bf3fdf21165e9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/c8f9f041dc4851f2d93bf3fdf21165e9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/c8f9f041dc4851f2d93bf3fdf21165e9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Contrails/Contrail_RoyalAngst",
+        "gameplayTags": [
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+          "Cosmetics.Set.FancyThief",
+          "Cosmetics.Source.Season34.BattlePass.Free"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 7,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "FancyThief",
+          "name": "Robber Queen",
+          "partOf": "Part of the Robber Queen set."
+        },
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "1F19B51145CB79E03E4D4894EF3DD649",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "EID_RoyalAngst",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Valentina's Verve",
+        "description": "You know you're the greatest.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/fe41f6914109887bba937029439ee733/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/fe41f6914109887bba937029439ee733/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/fe41f6914109887bba937029439ee733/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/fe41f6914109887bba937029439ee733/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_RoyalAngst",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.UserFacingFlags.Emote.BeatSynced",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.FancyThief"
+        ],
+        "apiTags": [
+          "emoteDuration:6.57",
+          "emoteLoop"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "FancyThief",
+          "name": "Robber Queen",
+          "partOf": "Part of the Robber Queen set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "86E85086487F4C95DBD889957953D1F1",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_RoyalAngst_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Valentina",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/395ea8b33ae9d064175f24fdcdb9ca06/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/395ea8b33ae9d064175f24fdcdb9ca06/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/395ea8b33ae9d064175f24fdcdb9ca06/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/395ea8b33ae9d064175f24fdcdb9ca06/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_RoyalAngst_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_RoyalAngst_Tote",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "121B932A4F7B86C25401E3AB904FDD69",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Pickaxe_RoyalAngst_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Elegant Crowbar",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/7b81afbe2b7ed6f7a7d8ab6a8782e059/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/7b81afbe2b7ed6f7a7d8ab6a8782e059/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/7b81afbe2b7ed6f7a7d8ab6a8782e059/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/7b81afbe2b7ed6f7a7d8ab6a8782e059/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_RoyalAngst_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_RoyalAngst",
+          "variantNameTag:Cosmetics.Variant.Property.Particle1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "F8436526494E739F5FA8D3AB717E50A4",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Backbling_RoyalAngst_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Loaded Barrel Bag",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/cabb1b80696ba65c359ab256b87c7d05/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/cabb1b80696ba65c359ab256b87c7d05/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/cabb1b80696ba65c359ab256b87c7d05/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/cabb1b80696ba65c359ab256b87c7d05/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_RoyalAngst_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_RoyalAngst",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 7,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "F446D05C436765CAE4C5ADB7A400F594",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Emoji_S34_RoyalAngst",
+        "type": {
+          "id": "emoji",
+          "name": "Emoticon"
+        },
+        "name": "Bang!",
+        "description": "Express yourself on the battlefield.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/3c558290c345aca58d4ebdd6fb18c49f/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/3c558290c345aca58d4ebdd6fb18c49f/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/3c558290c345aca58d4ebdd6fb18c49f/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/3c558290c345aca58d4ebdd6fb18c49f/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S34_RoyalAngst",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Emoji",
+          "Cosmetics.UserFacingFlags.Emoticon.Animated",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Set.FancyThief"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "FancyThief",
+          "name": "Robber Queen",
+          "partOf": "Part of the Robber Queen set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "907BA3A448F03909C7DA6C89AF47C502",
+      "tier": 0,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Spray_RoyalAngst",
+        "type": {
+          "id": "spray",
+          "name": "Spray"
+        },
+        "name": "Smash & Grab",
+        "description": "Leave your mark.",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/c52071912a7c7b4b07c93e10e790c4c4/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/c52071912a7c7b4b07c93e10e790c4c4/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/c52071912a7c7b4b07c93e10e790c4c4/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/c52071912a7c7b4b07c93e10e790c4c4/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Sprays/Spray_RoyalAngst",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Spray",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.FancyThief"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "FancyThief",
+          "name": "Robber Queen",
+          "partOf": "Part of the Robber Queen set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "E80646544651B7E4F2C7B49EABCF8AED",
+      "tier": 0,
+      "page": 8,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Wrap_RoyalAngst",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Royal Jewels",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/6d9793d4c5c69117be99fe50958bc8b9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/6d9793d4c5c69117be99fe50958bc8b9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/6d9793d4c5c69117be99fe50958bc8b9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/6d9793d4c5c69117be99fe50958bc8b9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_RoyalAngst",
+        "gameplayTags": [
+          "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+          "Cosmetics.UserFacingFlags.Wrap.Animated",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass.Free",
+          "Cosmetics.Set.FancyThief"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 8,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "FancyThief",
+          "name": "Robber Queen",
+          "partOf": "Part of the Robber Queen set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7B8C72654E5BF066EB2C97A0734A1988",
+      "tier": 0,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "LoadingScreen_RoyalAngst",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "The Wolf Heist",
+        "description": "Ziplines are a thief's best friend. \r\n\r\nArt by Afu Chan.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/708adfb79be8a615991bf0af29bff273/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/708adfb79be8a615991bf0af29bff273/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/708adfb79be8a615991bf0af29bff273/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/708adfb79be8a615991bf0af29bff273/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/708adfb79be8a615991bf0af29bff273/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_RoyalAngst",
+        "gameplayTags": [
+          "Cosmetics.Source.ItemShop",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Set.FancyThief"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "FancyThief",
+          "name": "Robber Queen",
+          "partOf": "Part of the Robber Queen set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "69F70A0A459A2098238605ABA535005B",
+      "tier": 0,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_RoyalAngst_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Hazardous Valentina",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/6b6d89ac153a7232eaa3f5b2acbddd8a/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/6b6d89ac153a7232eaa3f5b2acbddd8a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/6b6d89ac153a7232eaa3f5b2acbddd8a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/6b6d89ac153a7232eaa3f5b2acbddd8a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_RoyalAngst_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_RoyalAngst_Tote",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "F794522640DFADC7A97350B8C01530B0",
+      "tier": 0,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Glider_RoyalAngst_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Hazardous Valentina's Quadjet",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/b42f1539df78277cc11d0260b92643f6/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/b42f1539df78277cc11d0260b92643f6/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/b42f1539df78277cc11d0260b92643f6/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/b42f1539df78277cc11d0260b92643f6/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Glider_RoyalAngst_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Glider_RoyalAngst",
+          "variantNameTag:Cosmetics.Variant.Property.Particle2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "C389E55A4514169CBE587BAF73B9F201",
+      "tier": 0,
+      "page": 8,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Pickaxe_RoyalAngst_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Hazardous Elegant Crowbar",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/9e2549f9009a1a431308a9cc2ec595d5/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/9e2549f9009a1a431308a9cc2ec595d5/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/9e2549f9009a1a431308a9cc2ec595d5/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/9e2549f9009a1a431308a9cc2ec595d5/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_RoyalAngst_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_RoyalAngst",
+          "variantNameTag:Cosmetics.Variant.Property.Particle2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 8,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "929B4CBF410761A1185A89BF086D7F9A",
+      "tier": 0,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7C42964B49CA18158A9B24B900AA4C05",
+      "tier": 0,
+      "page": 9,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Wrap_WartyBrine",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Dillicious",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/3c161f774cda17adfa331a88f5a26a56/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/3c161f774cda17adfa331a88f5a26a56/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/3c161f774cda17adfa331a88f5a26a56/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/3c161f774cda17adfa331a88f5a26a56/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_WartyBrine",
+        "gameplayTags": [
+          "Cosmetics.UserFacingFlags.Wrap.Animated",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass.Paid",
+          "Cosmetics.Set.AngryShark"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 9,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "AngryShark",
+          "name": "Bad to the Brine",
+          "partOf": "Part of the Bad to the Brine set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7C24F4D34CC95CC60E5CBB8A64D7FECB",
+      "tier": 0,
+      "page": 9,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Backbling_WartyBrine_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Lil' Dilly",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/7a46f06d2dbcde90bca88daecb82ed2a/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/7a46f06d2dbcde90bca88daecb82ed2a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/7a46f06d2dbcde90bca88daecb82ed2a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/7a46f06d2dbcde90bca88daecb82ed2a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_WartyBrine_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_WartyBrine",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 9,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "C5CFB752448393655F6B93B13B0E7357",
+      "tier": 0,
+      "page": 9,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "SID_Placeholder_527",
+        "type": {
+          "id": "sparks_song",
+          "name": "Jam Track"
+        },
+        "name": "Runamok",
+        "description": "",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 500,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": "2025-02-28",
+        "lastAppearance": "2025-02-28",
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/4382eb036d228316f0201b3e9d9fe14a/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/4382eb036d228316f0201b3e9d9fe14a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/4382eb036d228316f0201b3e9d9fe14a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/4382eb036d228316f0201b3e9d9fe14a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/SparksSongTemplates/Items/Songs/SID_Placeholder_527",
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 9,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [
+          {
+            "displayAsset": "virtual",
+            "materialInstance": "8baxwo7ylbwlryat-512x512-7f9fe6818f90",
+            "primaryMode": "MAX",
+            "productTag": "Product.BR",
+            "url": "https://media.fortniteapi.io/images/displayAssets/visualids/8baxwo7ylbwlryat-512x512-7f9fe6818f90.jpg",
+            "flipbook": null,
+            "background_texture": null,
+            "background": "https://media.fortniteapi.io/images/cosmetics/4382eb036d228316f0201b3e9d9fe14a/v2/8baxwo7ylbwlryat-512x512-7f9fe6818f90/background.png",
+            "full_background": "https://media.fortniteapi.io/images/cosmetics/4382eb036d228316f0201b3e9d9fe14a/v2/8baxwo7ylbwlryat-512x512-7f9fe6818f90/info.en.png"
+          }
+        ],
+        "shopHistory": [
+          "2025-02-28"
+        ],
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "CB8528D44F2F39007EAF629295073E46",
+      "tier": 0,
+      "page": 9,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_WartyBrine_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Big Dill",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/760a0e5345cc8f437fa09e67525fdafa/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/760a0e5345cc8f437fa09e67525fdafa/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/760a0e5345cc8f437fa09e67525fdafa/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/760a0e5345cc8f437fa09e67525fdafa/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_WartyBrine_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_WartyBrine_Sus",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 9,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "1E9EFAE643B3DAC580B394A9E1936F8C",
+      "tier": 0,
+      "page": 9,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Pickaxe_WartyBrine_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Jar Buster",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/cbbb67f14e5280c54663bdb1960c9611/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/cbbb67f14e5280c54663bdb1960c9611/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/cbbb67f14e5280c54663bdb1960c9611/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/cbbb67f14e5280c54663bdb1960c9611/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_WartyBrine_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_WartyBrine",
+          "variantNameTag:Cosmetics.Variant.Property.Particle1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 9,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "10E4D2D94E75F43132813FA8C344138B",
+      "tier": 0,
+      "page": 9,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Emoji_S34_WartyBrine",
+        "type": {
+          "id": "emoji",
+          "name": "Emoticon"
+        },
+        "name": "No Big Dill",
+        "description": "Express yourself on the battlefield.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/1445a8ed626ba535118be48d469d1f1f/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/1445a8ed626ba535118be48d469d1f1f/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/1445a8ed626ba535118be48d469d1f1f/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/1445a8ed626ba535118be48d469d1f1f/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S34_WartyBrine",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Emoji",
+          "Cosmetics.UserFacingFlags.Emoticon.Animated",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Set.AngryShark"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 9,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "AngryShark",
+          "name": "Bad to the Brine",
+          "partOf": "Part of the Bad to the Brine set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "539415344DA504208D447FA942C70413",
+      "tier": 0,
+      "page": 9,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "LoadingScreen_WartyBrine2",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "AKA Big Dill",
+        "description": "Folks back home call me Dillinger, but you can call me Big Dill. \r\n\r\nArt by Francesco Mobili.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/83e26b4ff1ad3617e4f68c5f726683de/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/83e26b4ff1ad3617e4f68c5f726683de/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/83e26b4ff1ad3617e4f68c5f726683de/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/83e26b4ff1ad3617e4f68c5f726683de/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/83e26b4ff1ad3617e4f68c5f726683de/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_WartyBrine2",
+        "gameplayTags": [
+          "Cosmetics.Source.ItemShop",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Set.AngryShark"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 9,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "AngryShark",
+          "name": "Bad to the Brine",
+          "partOf": "Part of the Bad to the Brine set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "8675C76644283F9D7EEFB4AA35CCC74D",
+      "tier": 0,
+      "page": 10,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "LoadingScreen_WartyBrine",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Born From the Brine",
+        "description": "Dillicious and dangerous. \r\n\r\nArt by Pye Parr.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/33ee83232023bc53ebe2611e3e213bdc/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/33ee83232023bc53ebe2611e3e213bdc/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/33ee83232023bc53ebe2611e3e213bdc/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/33ee83232023bc53ebe2611e3e213bdc/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/33ee83232023bc53ebe2611e3e213bdc/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_WartyBrine",
+        "gameplayTags": [
+          "Cosmetics.Source.ItemShop",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Set.AngryShark"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "AngryShark",
+          "name": "Bad to the Brine",
+          "partOf": "Part of the Bad to the Brine set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "B173427A454640771EF86D880E998AF1",
+      "tier": 0,
+      "page": 10,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Pickaxe_WartyBrine_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Chamoy Jar Buster",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/d328024db864c3dcaf6a4bf2db603d90/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/d328024db864c3dcaf6a4bf2db603d90/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/d328024db864c3dcaf6a4bf2db603d90/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/d328024db864c3dcaf6a4bf2db603d90/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_WartyBrine_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_WartyBrine",
+          "variantNameTag:Cosmetics.Variant.Property.Particle2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 10,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "3E33E7DE401C1790CEAC6CA03A7409CC",
+      "tier": 0,
+      "page": 10,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Backbling_WartyBrine_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Chamoy Lil' Dilly",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/9ba5cc857f267aefa41e6926913d0714/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/9ba5cc857f267aefa41e6926913d0714/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/9ba5cc857f267aefa41e6926913d0714/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/9ba5cc857f267aefa41e6926913d0714/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_WartyBrine_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_WartyBrine",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "A0A01BB54C48313A0E8F8AB03D2590E8",
+      "tier": 0,
+      "page": 10,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_WartyBrine_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Chamoy Big Dill",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/4e2411948897cbf30ca431e0f99933c1/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/4e2411948897cbf30ca431e0f99933c1/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/4e2411948897cbf30ca431e0f99933c1/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/4e2411948897cbf30ca431e0f99933c1/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_WartyBrine_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_WartyBrine_Sus",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "81BF15C241BCE66FC56B0B81CA45E92E",
+      "tier": 0,
+      "page": 10,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Glider_WartyBrine_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Chamoy Pickle Chip",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/7ae5ab1e71df07a87fee22e38865376f/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/7ae5ab1e71df07a87fee22e38865376f/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/7ae5ab1e71df07a87fee22e38865376f/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/7ae5ab1e71df07a87fee22e38865376f/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Glider_WartyBrine_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Glider_WartyBrine",
+          "variantNameTag:Cosmetics.Variant.Property.Particle2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "20B0C7494B0AD020951E19BB9490F887",
+      "tier": 0,
+      "page": 10,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "A1ACB7354BD35BAF9C715282BE8B0D54",
+      "tier": 0,
+      "page": 10,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Spray_WartyBrine2",
+        "type": {
+          "id": "spray",
+          "name": "Spray"
+        },
+        "name": "Rise & Brine",
+        "description": "Leave your mark.",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/a66e2d96fff45e5df6e4b17da2083bc1/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/a66e2d96fff45e5df6e4b17da2083bc1/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/a66e2d96fff45e5df6e4b17da2083bc1/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/a66e2d96fff45e5df6e4b17da2083bc1/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Sprays/Spray_WartyBrine2",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Spray",
+          "Cosmetics.Source.Season34.BattlePass",
+          "Cosmetics.Filter.Season.34",
+          "Cosmetics.Set.AngryShark"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 34,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 2",
+            "chapterSeason": "Chapter 6 - Season 2"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "AngryShark",
+          "name": "Bad to the Brine",
+          "partOf": "Part of the Bad to the Brine set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Season 2",
+          "text": "Introduced in Chapter 6 - Season 2."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    }
+  ]
+}

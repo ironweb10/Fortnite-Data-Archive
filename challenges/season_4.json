@@ -1,0 +1,2939 @@
+{
+  "result": true,
+  "lang": "en",
+  "season": 4,
+  "bundles": [
+    {
+      "tag": null,
+      "name": "",
+      "colorData": null,
+      "bundles": [
+        {
+          "id": "QuestBundle_S4_Cumulative",
+          "name": "Blockbuster Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "CID_140_Athena_Commando_M_Visitor",
+              "type": {
+                "id": "outfit",
+                "name": "Outfit"
+              },
+              "name": "The Visitor",
+              "rarity": {
+                "id": "Legendary",
+                "name": "LEGENDARY"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/9de328f-9e2285b-9631a8b-6976c5b/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/9de328f-9e2285b-9631a8b-6976c5b/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/9de328f-9e2285b-9631a8b-6976c5b/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/9de328f-9e2285b-9631a8b-6976c5b/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            },
+            {
+              "id": "BID_057_Visitor",
+              "type": {
+                "id": "backpack",
+                "name": "BackBling"
+              },
+              "name": "Offworld Rig",
+              "rarity": {
+                "id": "Legendary",
+                "name": "LEGENDARY"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/e9788d2-86d3467-c163928-1cc4ff3/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/e9788d2-86d3467-c163928-1cc4ff3/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/e9788d2-86d3467-c163928-1cc4ff3/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/e9788d2-86d3467-c163928-1cc4ff3/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_S4_Cumulative_CollectTokens_01",
+              "name": "Complete all challenges from any week",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "LSID_009_S4Cumulative1",
+                    "type": {
+                      "id": "loadingscreen",
+                      "name": "Loading Screen"
+                    },
+                    "name": "Quiet On The Set!",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/5afc124242a0d005d8a595d4f1d011ec/transparent.png",
+                      "featured": "https://media.fortniteapi.io/images/5afc124242a0d005d8a595d4f1d011ec/full_featured.png",
+                      "background": "https://media.fortniteapi.io/images/cosmetics/5afc124242a0d005d8a595d4f1d011ec/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/5afc124242a0d005d8a595d4f1d011ec/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/5afc124242a0d005d8a595d4f1d011ec/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4_Cumulative_CollectTokens_02",
+              "name": "Complete all challenges from any 2 different weeks",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "LSID_010_S4Cumulative2",
+                    "type": {
+                      "id": "loadingscreen",
+                      "name": "Loading Screen"
+                    },
+                    "name": "At Last... I Am Free",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/3894f836ddf01ddcf34aafe1e517e2e9/transparent.png",
+                      "featured": "https://media.fortniteapi.io/images/3894f836ddf01ddcf34aafe1e517e2e9/full_featured.png",
+                      "background": "https://media.fortniteapi.io/images/cosmetics/3894f836ddf01ddcf34aafe1e517e2e9/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/3894f836ddf01ddcf34aafe1e517e2e9/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/3894f836ddf01ddcf34aafe1e517e2e9/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4_Cumulative_CollectTokens_03",
+              "name": "Complete all challenges from any 3 different weeks",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "LSID_011_S4Cumulative3",
+                    "type": {
+                      "id": "loadingscreen",
+                      "name": "Loading Screen"
+                    },
+                    "name": "A Looming Threat",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/a915f01db93c04e113ed30c7934ff2b9/transparent.png",
+                      "featured": "https://media.fortniteapi.io/images/a915f01db93c04e113ed30c7934ff2b9/full_featured.png",
+                      "background": "https://media.fortniteapi.io/images/cosmetics/a915f01db93c04e113ed30c7934ff2b9/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/a915f01db93c04e113ed30c7934ff2b9/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/a915f01db93c04e113ed30c7934ff2b9/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4_Cumulative_CollectTokens_04",
+              "name": "Complete all challenges from any 4 different weeks",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 4,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "LSID_012_S4Cumulative4",
+                    "type": {
+                      "id": "loadingscreen",
+                      "name": "Loading Screen"
+                    },
+                    "name": "Retribution",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/3bb63d443204f48a607dc24ebae97c75/transparent.png",
+                      "featured": "https://media.fortniteapi.io/images/3bb63d443204f48a607dc24ebae97c75/full_featured.png",
+                      "background": "https://media.fortniteapi.io/images/cosmetics/3bb63d443204f48a607dc24ebae97c75/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/3bb63d443204f48a607dc24ebae97c75/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/3bb63d443204f48a607dc24ebae97c75/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4_Cumulative_CollectTokens_05",
+              "name": "Complete all challenges from any 5 different weeks",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "LSID_013_S4Cumulative5",
+                    "type": {
+                      "id": "loadingscreen",
+                      "name": "Loading Screen"
+                    },
+                    "name": "Showdown",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/542c757392b0d0a61638d3576514ce3d/transparent.png",
+                      "featured": "https://media.fortniteapi.io/images/542c757392b0d0a61638d3576514ce3d/full_featured.png",
+                      "background": "https://media.fortniteapi.io/images/cosmetics/542c757392b0d0a61638d3576514ce3d/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/542c757392b0d0a61638d3576514ce3d/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/542c757392b0d0a61638d3576514ce3d/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4_Cumulative_CollectTokens_06",
+              "name": "Complete all challenges from any 6 different weeks",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 6,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "LSID_014_S4Cumulative6",
+                    "type": {
+                      "id": "loadingscreen",
+                      "name": "Loading Screen"
+                    },
+                    "name": "That's a Wrap!",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/1f80436c5894fa718cbc4753011128b4/transparent.png",
+                      "featured": "https://media.fortniteapi.io/images/1f80436c5894fa718cbc4753011128b4/full_featured.png",
+                      "background": "https://media.fortniteapi.io/images/cosmetics/1f80436c5894fa718cbc4753011128b4/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/1f80436c5894fa718cbc4753011128b4/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/1f80436c5894fa718cbc4753011128b4/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4_Cumulative_CollectTokens_07",
+              "name": "Complete all challenges from any 7 different weeks",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "LSID_015_S4Cumulative7",
+                    "type": {
+                      "id": "loadingscreen",
+                      "name": "Loading Screen"
+                    },
+                    "name": "The Visitor",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/bb0313ad2b5e9ee493c78aac8671644d/transparent.png",
+                      "featured": "https://media.fortniteapi.io/images/bb0313ad2b5e9ee493c78aac8671644d/full_featured.png",
+                      "background": "https://media.fortniteapi.io/images/cosmetics/bb0313ad2b5e9ee493c78aac8671644d/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/bb0313ad2b5e9ee493c78aac8671644d/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/bb0313ad2b5e9ee493c78aac8671644d/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S4_ProgressiveA",
+          "name": "Carbide Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "Pickaxe_ID_047_CarbideBlue",
+              "type": {
+                "id": "pickaxe",
+                "name": "Pickaxes"
+              },
+              "name": "Positron",
+              "rarity": {
+                "id": "Rare",
+                "name": "RARE"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/8273b3a-1a3b13d-8f03c59-fb2162f/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/8273b3a-1a3b13d-8f03c59-fb2162f/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/8273b3a-1a3b13d-8f03c59-fb2162f/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/8273b3a-1a3b13d-8f03c59-fb2162f/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_LevelUp_SeasonLevel_ProgressiveA_01",
+              "name": "Reach Season Level 10",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_002_CarbideBlue_Stage1",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Carbide Armor Stage 1",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/ab0e69fa455fa89f7b45051e8f4df242/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/ab0e69fa455fa89f7b45051e8f4df242/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/ab0e69fa455fa89f7b45051e8f4df242/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/ab0e69fa455fa89f7b45051e8f4df242/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_LevelUp_SeasonLevel_ProgressiveA_02",
+              "name": "Reach Season Level 20",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 20,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_003_CarbideBlue_Stage2",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Carbide Armor Stage 2",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/c4562c3aff169b9a4e31f34a40d663af/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/c4562c3aff169b9a4e31f34a40d663af/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/c4562c3aff169b9a4e31f34a40d663af/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/c4562c3aff169b9a4e31f34a40d663af/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_LevelUp_SeasonLevel_ProgressiveA_03",
+              "name": "Reach Season Level 30",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 30,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_004_CarbideBlue_Stage3",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Carbide Armor Stage 3",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/4d7e0dbfa5a6ee5bb851bf783ae204a2/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/4d7e0dbfa5a6ee5bb851bf783ae204a2/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/4d7e0dbfa5a6ee5bb851bf783ae204a2/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/4d7e0dbfa5a6ee5bb851bf783ae204a2/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_LevelUp_SeasonLevel_ProgressiveA_04",
+              "name": "Reach Season Level 40",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 40,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_005_CarbideBlue_Stage4",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Carbide Armor Stage 4",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/2fa5b9295a2e9acaf9b43bb8a0bbf8a2/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/2fa5b9295a2e9acaf9b43bb8a0bbf8a2/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/2fa5b9295a2e9acaf9b43bb8a0bbf8a2/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/2fa5b9295a2e9acaf9b43bb8a0bbf8a2/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_LevelUp_SeasonLevel_ProgressiveA_05",
+              "name": "Reach Season Level 65",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 65,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_006_CarbideBlue_Stage5",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Carbide Armor Stage 5",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/b964269a8309b0486873521a17ebae44/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/b964269a8309b0486873521a17ebae44/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/b964269a8309b0486873521a17ebae44/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/b964269a8309b0486873521a17ebae44/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  },
+                  {
+                    "id": "VTID_012_CarbideBlue_Emissive1",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Carbide Emissive Yellow",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/578f7c0196769b2528dbaa35bda93b21/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/578f7c0196769b2528dbaa35bda93b21/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/578f7c0196769b2528dbaa35bda93b21/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/578f7c0196769b2528dbaa35bda93b21/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  },
+                  {
+                    "id": "VTID_013_CarbideBlue_Emissive2",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Carbide Emissive Green",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/03fa1040a92d273fabcce5a650ef1ede/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/03fa1040a92d273fabcce5a650ef1ede/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/03fa1040a92d273fabcce5a650ef1ede/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/03fa1040a92d273fabcce5a650ef1ede/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  },
+                  {
+                    "id": "VTID_014_CarbideBlue_Emissive3",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Carbide Emissive Pink",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/d182d27a5726c610767dc789720fa4e3/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/d182d27a5726c610767dc789720fa4e3/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/d182d27a5726c610767dc789720fa4e3/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/d182d27a5726c610767dc789720fa4e3/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S4_ProgressiveB",
+          "name": "Omega Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "Pickaxe_ID_048_CarbideBlack",
+              "type": {
+                "id": "pickaxe",
+                "name": "Pickaxes"
+              },
+              "name": "Onslaught",
+              "rarity": {
+                "id": "Epic",
+                "name": "Epic"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/222e7df-951f4eb-58a9e6b-1e142df/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/222e7df-951f4eb-58a9e6b-1e142df/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/222e7df-951f4eb-58a9e6b-1e142df/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/222e7df-951f4eb-58a9e6b-1e142df/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_LevelUp_SeasonLevel_ProgressiveB_01",
+              "name": "Reach Season Level 25",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 25,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_007_CarbideBlack_Stage1",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Omega Armor Stage 1",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/b8eda3ccfaf351dd144dc6a39f850f86/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/b8eda3ccfaf351dd144dc6a39f850f86/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/b8eda3ccfaf351dd144dc6a39f850f86/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/b8eda3ccfaf351dd144dc6a39f850f86/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_LevelUp_SeasonLevel_ProgressiveB_02",
+              "name": "Reach Season Level 35",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 35,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_008_CarbideBlack_Stage2",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Omega Armor Stage 2",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/127f370167c52692cdc65a6dbd25727a/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/127f370167c52692cdc65a6dbd25727a/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/127f370167c52692cdc65a6dbd25727a/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/127f370167c52692cdc65a6dbd25727a/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_LevelUp_SeasonLevel_ProgressiveB_03",
+              "name": "Reach Season Level 45",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 45,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_009_CarbideBlack_Stage3",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Omega Armor Stage 3",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/3b6847d72676583b6775364bba36004c/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/3b6847d72676583b6775364bba36004c/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/3b6847d72676583b6775364bba36004c/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/3b6847d72676583b6775364bba36004c/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_LevelUp_SeasonLevel_ProgressiveB_04",
+              "name": "Reach Season Level 55",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 55,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_010_CarbideBlack_Stage4",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Omega Armor Stage 4",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/2608240cfa2a1809db3f6f638c71d102/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/2608240cfa2a1809db3f6f638c71d102/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/2608240cfa2a1809db3f6f638c71d102/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/2608240cfa2a1809db3f6f638c71d102/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_LevelUp_SeasonLevel_ProgressiveB_05",
+              "name": "Reach Season Level 80",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 80,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_011_CarbideBlack_Stage5",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Omega Armor Stage 5",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/212eb98686aafb73ea4c6e8a2bb4bb7d/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/212eb98686aafb73ea4c6e8a2bb4bb7d/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/212eb98686aafb73ea4c6e8a2bb4bb7d/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/212eb98686aafb73ea4c6e8a2bb4bb7d/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  },
+                  {
+                    "id": "VTID_016_CarbideBlack_Emissive1",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Omega Emissive Yellow",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/79a4e25b1abf8b611d2e449fd99ab709/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/79a4e25b1abf8b611d2e449fd99ab709/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/79a4e25b1abf8b611d2e449fd99ab709/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/79a4e25b1abf8b611d2e449fd99ab709/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  },
+                  {
+                    "id": "VTID_017_CarbideBlack_Emissive2",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Omega Emissive Purple",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/89daa1b375cae26e2cee4815943771e0/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/89daa1b375cae26e2cee4815943771e0/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/89daa1b375cae26e2cee4815943771e0/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/89daa1b375cae26e2cee4815943771e0/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  },
+                  {
+                    "id": "VTID_018_CarbideBlack_Emissive3",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Omega Emissive Orange",
+                    "rarity": {
+                      "id": "Legendary",
+                      "name": "LEGENDARY"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/3e915554921fd3f12c77c457b3968552/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/3e915554921fd3f12c77c457b3968552/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/3e915554921fd3f12c77c457b3968552/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/3e915554921fd3f12c77c457b3968552/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S4_Starter",
+          "name": "Starter Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "AthenaSeasonalXP",
+              "type": {
+                "id": "misc",
+                "name": "Other Overrides"
+              },
+              "name": "Season XP",
+              "rarity": {
+                "id": "Common",
+                "name": "COMMON"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/0718d29f89a777b3995d9b19db6172ea/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_Damage",
+              "name": "Deal damage to opponents",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Land_Locations_Different",
+              "name": "Land at different Named Locations",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Outlive",
+              "name": "Outlive Opponents",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Place_Win",
+              "name": "Win a Match",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_VictoryRoyale",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "Victory Royale",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/2a52bfc71a42d0bfc1ec173ea700efc7/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/2a52bfc71a42d0bfc1ec173ea700efc7/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/2a52bfc71a42d0bfc1ec173ea700efc7/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/2a52bfc71a42d0bfc1ec173ea700efc7/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Play",
+              "name": "Play Matches",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 50,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_Ace",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "Ace",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/f59c8553780cb8f89cdcd4cf36201556/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/f59c8553780cb8f89cdcd4cf36201556/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/f59c8553780cb8f89cdcd4cf36201556/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/f59c8553780cb8f89cdcd4cf36201556/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Play_Min1Elimination",
+              "name": "Play matches with at least one elimination",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Play_Min1Friend",
+              "name": "Play matches with friends",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S4_Week_001",
+          "name": "Week 1 Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "AthenaSeasonalXP",
+              "type": {
+                "id": "misc",
+                "name": "Other Overrides"
+              },
+              "name": "Season XP",
+              "rarity": {
+                "id": "Common",
+                "name": "COMMON"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/0718d29f89a777b3995d9b19db6172ea/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_Damage_SniperRifle",
+              "name": "Deal damage with Sniper Rifles to opponents",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Location_FlushFactory",
+              "name": "Eliminate opponents in Flush Factory",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Weapon_Pistol",
+              "name": "Pistol Eliminations",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_Chests_Location_HauntedHills",
+              "name": "Search Chests in Haunted Hills",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_FORTNITE",
+              "name": "Search F-O-R-T-N-I-T-E Letters",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 8,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_ScavengerHunt_TreasureMap_01",
+              "name": "Follow the treasure map found in Tomato Town",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4W1_Cumulative_CompleteAll",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Use_PortaFort",
+              "name": "Use a Port-a-Fort",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S4_Week_002",
+          "name": "Week 2 Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "AthenaSeasonalXP",
+              "type": {
+                "id": "misc",
+                "name": "Other Overrides"
+              },
+              "name": "Season XP",
+              "rarity": {
+                "id": "Common",
+                "name": "COMMON"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/0718d29f89a777b3995d9b19db6172ea/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_Damage_SuppressedWeapon",
+              "name": "Deal damage with Suppressed Weapons to opponents",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Dance_ScavengerHunt_Cameras",
+              "name": "Dance in front of different film cameras",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_ExplosiveWeapon",
+              "name": "Explosive Weapon Eliminations",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Location_TomatoTown",
+              "name": "Eliminate opponents in Tomato Town",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_Chests_Location_GreasyGrove",
+              "name": "Search Chests in Greasy Grove",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_GravityStones",
+              "name": "Consume Hop Rocks",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_ScavengerHunt_Triangulate_01",
+              "name": "Search between a Scarecrow, Pink Hotrod, and a Big Screen",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4W2_Cumulative_CompleteAll",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S4_Week_003",
+          "name": "Week 3 Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "AthenaSeasonalXP",
+              "type": {
+                "id": "misc",
+                "name": "Other Overrides"
+              },
+              "name": "Season XP",
+              "rarity": {
+                "id": "Common",
+                "name": "COMMON"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/0718d29f89a777b3995d9b19db6172ea/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_Damage_Pistol",
+              "name": "Deal damage with Pistols to opponents",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Location_TiltedTowers",
+              "name": "Eliminate opponents in Tilted Towers",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Weapon_SniperRifle",
+              "name": "Sniper Rifle Eliminations",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_Chests_Location_LonelyLodge",
+              "name": "Search Chests in Lonely Lodge",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_RubberDuckies",
+              "name": "Search Rubber Duckies",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_ScavengerHunt_TreasureMap_02",
+              "name": "Follow the treasure map found in Salty Springs",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Revive",
+              "name": "Revive Players",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4W3_Cumulative_CompleteAll",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S4_Week_004",
+          "name": "Week 4 Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "AthenaSeasonalXP",
+              "type": {
+                "id": "misc",
+                "name": "Other Overrides"
+              },
+              "name": "Season XP",
+              "rarity": {
+                "id": "Common",
+                "name": "COMMON"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/0718d29f89a777b3995d9b19db6172ea/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_Damage_AssaultRifle",
+              "name": "Deal damage with Assault Rifles to opponents",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Location_SnobbyShores",
+              "name": "Eliminate opponents in Snobby Shores",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Trap",
+              "name": "Damage Trap Eliminations",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_AmmoBoxes_SingleMatch",
+              "name": "Search 7 Ammo Boxes in a single match",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_Chests_Location_WailingWoods",
+              "name": "Search Chests in Wailing Woods",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_ScavengerHunt_Triangulate_02",
+              "name": "Search between...",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4W4_Cumulative_CompleteAll",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Visit_ScavengerHunt_StormCircles",
+              "name": "Visit the center of different Storm Circles in a single match.",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S4_Week_005",
+          "name": "Week 5 Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "AthenaSeasonalXP",
+              "type": {
+                "id": "misc",
+                "name": "Other Overrides"
+              },
+              "name": "Season XP",
+              "rarity": {
+                "id": "Common",
+                "name": "COMMON"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/0718d29f89a777b3995d9b19db6172ea/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_Damage_SMG",
+              "name": "Deal damage with SMGs to opponents",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Dance_ScavengerHunt_Platforms",
+              "name": "TBD",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Location_LuckyLanding",
+              "name": "Eliminate opponents in Lucky Landing",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Weapon_MinigunLMG",
+              "name": "Minigun or Light Machine Gun Eliminations",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_Chests_Location_DustyDivot",
+              "name": "Search Chests in Dusty Divot",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_ScavengerHunt_TreasureMap_03",
+              "name": "Follow the treasure map found in Greasy Grove",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4W5_Cumulative_CompleteAll",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Use_VendingMachine",
+              "name": "Use Vending Machines in different matches",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S4_Week_006",
+          "name": "Week 6 Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "AthenaSeasonalXP",
+              "type": {
+                "id": "misc",
+                "name": "Other Overrides"
+              },
+              "name": "Season XP",
+              "rarity": {
+                "id": "Common",
+                "name": "COMMON"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/0718d29f89a777b3995d9b19db6172ea/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_Damage_Shotgun",
+              "name": "Damage opponents with Shotguns",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Location_RetailRow",
+              "name": "Eliminate opponents in Retail Row",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Weapon_SMG",
+              "name": "SMG Eliminations",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_Chests_Location_LootLake",
+              "name": "Search Chests in Loot Lake",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_ScavengerHunt_Triangulate_03",
+              "name": "Search between...",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_SupplyDrops",
+              "name": "Search Supply Drops",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4W6_Cumulative_CompleteAll",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Spray_SpecificTargets",
+              "name": "Search Gravity Stones",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S4_Week_007",
+          "name": "Week 7 Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "AthenaSeasonalXP",
+              "type": {
+                "id": "misc",
+                "name": "Other Overrides"
+              },
+              "name": "Season XP",
+              "rarity": {
+                "id": "Common",
+                "name": "COMMON"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/0718d29f89a777b3995d9b19db6172ea/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_Damage_Pickaxe",
+              "name": "Damage opponents with a pickaxe",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 200,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Location_ShiftyShafts",
+              "name": "Eliminate opponents in Shifty Shafts",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Weapon_AssaultRifle",
+              "name": "Assault Rifle Eliminations",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_Chests_Location_RiskyReels",
+              "name": "Search Chests in Risky Reels",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_ForagedItems",
+              "name": "Consume Apples or Mushrooms",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 20,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_ScavengerHunt_TreasureMap_04",
+              "name": "Follow the treasure map found in...",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4W7_Cumulative_CompleteAll",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Score_Goals",
+              "name": "Score a goal on different pitches.",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S4_Week_008",
+          "name": "Week 8 Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "AthenaSeasonalXP",
+              "type": {
+                "id": "misc",
+                "name": "Other Overrides"
+              },
+              "name": "Season XP",
+              "rarity": {
+                "id": "Common",
+                "name": "COMMON"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/0718d29f89a777b3995d9b19db6172ea/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_Damage_Headshot",
+              "name": "Deal Headshot Damage to opponents",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Location_PleasantPark",
+              "name": "Eliminate opponents in Pleasant Park",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_SuppressedWeapon",
+              "name": "Suppressed Weapon Eliminations",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_Chests_Location_SaltySprings",
+              "name": "Search Chests in Salty Springs",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_Chests_SingleMatch",
+              "name": "Search 7 Chests in a single match",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_GniceGnomes",
+              "name": "Search the Hidden Gnome in different Named Locations",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_ScavengerHunt_Triangulate_04",
+              "name": "Search between...",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4W8_Cumulative_CompleteAll",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S4_Week_009",
+          "name": "Week 9 Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "AthenaSeasonalXP",
+              "type": {
+                "id": "misc",
+                "name": "Other Overrides"
+              },
+              "name": "Season XP",
+              "rarity": {
+                "id": "Common",
+                "name": "COMMON"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/0718d29f89a777b3995d9b19db6172ea/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_Damage_ExplosiveWeapon",
+              "name": "Deal damage with Explosive Weapons to opponents",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Location_AnarchyAcres",
+              "name": "Eliminate opponents in Anarchy Acres",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Weapon_Shotgun",
+              "name": "Shotgun Eliminations",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_Chests_Location_MoistyMire",
+              "name": "Search Chests in Moisty Mire",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_ScavengerHunt_TreasureMap_05",
+              "name": "Follow the treasure map found in...",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4W9_Cumulative_CompleteAll",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Use_ShoppingCart",
+              "name": "Use a Shopping Cart",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Visit_NamedLocations_SingleMatch",
+              "name": "Visit different Named Locations in a single match",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S4_Week_010",
+          "name": "Week 10 Challenges",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [
+            {
+              "id": "AthenaSeasonalXP",
+              "type": {
+                "id": "misc",
+                "name": "Other Overrides"
+              },
+              "name": "Season XP",
+              "rarity": {
+                "id": "Common",
+                "name": "COMMON"
+              },
+              "series": null,
+              "images": {
+                "icon": "https://media.fortniteapi.io/images/0718d29f89a777b3995d9b19db6172ea/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/background.png",
+                "icon_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/icon_background.png",
+                "full_background": "https://media.fortniteapi.io/images/cosmetics/0718d29f89a777b3995d9b19db6172ea/v2/info.en.png"
+              },
+              "video": null,
+              "audio": null
+            }
+          ],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_BR_Damage_Enemy_Buildings",
+              "name": "Deal damage to opponents structures",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5000,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate",
+              "name": "Eliminate Opponents",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "Quest.Metadata.PartyAssist"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Eliminate_Location_FatalFields",
+              "name": "Eliminate opponents in Fatal Fields",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_ChestAmmoBoxSupplyDrop_SingleMatch",
+              "name": "Search a Chest, Ammo Box, & Supply Drop in a single match",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_Chests_Location_JunkJunction",
+              "name": "Search Chests in Junk Junction",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 7,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Interact_ScavengerHunt_Triangulate_05",
+              "name": "Search between...",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_S4W10_Cumulative_CompleteAll",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_BR_Skydive_Rings",
+              "name": "Skydive through floating Rings",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 20,
+              "tags": [],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

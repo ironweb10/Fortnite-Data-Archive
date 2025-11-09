@@ -1,0 +1,4974 @@
+{
+  "result": true,
+  "season": 32,
+  "displayInfo": {
+    "chapter": "",
+    "season": "Fortnite: Remix",
+    "chapterSeason": "Fortnite: Remix",
+    "battlepassName": "Battle Pass"
+  },
+  "seasonDates": {
+    "begin": "2024-11-02T06:00:00.000Z",
+    "end": "2024-12-01T05:59:59.000Z"
+  },
+  "videos": [
+    {
+      "lang": "en",
+      "type": "trailer",
+      "url": "https://media.fortniteapi.io/videos/seasons/trailer_s32_en.mp4"
+    }
+  ],
+  "rewards": [
+    {
+      "offerId": "12A3821F4F0F0DAC36D2A5A49FA193EB",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 2
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "LoadingScreen_MissusMind_Suit",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Chaos Director",
+        "description": "Lesson learned. Don't send an Agent to do a Director's work. \r\n\r\nArt by Sebastian Fiumara.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/a6b34ea1510d78d78c8906f9e10c25fb/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/a6b34ea1510d78d78c8906f9e10c25fb/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/a6b34ea1510d78d78c8906f9e10c25fb/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/a6b34ea1510d78d78c8906f9e10c25fb/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/a6b34ea1510d78d78c8906f9e10c25fb/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_MissusMind_Suit",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Source.Season32.BattlePass",
+          "Cosmetics.Set.PressedEarth"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 1,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "PressedEarth",
+          "name": "Bleakest Bedlam",
+          "partOf": "Part of the Bleakest Bedlam set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "239D7D0E47ACDD08F447C883D37DB124",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Pickaxe_MissusMind_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Spiked Baton-Mace",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/5d460a4ab4953a523fb9955bfc520101/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/5d460a4ab4953a523fb9955bfc520101/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/5d460a4ab4953a523fb9955bfc520101/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/5d460a4ab4953a523fb9955bfc520101/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_MissusMind_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_MissusMind",
+          "variantNameTag:Cosmetics.Variant.Property.Particle1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "8E5141BF4458C93FD5E27690AA81E7D4",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Wrap_MissusMind",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Chaos Directive",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/2849e3737e45a6c0322dadcd266f3124/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/2849e3737e45a6c0322dadcd266f3124/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/2849e3737e45a6c0322dadcd266f3124/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/2849e3737e45a6c0322dadcd266f3124/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_MissusMind",
+        "gameplayTags": [
+          "Cosmetics.Source.Season32.BattlePass.Free",
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Set.PressedEarth",
+          "Cosmetics.UserFacingFlags.Wrap.Animated"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 1,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "PressedEarth",
+          "name": "Bleakest Bedlam",
+          "partOf": "Part of the Bleakest Bedlam set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "1ADDE1A04DFE71ACD7F5D19E6FCCF116",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "2662081B4221957D98A4C89B446020E5",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 7
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "EID_MissusMind",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Rhythm of Chaos",
+        "description": "Let your master plan flow through you.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/f88a97dab9c72c22983b0bb97c2254ad/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/f88a97dab9c72c22983b0bb97c2254ad/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/f88a97dab9c72c22983b0bb97c2254ad/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/f88a97dab9c72c22983b0bb97c2254ad/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_MissusMind",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Set.PressedEarth"
+        ],
+        "apiTags": [
+          "emoteDuration:17.46",
+          "emoteLoop"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "PressedEarth",
+          "name": "Bleakest Bedlam",
+          "partOf": "Part of the Bleakest Bedlam set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "E18522824DD84EA87CA42C93D25326A7",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Contrail_MissusMind",
+        "type": {
+          "id": "contrail",
+          "name": "Contrail"
+        },
+        "name": "Ooze",
+        "description": "Droplets of chaos.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/42216486a7778d07fc62135008b2414a/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/42216486a7778d07fc62135008b2414a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/42216486a7778d07fc62135008b2414a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/42216486a7778d07fc62135008b2414a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Contrails/Contrail_MissusMind",
+        "gameplayTags": [
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Set.PressedEarth",
+          "Cosmetics.Source.Season32.BattlePass.Free"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 1,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "PressedEarth",
+          "name": "Bleakest Bedlam",
+          "partOf": "Part of the Bleakest Bedlam set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "06ADB78A43C8FFBA2D95BB811F5A5F50",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Backbling_MissusMind_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Tri-Ooze Tank",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/57e7bf7d6b8d2304b608c4cc5456971d/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/57e7bf7d6b8d2304b608c4cc5456971d/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/57e7bf7d6b8d2304b608c4cc5456971d/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/57e7bf7d6b8d2304b608c4cc5456971d/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_MissusMind_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_MissusMind",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "90E46B98477F20F078F73A83BEA73E61",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_MIssusMind_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Chaos Director",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/d0be89fcd52bd900c2676ca480c81bb2/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/d0be89fcd52bd900c2676ca480c81bb2/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/d0be89fcd52bd900c2676ca480c81bb2/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/d0be89fcd52bd900c2676ca480c81bb2/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_MIssusMind_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_MissusMind_Suit",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "CD3884564823870A391CE0856629A96D",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 2
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 5,
+      "item": {
+        "id": "LoadingScreen_MissusMind_SuitSnow",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Ghostly Director",
+        "description": "This Island has been far too orderly for far too long. It's time to cause some chaos. \r\n\r\nArt by Eleonora Carlini.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/cf710f4539fd4766f6b976631612ab46/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/cf710f4539fd4766f6b976631612ab46/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/cf710f4539fd4766f6b976631612ab46/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/cf710f4539fd4766f6b976631612ab46/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/cf710f4539fd4766f6b976631612ab46/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_MissusMind_SuitSnow",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Source.Season32.BattlePass",
+          "Cosmetics.Set.PressedEarth"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "PressedEarth",
+          "name": "Bleakest Bedlam",
+          "partOf": "Part of the Bleakest Bedlam set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "729B2CC0430FF3D3D855429B668B134E",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 5,
+      "item": {
+        "id": "VTID_Pickaxe_MissusMind_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Ghostly Baton-Mace",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/8d268936c5f41acf76627e4fdf9f419d/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/8d268936c5f41acf76627e4fdf9f419d/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/8d268936c5f41acf76627e4fdf9f419d/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/8d268936c5f41acf76627e4fdf9f419d/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_MissusMind_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_MissusMind",
+          "variantNameTag:Cosmetics.Variant.Property.Particle2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "8DA6C8BE43FC36B43D6F9D87A7B1B72A",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 5,
+      "item": {
+        "id": "SID_Placeholder_353",
+        "type": {
+          "id": "sparks_song",
+          "name": "Jam Track"
+        },
+        "name": "Bunny Bounce (Murda Beatz Remix)",
+        "description": "",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-06-22",
+          "version": "30.20"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/54f6729d51b751d322ae020ad194764f/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/54f6729d51b751d322ae020ad194764f/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/54f6729d51b751d322ae020ad194764f/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/54f6729d51b751d322ae020ad194764f/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/SparksSongTemplates/Items/Songs/SID_Placeholder_353",
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 2,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "1D944DD84809B07071F6438672E746B1",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 5,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "82DBAA104BE1808D4FAFC29E2B2952EA",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 8,
+      "item": {
+        "id": "VTID_Backbling_MissusMind_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Ghostly Tri-Ooze Tank",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/6ecaa1a7a8946d5b5ae6f8312cd967fc/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/6ecaa1a7a8946d5b5ae6f8312cd967fc/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/6ecaa1a7a8946d5b5ae6f8312cd967fc/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/6ecaa1a7a8946d5b5ae6f8312cd967fc/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_MissusMind_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_MissusMind",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 2,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "E3735B2547D4E3BD971FCFA8D6787ECE",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 8,
+      "item": {
+        "id": "VTID_Glider_MissusMind_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Ghostly Chaotic Crawler",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/dbef03a6c51b4b1ba256857bbeda18cf/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/dbef03a6c51b4b1ba256857bbeda18cf/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/dbef03a6c51b4b1ba256857bbeda18cf/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/dbef03a6c51b4b1ba256857bbeda18cf/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Glider_MissusMind_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Glider_MissusMind",
+          "variantNameTag:Cosmetics.Variant.Property.Particle2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "3D9ABE014D07F478357A22B7EE2EE86B",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 6,
+      "levelsNeededForUnlock": 8,
+      "item": {
+        "id": "VTID_Character_MissusMind_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Ghostly Director",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/38b622cadbeef19cdb59d31ce672c3ce/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/38b622cadbeef19cdb59d31ce672c3ce/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/38b622cadbeef19cdb59d31ce672c3ce/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/38b622cadbeef19cdb59d31ce672c3ce/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_MissusMind_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_MissusMind_Suit",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "07B01820414DC0D231A0BCBB39201F04",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 2
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 11,
+      "item": {
+        "id": "LoadingScreen_StageCue_Chalk",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "1-Ball",
+        "description": "If you wanna prove you're number one, you've gotta face off against a legend. \r\n\r\nArt by Soroush Barazesh.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/fa7d462a3b7b01e5b8a528f4b1da8965/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/fa7d462a3b7b01e5b8a528f4b1da8965/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/fa7d462a3b7b01e5b8a528f4b1da8965/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/fa7d462a3b7b01e5b8a528f4b1da8965/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/fa7d462a3b7b01e5b8a528f4b1da8965/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_StageCue_Chalk",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Source.Season32.BattlePass",
+          "Cosmetics.Set.WalletBat"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "WalletBat",
+          "name": "In the Pocket",
+          "partOf": "Part of the In the Pocket set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "AD0B21304D13524B1E1A709E3BEFDFBD",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 11,
+      "item": {
+        "id": "Pickaxe_StageCue",
+        "type": {
+          "id": "pickaxe",
+          "name": "Pickaxes"
+        },
+        "name": "Combat Cue",
+        "description": "That's your cue.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/45ed457e83ce97a8f33eb281ba94af45/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/45ed457e83ce97a8f33eb281ba94af45/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/45ed457e83ce97a8f33eb281ba94af45/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/45ed457e83ce97a8f33eb281ba94af45/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Pickaxes/Pickaxe_StageCue",
+        "gameplayTags": [
+          "Cosmetics.Set.WalletBat",
+          "Cosmetics.Source.Season32.BattlePass.Paid",
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Pickaxe.Lance"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "WalletBat",
+          "name": "In the Pocket",
+          "partOf": "Part of the In the Pocket set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "F1804C26496A55AE3E3D1FA229030EE8",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 11,
+      "item": {
+        "id": "Wrap_StageCue",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Radiant 1",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/fd4d4a9dba5d503bb35387a2be0424c6/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/fd4d4a9dba5d503bb35387a2be0424c6/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/fd4d4a9dba5d503bb35387a2be0424c6/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/fd4d4a9dba5d503bb35387a2be0424c6/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_StageCue",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Set.WalletBat",
+          "Cosmetics.Source.Season32.BattlePass.Free",
+          "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 3,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "WalletBat",
+          "name": "In the Pocket",
+          "partOf": "Part of the In the Pocket set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "F669A222469DE1674EFF29BD3455CA30",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 11,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "DC476E4C4AC8D09AFDD8BEBF579D8697",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 7
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 14,
+      "item": {
+        "id": "EID_StageCue",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "The Break Shot",
+        "description": "Send 'em spinning.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/ce454a4ea56f1260d93fa8f1cbab88f1/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/ce454a4ea56f1260d93fa8f1cbab88f1/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/ce454a4ea56f1260d93fa8f1cbab88f1/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/ce454a4ea56f1260d93fa8f1cbab88f1/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_StageCue",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Set.WalletBat"
+        ],
+        "apiTags": [
+          "emoteDuration:9.93"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 3,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "WalletBat",
+          "name": "In the Pocket",
+          "partOf": "Part of the In the Pocket set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "39126EC04729DA168845338E2EB34C84",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 14,
+      "item": {
+        "id": "Contrail_StageCue",
+        "type": {
+          "id": "contrail",
+          "name": "Contrail"
+        },
+        "name": "Baller Faller",
+        "description": "Ball out while you fall out... of the bus.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/04cb35b582c8f14d5a203638d2058c8d/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/04cb35b582c8f14d5a203638d2058c8d/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/04cb35b582c8f14d5a203638d2058c8d/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/04cb35b582c8f14d5a203638d2058c8d/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Contrails/Contrail_StageCue",
+        "gameplayTags": [
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Set.WalletBat",
+          "Cosmetics.Source.Season32.BattlePass.Paid"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "WalletBat",
+          "name": "In the Pocket",
+          "partOf": "Part of the In the Pocket set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "A02E977B410533037CF3A7A887DBF377",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 6,
+      "levelsNeededForUnlock": 14,
+      "item": {
+        "id": "VTID_Character_StageCue_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "1-Ball",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/fe6eb9ce239f376eb2ae0d4e042a2472/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/fe6eb9ce239f376eb2ae0d4e042a2472/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/fe6eb9ce239f376eb2ae0d4e042a2472/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/fe6eb9ce239f376eb2ae0d4e042a2472/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_StageCue_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_StageCue_Chalk",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "611FDD634C1ED24FB53FA4B84DABF030",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 2
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 18,
+      "item": {
+        "id": "LoadingScreen_DenimEquip_Stock",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Undercover Skye",
+        "description": "If the boss tells you to do something, you do it. No matter how weird it sounds. \r\n\r\nArt by Kris Anka.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/16bac3df2ec13e879acd5433a056100f/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/16bac3df2ec13e879acd5433a056100f/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/16bac3df2ec13e879acd5433a056100f/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/16bac3df2ec13e879acd5433a056100f/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/16bac3df2ec13e879acd5433a056100f/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_DenimEquip_Stock",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Source.Season32.BattlePass",
+          "Cosmetics.Set.StrongWalk"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 4,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "StrongWalk",
+          "name": "Mighty Questie",
+          "partOf": "Part of the Mighty Questie set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "F502D3BA4339BACE572DF5930906D9DA",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 18,
+      "item": {
+        "id": "Sparks_Guitar_DenimEquip",
+        "type": {
+          "id": "sparks_guitar",
+          "name": "Guitar"
+        },
+        "name": "Guffy 6-String",
+        "description": "Strut your Guff.",
+        "rarity": {
+          "id": "Common",
+          "name": "COMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/1686108983cef9bc56bf3364d014ba30/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/1686108983cef9bc56bf3364d014ba30/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/1686108983cef9bc56bf3364d014ba30/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/1686108983cef9bc56bf3364d014ba30/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/SparksCosmetics/Instrument/Guitar/DenimEquip/Sparks_Guitar_DenimEquip",
+        "gameplayTags": [
+          "Cosmetics.Filter.Sparks.Season",
+          "Cosmetics.Set.StrongWalk",
+          "Cosmetics.Source.Season32.BattlePass"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "StrongWalk",
+          "name": "Mighty Questie",
+          "partOf": "Part of the Mighty Questie set."
+        },
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "34A2F48C4A46612D457E01939497D6C2",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 18,
+      "item": {
+        "id": "VTID_Backbling_DenimEquip_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Snap-A-Zoomatic",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/3fd862d7068af402c020beed3ab83ef4/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/3fd862d7068af402c020beed3ab83ef4/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/3fd862d7068af402c020beed3ab83ef4/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/3fd862d7068af402c020beed3ab83ef4/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_DenimEquip_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_DenimEquip",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "016CF2CF41518A7FD151FC827F959E3A",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 18,
+      "item": {
+        "id": "VTID_Pickaxe_DenimEquip_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Epic Blade of Floof",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/a64f38bb6ac99ac751dcb1691c3c129d/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/a64f38bb6ac99ac751dcb1691c3c129d/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/a64f38bb6ac99ac751dcb1691c3c129d/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/a64f38bb6ac99ac751dcb1691c3c129d/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_DenimEquip_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_DenimEquip",
+          "variantNameTag:Cosmetics.Variant.Property.Particle1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "8B8047CB412E41E0ED416BA517A62791",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 22,
+      "item": {
+        "id": "Wrap_DenimEquip",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Tactical Guff",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/7e49c8aae0d76b20c467ddcc16f85406/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/7e49c8aae0d76b20c467ddcc16f85406/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/7e49c8aae0d76b20c467ddcc16f85406/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/7e49c8aae0d76b20c467ddcc16f85406/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_DenimEquip",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Set.StrongWalk",
+          "Cosmetics.Source.Season32.BattlePass.Free",
+          "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+          "Cosmetics.UserFacingFlags.Wrap.Animated"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 4,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "StrongWalk",
+          "name": "Mighty Questie",
+          "partOf": "Part of the Mighty Questie set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "28BB8A0749B3B5D10A70E5BE466B0E55",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 22,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "5364EDEB473E1DB9EC9885BAFE487C96",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 6,
+      "levelsNeededForUnlock": 22,
+      "item": {
+        "id": "VTID_Character_DenimEquip_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Undercover Skye",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/c3bd48f931a609de415956f83b3ea82a/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/c3bd48f931a609de415956f83b3ea82a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/c3bd48f931a609de415956f83b3ea82a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/c3bd48f931a609de415956f83b3ea82a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_DenimEquip_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_DenimEquip_Stock",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "2646C5E043A6FD1754EA9DA780C2D459",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 2
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 26,
+      "item": {
+        "id": "LoadingScreen_DenimEquip_StockGlow",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Midnight Skye",
+        "description": "There's a big, beautiful world out there to explore - and I intend to see it all! \r\n\r\nArt by Sam McKenzie.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/a62feb044bba1be99c2149b913576a10/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/a62feb044bba1be99c2149b913576a10/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/a62feb044bba1be99c2149b913576a10/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/a62feb044bba1be99c2149b913576a10/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/a62feb044bba1be99c2149b913576a10/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_DenimEquip_StockGlow",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Source.Season32.BattlePass",
+          "Cosmetics.Set.StrongWalk"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "StrongWalk",
+          "name": "Mighty Questie",
+          "partOf": "Part of the Mighty Questie set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "4727A48E484031D2592769A91346ED8D",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 26,
+      "item": {
+        "id": "VTID_Backbling_DenimEquip_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Midnight Snap-A-Zoomatic",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/2b0c9b196f0b7f91dc2d52e79408d667/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/2b0c9b196f0b7f91dc2d52e79408d667/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/2b0c9b196f0b7f91dc2d52e79408d667/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/2b0c9b196f0b7f91dc2d52e79408d667/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_DenimEquip_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_DenimEquip",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 5,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "A584357442BBFF1116790DAD3CD7649D",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 26,
+      "item": {
+        "id": "Contrail_DenimEquip",
+        "type": {
+          "id": "contrail",
+          "name": "Contrail"
+        },
+        "name": "Guff Puffs",
+        "description": "Once you pop, the drop stops.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/9588a9ca5bb2e8fe734f2edf2e2f8c57/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/9588a9ca5bb2e8fe734f2edf2e2f8c57/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/9588a9ca5bb2e8fe734f2edf2e2f8c57/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/9588a9ca5bb2e8fe734f2edf2e2f8c57/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Contrails/Contrail_DenimEquip",
+        "gameplayTags": [
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Set.StrongWalk",
+          "Cosmetics.Source.Season32.BattlePass.Paid"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "StrongWalk",
+          "name": "Mighty Questie",
+          "partOf": "Part of the Mighty Questie set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "4123CBE64DAD2F8ECB9A30B26E597830",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 26,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "614D25F0435D1D473C2432904BAE4940",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 30,
+      "item": {
+        "id": "VTID_Pickaxe_DenimEquip_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Midnight Blade of Floof",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/5aacd4e0d0b0c7ad496e90c477edbd5f/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/5aacd4e0d0b0c7ad496e90c477edbd5f/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/5aacd4e0d0b0c7ad496e90c477edbd5f/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/5aacd4e0d0b0c7ad496e90c477edbd5f/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_DenimEquip_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_DenimEquip",
+          "variantNameTag:Cosmetics.Variant.Property.Particle2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 5,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "35505A4D4714090DEC3473ACFCFD1704",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 7
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 30,
+      "item": {
+        "id": "EID_DenimEquip",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Skatemonster",
+        "description": "So that's why he's named Ollie...",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/680fd7b4f1f632b495ed4dad10da5b53/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/680fd7b4f1f632b495ed4dad10da5b53/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/680fd7b4f1f632b495ed4dad10da5b53/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/680fd7b4f1f632b495ed4dad10da5b53/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_DenimEquip",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.UserFacingFlags.Emote.Traversal",
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Set.StrongWalk"
+        ],
+        "apiTags": [
+          "emoteDuration:10.07",
+          "emoteLoop"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "StrongWalk",
+          "name": "Mighty Questie",
+          "partOf": "Part of the Mighty Questie set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "80D6EA5A4CFEFDD5F902579DDC612C29",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 6,
+      "levelsNeededForUnlock": 30,
+      "item": {
+        "id": "VTID_Character_DenimEquip_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Midnight Skye",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/0f4e2d5068dee1e15d01eace5692a4b6/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/0f4e2d5068dee1e15d01eace5692a4b6/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/0f4e2d5068dee1e15d01eace5692a4b6/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/0f4e2d5068dee1e15d01eace5692a4b6/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_DenimEquip_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_DenimEquip_Stock",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "1B93FF2F42F61C8C69C29597263260C7",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 2
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 34,
+      "item": {
+        "id": "LoadingScreen_GoldCat_Claw",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Meowdas",
+        "description": "I'm the cat with the golden paws. Whatever I say, goes. \r\n\r\nArt by Nathan Fox.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/28df24289e083f99a663daf8320c1ccd/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/28df24289e083f99a663daf8320c1ccd/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/28df24289e083f99a663daf8320c1ccd/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/28df24289e083f99a663daf8320c1ccd/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/28df24289e083f99a663daf8320c1ccd/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_GoldCat_Claw",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Source.Season32.BattlePass",
+          "Cosmetics.Set.MuscleMoney"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "MuscleMoney",
+          "name": "Swole 'n Gold",
+          "partOf": "Part of the Swole 'n Gold set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "522EC44143D4520B0CD7B4ABE74B7413",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 34,
+      "item": {
+        "id": "VTID_Pickaxe_GoldCat_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "The Gilded Filet",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/117dfa780b391b9903a54844a4771233/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/117dfa780b391b9903a54844a4771233/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/117dfa780b391b9903a54844a4771233/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/117dfa780b391b9903a54844a4771233/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_GoldCat_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_GoldCat",
+          "variantNameTag:Cosmetics.Variant.Property.Particle1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "820FE56E4E78DA81F772128B683973F0",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "free",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 34,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "0151546F45A8E4639322C890B8C320AE",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 34,
+      "item": {
+        "id": "Wrap_GoldCat",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Golden Grin",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/90c54344e51eb8e4979d25f24fbd3271/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/90c54344e51eb8e4979d25f24fbd3271/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/90c54344e51eb8e4979d25f24fbd3271/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/90c54344e51eb8e4979d25f24fbd3271/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_GoldCat",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Set.MuscleMoney",
+          "Cosmetics.Source.Season32.BattlePass.Paid",
+          "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "MuscleMoney",
+          "name": "Swole 'n Gold",
+          "partOf": "Part of the Swole 'n Gold set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "40FFB9484056EC5CADAD29A5AABF2C42",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 38,
+      "item": {
+        "id": "Sparks_Bass_GoldCat",
+        "type": {
+          "id": "sparks_bass",
+          "name": "Bass"
+        },
+        "name": "Golden Nemesis",
+        "description": "Add some gnash to your thrash.",
+        "rarity": {
+          "id": "Common",
+          "name": "COMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/4222e96fa847b59d4557d03992d80889/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/4222e96fa847b59d4557d03992d80889/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/4222e96fa847b59d4557d03992d80889/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/4222e96fa847b59d4557d03992d80889/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/SparksCosmetics/Instrument/Bass/GoldCat/Sparks_Bass_GoldCat",
+        "gameplayTags": [
+          "Cosmetics.Set.MuscleMoney",
+          "Cosmetics.Filter.Sparks.Season.06",
+          "Cosmetics.Source.Season32.BattlePass"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 6,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "MuscleMoney",
+          "name": "Swole 'n Gold",
+          "partOf": "Part of the Swole 'n Gold set."
+        },
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "CE7B709D42E3C2A88AB3AD98720F63AD",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 38,
+      "item": {
+        "id": "VTID_Backbling_GoldCat_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Feline Dagger",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/3a60722940388a3dc739a803741dda8b/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/3a60722940388a3dc739a803741dda8b/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/3a60722940388a3dc739a803741dda8b/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/3a60722940388a3dc739a803741dda8b/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_GoldCat_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_GoldCat",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "35E652344F71D2CE43C5BB983EEDFFFA",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 6,
+      "levelsNeededForUnlock": 38,
+      "item": {
+        "id": "VTID_Character_GoldCat_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Meowdas",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/d52d6ca3c0c9d7790984bf5944e958b6/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/d52d6ca3c0c9d7790984bf5944e958b6/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/d52d6ca3c0c9d7790984bf5944e958b6/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/d52d6ca3c0c9d7790984bf5944e958b6/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_GoldCat_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_GoldCat_Claw",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "D02DE27D431234CDE6BC1CBCCC937897",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 2
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 42,
+      "item": {
+        "id": "LoadingScreen_GoldCat_ClawTux",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "SHADOW Meowdas",
+        "description": "The sky above the Meowrigold looks best with a little gold in it, don't you think? \r\n\r\nArt by Emanuela Lupacchino.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/1b4e8bcda9dcc4a970ef2f2609e51125/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/1b4e8bcda9dcc4a970ef2f2609e51125/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/1b4e8bcda9dcc4a970ef2f2609e51125/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/1b4e8bcda9dcc4a970ef2f2609e51125/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/1b4e8bcda9dcc4a970ef2f2609e51125/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_GoldCat_ClawTux",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Source.Season32.BattlePass",
+          "Cosmetics.Set.MuscleMoney"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "MuscleMoney",
+          "name": "Swole 'n Gold",
+          "partOf": "Part of the Swole 'n Gold set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "9F4C4F8649585BD3DB191D85E8B65619",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 7
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 42,
+      "item": {
+        "id": "EID_GoldCat",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Purr-demonium",
+        "description": "Meow it's time to keep it saucy.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/21c7e88f2630bd8a266b5a9d962c4652/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/21c7e88f2630bd8a266b5a9d962c4652/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/21c7e88f2630bd8a266b5a9d962c4652/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/21c7e88f2630bd8a266b5a9d962c4652/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_GoldCat",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Set.MuscleMoney"
+        ],
+        "apiTags": [
+          "emoteDuration:10.20",
+          "emoteLoop"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "MuscleMoney",
+          "name": "Swole 'n Gold",
+          "partOf": "Part of the Swole 'n Gold set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "81C1D36F495A390420F24B95EB3DC547",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "free",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 42,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "CA20C8DF44CB851AB974E289AD1C1EFC",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 42,
+      "item": {
+        "id": "SID_Placeholder_351",
+        "type": {
+          "id": "sparks_song",
+          "name": "Jam Track"
+        },
+        "name": "Spies! (Murda Beatz Remix)",
+        "description": "",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-06-22",
+          "version": "30.20"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/e2940a8544ae5ed366fe33e3a9818e92/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/e2940a8544ae5ed366fe33e3a9818e92/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/e2940a8544ae5ed366fe33e3a9818e92/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/e2940a8544ae5ed366fe33e3a9818e92/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/SparksSongTemplates/Items/Songs/SID_Placeholder_351",
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "930BAF3F4DE83677041E1FBD32578B85",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 46,
+      "item": {
+        "id": "VTID_Glider_GoldCat_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Skelleshark",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/29a241b2ab013158a7a3147f8419f5e5/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/29a241b2ab013158a7a3147f8419f5e5/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/29a241b2ab013158a7a3147f8419f5e5/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/29a241b2ab013158a7a3147f8419f5e5/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Glider_GoldCat_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Glider_GoldCat",
+          "variantNameTag:Cosmetics.Variant.Property.Particle1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 7,
+          "type": "free",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "1F57296E4DDF2F9A39569E9A62D02DC8",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 46,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "710C67CD47011A2BCC126C8D3101029D",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 6,
+      "levelsNeededForUnlock": 46,
+      "item": {
+        "id": "VTID_Character_GoldCat_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "SHADOW Meowdas",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/0cfdaafb84effbb2b20b5878e0f0ce0a/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/0cfdaafb84effbb2b20b5878e0f0ce0a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/0cfdaafb84effbb2b20b5878e0f0ce0a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/0cfdaafb84effbb2b20b5878e0f0ce0a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_GoldCat_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_GoldCat_Claw",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7C4974224D12B5535D83ECB85B6F7781",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Glider_MissusMind_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Chaotic Crawler",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/2e7def19042efdc4ab8d571791c6ab86/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/2e7def19042efdc4ab8d571791c6ab86/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/2e7def19042efdc4ab8d571791c6ab86/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/2e7def19042efdc4ab8d571791c6ab86/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Glider_MissusMind_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Glider_MissusMind",
+          "variantNameTag:Cosmetics.Variant.Property.Particle1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": -1,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "E542CBD946D94391591F6FAE9359668C",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "32ADDB844DCCB9DDAB0D6A843C895745",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 4
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "SID_Placeholder_352",
+        "type": {
+          "id": "sparks_song",
+          "name": "Jam Track"
+        },
+        "name": "Limitless (Murda Beatz Remix)",
+        "description": "",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-06-24",
+          "version": "30.20"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/34c497183112abf20158c810705706bf/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/34c497183112abf20158c810705706bf/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/34c497183112abf20158c810705706bf/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/34c497183112abf20158c810705706bf/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/SparksSongTemplates/Items/Songs/SID_Placeholder_352",
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": -1,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "A24B964E4389D3EF38F74CA0FB6CC598",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 3
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Emoji_S32_MissusMind",
+        "type": {
+          "id": "emoji",
+          "name": "Emoticon"
+        },
+        "name": "Heart of Chaos",
+        "description": "Express yourself on the battlefield.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/d9d69d6c1a0136cf3f2cc9304320a789/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/d9d69d6c1a0136cf3f2cc9304320a789/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/d9d69d6c1a0136cf3f2cc9304320a789/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/d9d69d6c1a0136cf3f2cc9304320a789/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S32_MissusMind",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Emoji",
+          "Cosmetics.UserFacingFlags.Emoticon.Animated",
+          "Cosmetics.Source.Season32.BattlePass",
+          "Cosmetics.Set.PressedEarth",
+          "Cosmetics.Filter.Season.32"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": -1,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "PressedEarth",
+          "name": "Bleakest Bedlam",
+          "partOf": "Part of the Bleakest Bedlam set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "BF0A9DF143C812F75FC79AA21C503C86",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 2
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "LoadingScreen_StageCue_ChalkMustard",
+        "type": {
+          "id": "loadingscreen",
+          "name": "Loading Screen"
+        },
+        "name": "Chalked Up 1-Ball",
+        "description": "At the end of the day, it's about timing. Accuracy. And just a little bit of luck. \r\n\r\nArt by David Rubin.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/8905bde932c089687c53651e87953d2a/transparent.png",
+          "featured": "https://media.fortniteapi.io/images/8905bde932c089687c53651e87953d2a/full_featured.png",
+          "background": "https://media.fortniteapi.io/images/cosmetics/8905bde932c089687c53651e87953d2a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/8905bde932c089687c53651e87953d2a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/8905bde932c089687c53651e87953d2a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/LoadingScreens/LoadingScreen_StageCue_ChalkMustard",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Source.Season32.BattlePass",
+          "Cosmetics.Set.WalletBat"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": -1,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "WalletBat",
+          "name": "In the Pocket",
+          "partOf": "Part of the In the Pocket set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7D408A6145F5DE2D3EB65C848B2CC3B3",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 100,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 5
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "18384181421B8051856F8E9DB2B03859",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 6
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Glider_StageCue",
+        "type": {
+          "id": "glider",
+          "name": "Glider"
+        },
+        "name": "The Rack-Up",
+        "description": "Land right in the pocket.",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/2b8638a2e0113db91f5ca4c9eccfd8fd/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/2b8638a2e0113db91f5ca4c9eccfd8fd/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/2b8638a2e0113db91f5ca4c9eccfd8fd/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/2b8638a2e0113db91f5ca4c9eccfd8fd/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Gliders/Glider_StageCue",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.32",
+          "Cosmetics.Set.WalletBat",
+          "Cosmetics.Source.Season32.BattlePass.Paid.Additional"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": -1,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "WalletBat",
+          "name": "In the Pocket",
+          "partOf": "Part of the In the Pocket set."
+        },
+        "introduction": {
+          "chapter": "",
+          "season": "Fortnite: Remix",
+          "text": "Introduced in Fortnite: Remix."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "603E44E7465CBF9F581CB9BB088C211D",
+      "tier": -1,
+      "page": 8,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 9
+      },
+      "rewardsNeededForUnlock": 7,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_MissusMind_StyleC",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Shadowstruck Director",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2024-11-02",
+          "version": "32.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/1c62a023043814568f4ffb68b0f6ff18/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/1c62a023043814568f4ffb68b0f6ff18/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/1c62a023043814568f4ffb68b0f6ff18/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/1c62a023043814568f4ffb68b0f6ff18/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_MissusMind_StyleC",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_MissusMind_Suit",
+          "variantNameTag:Cosmetics.Variant.Property.Stage3"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 32,
+          "tier": -1,
+          "page": 8,
+          "type": "paid",
+          "displayText": {
+            "chapter": "",
+            "season": "Fortnite: Remix",
+            "chapterSeason": "Fortnite: Remix"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,5048 @@
+{
+  "result": true,
+  "lang": "en",
+  "season": 30,
+  "bundles": [
+    {
+      "tag": "QuestCategory.BR.Survivor",
+      "name": "Survivor Medals",
+      "colorData": {
+        "RGB1": "#0033AC",
+        "RGB2": "#00B3A7"
+      },
+      "image": "https://media.fortniteapi.io/images/displayAssets/T_UI_QuestBundle_Survivor_Nitro.png",
+      "bundles": [
+        {
+          "id": "MissionBundle_S30_Survivor_Goal",
+          "name": "Survivor Medal Bonus Goals",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Survivor"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#00EE33",
+            "Context_LimitedTimeColor": "#CCF7FF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Survivor Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_S30_Survivor_R1_Goal",
+              "name": "Complete all Common Quests to earn the Common Prized Llama",
+              "description": "",
+              "shortDescription": "Complete all Common Quests to earn the Common Prized Llama",
+              "categoryHeader": "Survivor Quests",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "QuestCategory.BR.Survivor.Rarity01"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Backpack_LlamaNuggets",
+                    "type": {
+                      "id": "backpack",
+                      "name": "BackBling"
+                    },
+                    "name": "Prized Llama",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/1118ccfe6bebdd142633afbc4da7665e/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/1118ccfe6bebdd142633afbc4da7665e/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/1118ccfe6bebdd142633afbc4da7665e/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/1118ccfe6bebdd142633afbc4da7665e/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R2_Goal",
+              "name": "Complete all Uncommon Quests to earn the Uncommon Prized Llama",
+              "description": "",
+              "shortDescription": "Complete all Uncommon Quests to earn the Uncommon Prized Llama",
+              "categoryHeader": "Survivor Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "QuestCategory.BR.Survivor.Rarity02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Backbling_LlamaNuggets_StyleB",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Prized Llama (Uncommon)",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/aeda0777fdfade5dc6f2a4972d49e2ce/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/aeda0777fdfade5dc6f2a4972d49e2ce/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/aeda0777fdfade5dc6f2a4972d49e2ce/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/aeda0777fdfade5dc6f2a4972d49e2ce/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R3_Goal",
+              "name": "Complete all Rare Quests to earn the Rare Prized Llama",
+              "description": "",
+              "shortDescription": "Complete all Rare Quests to earn the Rare Prized Llama",
+              "categoryHeader": "Survivor Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "QuestCategory.BR.Survivor.Rarity03"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Backbling_LlamaNuggets_StyleC",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Prized Llama (Rare)",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/720082d4a14fbe93ee77452e4d55de81/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/720082d4a14fbe93ee77452e4d55de81/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/720082d4a14fbe93ee77452e4d55de81/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/720082d4a14fbe93ee77452e4d55de81/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R4_Goal",
+              "name": "Complete all Epic Quests to earn the Epic Prized Llama",
+              "description": "",
+              "shortDescription": "Complete all Epic Quests to earn the Epic Prized Llama",
+              "categoryHeader": "Survivor Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "QuestCategory.BR.Survivor.Rarity04"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Backbling_LlamaNuggets_StyleD",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Prized Llama (Epic)",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/00be5b7410b27419b8e130932097665a/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/00be5b7410b27419b8e130932097665a/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/00be5b7410b27419b8e130932097665a/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/00be5b7410b27419b8e130932097665a/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R5_Goal",
+              "name": "Complete all Legendary Quests to earn the Legendary Prized Llama",
+              "description": "",
+              "shortDescription": "Complete all Legendary Quests to earn the Legendary Prized Llama",
+              "categoryHeader": "Survivor Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "QuestCategory.BR.Survivor.Rarity05"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Backbling_LlamaNuggets_StyleE",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Prized Llama (Legendary)",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/7aacb894f98d44b4940fe9fea5f0c31c/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/7aacb894f98d44b4940fe9fea5f0c31c/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/7aacb894f98d44b4940fe9fea5f0c31c/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/7aacb894f98d44b4940fe9fea5f0c31c/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R6_Goal",
+              "name": "Complete all Exotic Quests to earn the Exotic Prized Llama",
+              "description": "",
+              "shortDescription": "Complete all Exotic Quests to earn the Exotic Prized Llama",
+              "categoryHeader": "Survivor Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "QuestCategory.BR.Survivor.Rarity06"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Backbling_LlamaNuggets_StyleF",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Prized Llama (Exotic)",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/a2f632f4591b98132468c310cf592fbf/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/a2f632f4591b98132468c310cf592fbf/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/a2f632f4591b98132468c310cf592fbf/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/a2f632f4591b98132468c310cf592fbf/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R7_Goal",
+              "name": "Complete all Mythic Quests to earn the Mythic Prized Llama",
+              "description": "",
+              "shortDescription": "Complete all Mythic Quests to earn the Mythic Prized Llama",
+              "categoryHeader": "Survivor Quests",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 9,
+              "tags": [
+                "QuestCategory.BR.Survivor.Rarity07"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Backbling_LlamaNuggets_StyleG",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Prized Llama (Mythic)",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/fc15fa5fa308cb9baf200cb2af3fc598/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/fc15fa5fa308cb9baf200cb2af3fc598/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/fc15fa5fa308cb9baf200cb2af3fc598/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/fc15fa5fa308cb9baf200cb2af3fc598/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": null,
+      "name": "",
+      "colorData": null,
+      "bundles": [
+        {
+          "id": "MissionBundle_S30_Survivor_R1",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Survivor.Rarity01"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#00EE33",
+            "Context_LimitedTimeColor": "#CCF7FF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Survivor_R1_Q01",
+              "name": "Common 10 - Reach 50 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Common 10 - Reach 50 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity01.Tier01"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R1_Q02",
+              "name": "Common 9 - Reach 45 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Common 9 - Reach 45 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity01.Tier02"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R1_Q03",
+              "name": "Common 8 - Reach 40 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Common 8 - Reach 40 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity01.Tier03"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R1_Q04",
+              "name": "Common 7 - Reach 35 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Common 7 - Reach 35 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity01.Tier04"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R1_Q05",
+              "name": "Common 6 - Reach 30 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Common 6 - Reach 30 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity01.Tier05"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R1_Q06",
+              "name": "Common 5 - Reach 28 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Common 5 - Reach 28 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity01.Tier06"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R1_Q07",
+              "name": "Common 4 - Reach 26 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Common 4 - Reach 26 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity01.Tier07"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R1_Q08",
+              "name": "Common 3 - Reach 24 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Common 3 - Reach 24 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity01.Tier08"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R1_Q09",
+              "name": "Common 2 - Reach 22 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Common 2 - Reach 22 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity01.Tier09"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R1_Q10",
+              "name": "Common 1 - Reach 20 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Common 1 - Reach 20 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity01.Tier10"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Survivor_R2",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Survivor.Rarity02"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#00EE33",
+            "Context_LimitedTimeColor": "#CCF7FF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Survivor_R2_Q01",
+              "name": "Uncommon 10 - Reach 30 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Uncommon 10 - Reach 30 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity02.Tier01"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R2_Q02",
+              "name": "Uncommon 9 - Reach 28 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Uncommon 9 - Reach 28 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity02.Tier02"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R2_Q03",
+              "name": "Uncommon 8 - Reach 26 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Uncommon 8 - Reach 26 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity02.Tier03"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R2_Q04",
+              "name": "Uncommon 7 - Reach 24 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Uncommon 7 - Reach 24 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity02.Tier04"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R2_Q05",
+              "name": "Uncommon 6 - Reach 22 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Uncommon 6 - Reach 22 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity02.Tier05"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R2_Q06",
+              "name": "Uncommon 5 - Reach 20 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Uncommon 5 - Reach 20 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity02.Tier06"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R2_Q07",
+              "name": "Uncommon 4 - Reach 18 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Uncommon 4 - Reach 18 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity02.Tier07"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R2_Q08",
+              "name": "Uncommon 3 - Reach 16 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Uncommon 3 - Reach 16 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity02.Tier08"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R2_Q09",
+              "name": "Uncommon 2 - Reach 14 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Uncommon 2 - Reach 14 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity02.Tier09"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R2_Q10",
+              "name": "Uncommon 1 - Reach 12 players remaining with an elimination",
+              "description": "",
+              "shortDescription": "Uncommon 1 - Reach 12 players remaining with an elimination",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity02.Tier10"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Survivor_R3",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Survivor.Rarity03"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#00EE33",
+            "Context_LimitedTimeColor": "#CCF7FF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Survivor_R3_Q01",
+              "name": "Rare 10 - Reach 30 players remaining with 2 eliminations",
+              "description": "",
+              "shortDescription": "Rare 10 - Reach 30 players remaining with 2 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity03.Tier01"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R3_Q02",
+              "name": "Rare 9 - Reach 28 players remaining with 2 eliminations",
+              "description": "",
+              "shortDescription": "Rare 9 - Reach 28 players remaining with 2 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity03.Tier02"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R3_Q03",
+              "name": "Rare 8 - Reach 26 players remaining with 2 eliminations",
+              "description": "",
+              "shortDescription": "Rare 8 - Reach 26 players remaining with 2 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity03.Tier03"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R3_Q04",
+              "name": "Rare 7 - Reach 24 players remaining with 2 eliminations",
+              "description": "",
+              "shortDescription": "Rare 7 - Reach 24 players remaining with 2 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity03.Tier04"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R3_Q05",
+              "name": "Rare 6 - Reach 22 players remaining with 2 eliminations",
+              "description": "",
+              "shortDescription": "Rare 6 - Reach 22 players remaining with 2 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity03.Tier05"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R3_Q06",
+              "name": "Rare 5 - Reach 20 players remaining with 2 eliminations",
+              "description": "",
+              "shortDescription": "Rare 5 - Reach 20 players remaining with 2 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity03.Tier06"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R3_Q07",
+              "name": "Rare 4 - Reach 18 players remaining with 2 eliminations",
+              "description": "",
+              "shortDescription": "Rare 4 - Reach 18 players remaining with 2 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity03.Tier07"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R3_Q08",
+              "name": "Rare 3 - Reach 16 players remaining with 2 eliminations",
+              "description": "",
+              "shortDescription": "Rare 3 - Reach 16 players remaining with 2 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity03.Tier08"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R3_Q09",
+              "name": "Rare 2 - Reach 14 players remaining with 2 eliminations",
+              "description": "",
+              "shortDescription": "Rare 2 - Reach 14 players remaining with 2 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity03.Tier09"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R3_Q10",
+              "name": "Rare 1 - Reach 12 players remaining with 2 eliminations",
+              "description": "",
+              "shortDescription": "Rare 1 - Reach 12 players remaining with 2 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity03.Tier10"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Survivor_R4",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Survivor.Rarity04"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#00EE33",
+            "Context_LimitedTimeColor": "#CCF7FF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Survivor_R4_Q01",
+              "name": "Epic 10 - Reach 20 players remaining with 3 eliminations",
+              "description": "",
+              "shortDescription": "Epic 10 - Reach 20 players remaining with 3 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity04.Tier01"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R4_Q02",
+              "name": "Epic 9 - Reach 18 players remaining with 3 eliminations",
+              "description": "",
+              "shortDescription": "Epic 9 - Reach 18 players remaining with 3 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity04.Tier02"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R4_Q03",
+              "name": "Epic 8 - Reach 16 players remaining with 3 eliminations",
+              "description": "",
+              "shortDescription": "Epic 8 - Reach 16 players remaining with 3 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity04.Tier03"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R4_Q04",
+              "name": "Epic 7 - Reach 14 players remaining with 3 eliminations",
+              "description": "",
+              "shortDescription": "Epic 7 - Reach 14 players remaining with 3 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity04.Tier04"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R4_Q05",
+              "name": "Epic 6 - Reach 12 players remaining with 3 eliminations",
+              "description": "",
+              "shortDescription": "Epic 6 - Reach 12 players remaining with 3 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity04.Tier05"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R4_Q06",
+              "name": "Epic 5 - Reach 10 players remaining with 3 eliminations",
+              "description": "",
+              "shortDescription": "Epic 5 - Reach 10 players remaining with 3 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity04.Tier06"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R4_Q07",
+              "name": "Epic 4 - Reach 8 players remaining with 3 eliminations",
+              "description": "",
+              "shortDescription": "Epic 4 - Reach 8 players remaining with 3 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity04.Tier07"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R4_Q08",
+              "name": "Epic 3 - Reach 7 players remaining with 3 eliminations",
+              "description": "",
+              "shortDescription": "Epic 3 - Reach 7 players remaining with 3 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity04.Tier08"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R4_Q09",
+              "name": "Epic 2 - Reach 6 players remaining with 3 eliminations",
+              "description": "",
+              "shortDescription": "Epic 2 - Reach 6 players remaining with 3 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity04.Tier09"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R4_Q10",
+              "name": "Epic 1 - Reach 5 players remaining with 3 eliminations",
+              "description": "",
+              "shortDescription": "Epic 1 - Reach 5 players remaining with 3 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity04.Tier10"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Survivor_R5",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Survivor.Rarity05"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#00EE33",
+            "Context_LimitedTimeColor": "#CCF7FF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Survivor_R5_Q01",
+              "name": "Legendary 10 - Reach 15 players remaining with 5 eliminations",
+              "description": "",
+              "shortDescription": "Legendary 10 - Reach 15 players remaining with 5 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity05.Tier01"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R5_Q02",
+              "name": "Legendary 9 - Reach 14 players remaining with 5 eliminations",
+              "description": "",
+              "shortDescription": "Legendary 9 - Reach 14 players remaining with 5 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity05.Tier02"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R5_Q03",
+              "name": "Legendary 8 - Reach 12 players remaining with 5 eliminations",
+              "description": "",
+              "shortDescription": "Legendary 8 - Reach 12 players remaining with 5 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity05.Tier03"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R5_Q04",
+              "name": "Legendary 7 - Reach 10 players remaining with 5 eliminations",
+              "description": "",
+              "shortDescription": "Legendary 7 - Reach 10 players remaining with 5 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity05.Tier04"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R5_Q05",
+              "name": "Legendary 6 - Reach 9 players remaining with 5 eliminations",
+              "description": "",
+              "shortDescription": "Legendary 6 - Reach 9 players remaining with 5 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity05.Tier05"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R5_Q06",
+              "name": "Legendary 5 - Reach 8 players remaining with 5 eliminations",
+              "description": "",
+              "shortDescription": "Legendary 5 - Reach 8 players remaining with 5 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity05.Tier06"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R5_Q07",
+              "name": "Legendary 4 - Reach 7 players remaining with 5 eliminations",
+              "description": "",
+              "shortDescription": "Legendary 4 - Reach 7 players remaining with 5 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity05.Tier07"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R5_Q08",
+              "name": "Legendary 3 - Reach 6 players remaining with 5 eliminations",
+              "description": "",
+              "shortDescription": "Legendary 3 - Reach 6 players remaining with 5 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity05.Tier08"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R5_Q09",
+              "name": "Legendary 2 - Reach 5 players remaining with 5 eliminations",
+              "description": "",
+              "shortDescription": "Legendary 2 - Reach 5 players remaining with 5 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity05.Tier09"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R5_Q10",
+              "name": "Legendary 1 - Earn a Victory Royale with 5 eliminations",
+              "description": "",
+              "shortDescription": "Legendary 1 - Earn a Victory Royale with 5 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity05.Tier10"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Survivor_R6",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Survivor.Rarity06"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#00EE33",
+            "Context_LimitedTimeColor": "#CCF7FF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Survivor_R6_Q01",
+              "name": "Exotic 10 - Reach 15 players remaining with 7 eliminations",
+              "description": "",
+              "shortDescription": "Exotic 10 - Reach 15 players remaining with 7 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity06.Tier01"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R6_Q02",
+              "name": "Exotic 9 - Reach 14 players remaining with 7 eliminations",
+              "description": "",
+              "shortDescription": "Exotic 9 - Reach 14 players remaining with 7 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity06.Tier02"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R6_Q03",
+              "name": "Exotic 8 - Reach 12 players remaining with 7 eliminations",
+              "description": "",
+              "shortDescription": "Exotic 8 - Reach 12 players remaining with 7 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity06.Tier03"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R6_Q04",
+              "name": "Exotic 7 - Reach 10 players remaining with 7 eliminations",
+              "description": "",
+              "shortDescription": "Exotic 7 - Reach 10 players remaining with 7 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity06.Tier04"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R6_Q05",
+              "name": "Exotic 6 - Reach 9 players remaining with 7 eliminations",
+              "description": "",
+              "shortDescription": "Exotic 6 - Reach 9 players remaining with 7 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity06.Tier05"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R6_Q06",
+              "name": "Exotic 5 - Reach 8 players remaining with 7 eliminations",
+              "description": "",
+              "shortDescription": "Exotic 5 - Reach 8 players remaining with 7 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity06.Tier06"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R6_Q07",
+              "name": "Exotic 4 - Reach 7 players remaining with 7 eliminations",
+              "description": "",
+              "shortDescription": "Exotic 4 - Reach 7 players remaining with 7 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity06.Tier07"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R6_Q08",
+              "name": "Exotic 3 - Reach 6 players remaining with 7 eliminations",
+              "description": "",
+              "shortDescription": "Exotic 3 - Reach 6 players remaining with 7 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity06.Tier08"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R6_Q09",
+              "name": "Exotic 2 - Reach 5 players remaining with 7 eliminations",
+              "description": "",
+              "shortDescription": "Exotic 2 - Reach 5 players remaining with 7 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity06.Tier09"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R6_Q10",
+              "name": "Exotic 1 - Earn a Victory Royale with 7 eliminations",
+              "description": "",
+              "shortDescription": "Exotic 1 - Earn a Victory Royale with 7 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity06.Tier10"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Survivor_R7",
+          "name": "Survivor Medal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Survivor.Rarity07"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#00EE33",
+            "Context_LimitedTimeColor": "#CCF7FF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Survivor_R7_Q01",
+              "name": "Mythic 10 - Earn a Victory Royale with 10 eliminations",
+              "description": "",
+              "shortDescription": "Mythic 10 - Earn a Victory Royale with 10 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity07.Tier01"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R7_Q02",
+              "name": "Mythic 9 - Earn a Victory Royale with 10 eliminations",
+              "description": "",
+              "shortDescription": "Mythic 9 - Earn a Victory Royale with 10 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity07.Tier02"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R7_Q03",
+              "name": "Mythic 8 - Earn a Victory Royale with 10 eliminations",
+              "description": "",
+              "shortDescription": "Mythic 8 - Earn a Victory Royale with 10 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity07.Tier03"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R7_Q04",
+              "name": "Mythic 7 - Earn a Victory Royale with 10 eliminations",
+              "description": "",
+              "shortDescription": "Mythic 7 - Earn a Victory Royale with 10 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity07.Tier04"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R7_Q05",
+              "name": "Mythic 6 - Earn a Victory Royale with 10 eliminations",
+              "description": "",
+              "shortDescription": "Mythic 6 - Earn a Victory Royale with 10 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity07.Tier05"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R7_Q06",
+              "name": "Mythic 5 - Earn a Victory Royale with 10 eliminations",
+              "description": "",
+              "shortDescription": "Mythic 5 - Earn a Victory Royale with 10 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity07.Tier06"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R7_Q07",
+              "name": "Mythic 4 - Earn a Victory Royale with 10 eliminations",
+              "description": "",
+              "shortDescription": "Mythic 4 - Earn a Victory Royale with 10 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity07.Tier07"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R7_Q08",
+              "name": "Mythic 3 - Earn a Victory Royale with 10 eliminations",
+              "description": "",
+              "shortDescription": "Mythic 3 - Earn a Victory Royale with 10 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity07.Tier08"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Survivor_R7_Q09",
+              "name": "Mythic 2 - Earn a Victory Royale with 10 eliminations",
+              "description": "",
+              "shortDescription": "Mythic 2 - Earn a Victory Royale with 10 eliminations",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Survivor.Rarity07.Tier09"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Week_00",
+          "name": "Week 0 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Weekly.00"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Weekly_W00_Q01",
+              "name": "Fully refuel or repair a vehicle",
+              "description": "Hahaha! Prepare for the VROOOOOM!",
+              "shortDescription": "Fully refuel or repair a vehicle",
+              "categoryHeader": "Launch",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.00.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W00_Q02",
+              "name": "Deal explosive damage to opponents",
+              "description": "Look, look, look! Such beautiful fireworks!",
+              "shortDescription": "Deal explosive damage to opponents",
+              "categoryHeader": "Launch",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 250,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.00.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W00_Q03",
+              "name": "Visit Redline Rig, Brutal Beachhead, and Nitrodrome",
+              "description": "It's where the Nitro is!",
+              "shortDescription": "Visit Redline Rig, Brutal Beachhead, and Nitrodrome",
+              "categoryHeader": "Launch",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.00.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W00_Q04",
+              "name": "Destroy objects while in a vehicle",
+              "description": "A wrecking ball on wheels! HAHAHAHA!",
+              "shortDescription": "Destroy objects while in a vehicle",
+              "categoryHeader": "Launch",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 150,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.00.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W00_Q05",
+              "name": "Travel distance while boosting",
+              "description": "Faster, Faster, FASTER!",
+              "shortDescription": "Travel distance while boosting",
+              "categoryHeader": "Launch",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 2000,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.00.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W00_Suppressed_Q01",
+              "name": "Get in different types of vehicles in a single match",
+              "description": "You really expect me to pick a favorite? THEY'RE ALL MY FAVORITE!",
+              "shortDescription": "Get in different types of vehicles in a single match",
+              "categoryHeader": "Launch",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.00.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W00_Suppressed_Q02",
+              "name": "Collect ammo from eliminated players",
+              "description": "Finders keepers, which means it's MINE now.",
+              "shortDescription": "Collect ammo from eliminated players",
+              "categoryHeader": "Launch",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.00.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Week_01",
+          "name": "Week 1 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Weekly.01"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Weekly_W01_Q01",
+              "name": "Restore health or gain shields with Slurp Cactus",
+              "description": "Ah, so refreshing! The spines are a little rough going down, though.",
+              "shortDescription": "Restore health or gain shields with Slurp Cactus",
+              "categoryHeader": "Week 1",
+              "enabled": true,
+              "enabledDate": "2024-05-28 19:18:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 300,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W01_Q02",
+              "name": "Eliminate players using a weapon with a scope mod",
+              "description": "Ha! Look at them run!",
+              "shortDescription": "Eliminate players using a weapon with a scope mod",
+              "categoryHeader": "Week 1",
+              "enabled": true,
+              "enabledDate": "2024-05-28 19:18:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W01_Q03",
+              "name": "Damage opponents with Nitro Fists",
+              "description": "Feel the power of Nitro!",
+              "shortDescription": "Damage opponents with Nitro Fists",
+              "categoryHeader": "Week 1",
+              "enabled": true,
+              "enabledDate": "2024-05-28 19:18:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 400,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W01_Q04",
+              "name": "Defeat Megalo Don, The Machinist, or Ringmaster Scarr",
+              "description": "Show them YOU'RE the ruler of the Wasteland!",
+              "shortDescription": "Defeat Megalo Don, The Machinist, or Ringmaster Scarr",
+              "categoryHeader": "Week 1",
+              "enabled": true,
+              "enabledDate": "2024-05-28 19:18:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W01_Q05",
+              "name": "Enter a car from the roof",
+              "description": "You can lock the doors, but I'll STILL GET MY CAR!!",
+              "shortDescription": "Enter a car from the roof",
+              "categoryHeader": "Week 1",
+              "enabled": true,
+              "enabledDate": "2024-05-28 19:18:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W01_Suppressed_Q01",
+              "name": "Damage opponents with vehicles",
+              "description": "Watch them go flying!",
+              "shortDescription": "Damage opponents with vehicles",
+              "categoryHeader": "Week 1",
+              "enabled": true,
+              "enabledDate": "2024-05-28 19:18:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W01_Suppressed_Q02",
+              "name": "Get air in a vehicle",
+              "description": "Fly! FLY!!!",
+              "shortDescription": "Get air in a vehicle",
+              "categoryHeader": "Week 1",
+              "enabled": true,
+              "enabledDate": "2024-05-28 19:18:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 60,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.01.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Week_02",
+          "name": "Week 2 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Weekly.02"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Weekly_W02_Q01",
+              "name": "Travel distance over water while infused with Nitro",
+              "description": "Water? More like WALKER, am I right? Or, runner? No, that doesn't work...",
+              "shortDescription": "Travel distance over water while infused with Nitro",
+              "categoryHeader": "Week 2",
+              "enabled": true,
+              "enabledDate": "2024-06-04 18:38:01+00:00",
+              "parentQuest": null,
+              "progressTotal": 400,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W02_Q02",
+              "name": "Damage players with pistols",
+              "description": "So small. So powerful. So... perfect!",
+              "shortDescription": "Damage players with pistols",
+              "categoryHeader": "Week 2",
+              "enabled": true,
+              "enabledDate": "2024-06-04 18:38:01+00:00",
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W02_Q03",
+              "name": "Recover health or gain shields in an Oasis Pool",
+              "description": "Relaaaaaaaaax... I SAID RELAX!",
+              "shortDescription": "Recover health or gain shields in an Oasis Pool",
+              "categoryHeader": "Week 2",
+              "enabled": true,
+              "enabledDate": "2024-06-04 18:38:01+00:00",
+              "parentQuest": null,
+              "progressTotal": 150,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W02_Q04",
+              "name": "Drive or ride in Megalo Don's Behemoth, The Machinist's Lockjaw, Ringmaster Scarr's Lockjaw, or a War Bus",
+              "description": "It's mine now! MINE!",
+              "shortDescription": "Drive or ride in Megalo Don's Behemoth, The Machinist's Lockjaw, Ringmaster Scarr's Lockjaw, or a War Bus",
+              "categoryHeader": "Week 2",
+              "enabled": true,
+              "enabledDate": "2024-06-04 18:38:01+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W02_Q05",
+              "name": "Mod a vehicle with a Cow Catcher or a Spiked Bumper",
+              "description": "Embrace the destruction!!",
+              "shortDescription": "Mod a vehicle with a Cow Catcher or a Spiked Bumper",
+              "categoryHeader": "Week 2",
+              "enabled": true,
+              "enabledDate": "2024-06-04 18:38:01+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W02_Suppressed_Q01",
+              "name": "Damage opponents in vehicles",
+              "description": "Don't overdo it! That slick ride could be YOURS when you're done!",
+              "shortDescription": "Damage opponents in vehicles",
+              "categoryHeader": "Week 2",
+              "enabled": true,
+              "enabledDate": "2024-06-04 18:38:01+00:00",
+              "parentQuest": null,
+              "progressTotal": 100,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W02_Suppressed_Q02",
+              "name": "Repair vehicles with Service Stations or Repair Torches",
+              "description": "Who needs a mechanic? I'M THE MECHANIC!!",
+              "shortDescription": "Repair vehicles with Service Stations or Repair Torches",
+              "categoryHeader": "Week 2",
+              "enabled": true,
+              "enabledDate": "2024-06-04 18:38:01+00:00",
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.02.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Week_03",
+          "name": "Week 3 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Weekly.03"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Weekly_W03_Q01",
+              "name": "Repair a vehicle with the Repair Torch",
+              "description": "",
+              "shortDescription": "Repair a vehicle with the Repair Torch",
+              "categoryHeader": "Week 3",
+              "enabled": true,
+              "enabledDate": "2024-06-13 10:45:30+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.03.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Week_04",
+          "name": "Week 4 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Weekly.04"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Weekly_W04_Q01",
+              "name": "Jam at a named location",
+              "description": "",
+              "shortDescription": "Jam at a named location",
+              "categoryHeader": "Week 4",
+              "enabled": true,
+              "enabledDate": "2024-06-18 18:42:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.04.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Week_05",
+          "name": "Week 5 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Weekly.05"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Weekly_W05_Q01",
+              "name": "Use Nitro Splash in a vehicle",
+              "description": "",
+              "shortDescription": "Use Nitro Splash in a vehicle",
+              "categoryHeader": "Weeks 5 & 6 Bonus Goals",
+              "enabled": true,
+              "enabledDate": "2024-06-25 18:16:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.05.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W05_Q02",
+              "name": "Damage opponents while in a vehicle",
+              "description": "",
+              "shortDescription": "Damage opponents while in a vehicle",
+              "categoryHeader": "Weeks 5 & 6 Bonus Goals",
+              "enabled": true,
+              "enabledDate": "2024-06-25 18:16:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 200,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.05.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W05_Q03",
+              "name": "Emote while attached with a Tow Hook Cannon",
+              "description": "",
+              "shortDescription": "Emote while attached with a Tow Hook Cannon",
+              "categoryHeader": "Weeks 5 & 6 Bonus Goals",
+              "enabled": true,
+              "enabledDate": "2024-06-25 18:16:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.05.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W05_Q04",
+              "name": "Collect weapons from eliminated opponents",
+              "description": "",
+              "shortDescription": "Collect weapons from eliminated opponents",
+              "categoryHeader": "Weeks 5 & 6 Bonus Goals",
+              "enabled": true,
+              "enabledDate": "2024-06-25 18:16:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.05.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W05_Q05",
+              "name": "Damage players using Epic or better weapons",
+              "description": "",
+              "shortDescription": "Damage players using Epic or better weapons",
+              "categoryHeader": "Weeks 5 & 6 Bonus Goals",
+              "enabled": true,
+              "enabledDate": "2024-06-25 18:16:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.05.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W05_Suppressed_Q01",
+              "name": "Travel vertical distance while in a vehicle",
+              "description": "",
+              "shortDescription": "Travel vertical distance while in a vehicle",
+              "categoryHeader": "Weeks 5 & 6 Bonus Goals",
+              "enabled": true,
+              "enabledDate": "2024-06-25 18:16:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.05.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Weekly_W05_Suppressed_Q02",
+              "name": "Eliminate opponents with assault rifles",
+              "description": "",
+              "shortDescription": "Eliminate opponents with assault rifles",
+              "categoryHeader": "Weeks 5 & 6 Bonus Goals",
+              "enabled": true,
+              "enabledDate": "2024-06-25 18:16:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 4,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.05.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Week_06",
+          "name": "Week 6 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Weekly.06"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Weekly_W06_Q01",
+              "name": "Travel distance while attached to a vehicle with a Tow Hook Cannon",
+              "description": "",
+              "shortDescription": "Travel distance while attached to a vehicle with a Tow Hook Cannon",
+              "categoryHeader": "Week 6",
+              "enabled": true,
+              "enabledDate": "2024-07-02 18:48:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.06.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Week_07",
+          "name": "Week 7 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Weekly.07"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Weekly_W07_Q01",
+              "name": "Mod a vehicle with Off-Road Tires or Bulletproof Tires",
+              "description": "",
+              "shortDescription": "Mod a vehicle with Off-Road Tires or Bulletproof Tires",
+              "categoryHeader": "Week 7",
+              "enabled": true,
+              "enabledDate": "2024-07-09 13:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.07.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Week_08",
+          "name": "Week 8 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Weekly.08"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Weekly_W08_Q01",
+              "name": "Eliminate players with pistols or SMGs",
+              "description": "",
+              "shortDescription": "Eliminate players with pistols or SMGs",
+              "categoryHeader": "Week 8",
+              "enabled": true,
+              "enabledDate": "2024-07-16 18:44:04+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.08.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Week_09",
+          "name": "Week 9 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Weekly.09"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Weekly_W09_Q01",
+              "name": "Eliminate opponents with the Combat Shotgun",
+              "description": "Give 'em a big wasteland BOOM!",
+              "shortDescription": "Eliminate opponents with the Combat Shotgun",
+              "categoryHeader": "Week 9",
+              "enabled": true,
+              "enabledDate": "2024-07-23 18:24:01+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.09.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Week_10",
+          "name": "Week 10 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Weekly.10"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Weekly_W10_Q01",
+              "name": "Spend bars on Character sales or services",
+              "description": "It's basic economology.",
+              "shortDescription": "Spend bars on Character sales or services",
+              "categoryHeader": "Week 10",
+              "enabled": true,
+              "enabledDate": "2024-07-30 18:28:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.10.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "MissionBundle_S30_Week_11",
+          "name": "Week 11 Seasonal Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Weekly.11"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Weekly_W11_Q01",
+              "name": "Search containers at Redline Rig, Brutal Beachhead or Nitrodrome",
+              "description": "They wouldn't hide it in a chest if it wasn't VALUABLE!",
+              "shortDescription": "Search containers at Redline Rig, Brutal Beachhead or Nitrodrome",
+              "categoryHeader": "Week 11",
+              "enabled": true,
+              "enabledDate": "2024-08-06 13:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.11.Quest"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S30_BPCharacter_01",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [
+            "QuestCategory.BR.S30.BPCharacter"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#00EE33",
+            "Context_LimitedTimeColor": "#CCF7FF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Magneto",
+            "defaultHeaderName": "Magneto Quests"
+          },
+          "header": "The Herald Quests",
+          "quests": [
+            {
+              "id": "quest_s30_bpcharacter_b01_q01",
+              "name": "Visit Weapon X Lab",
+              "description": "",
+              "shortDescription": "Visit Weapon X Lab",
+              "categoryHeader": "Page 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.BPCharacter.01"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpcharacter_b01_q02",
+              "name": "Collect Magneto Power",
+              "description": "",
+              "shortDescription": "Collect Magneto Power",
+              "categoryHeader": "Page 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.BPCharacter.01"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpcharacter_b01_q03",
+              "name": "Travel distance in the air with Magneto Power equipped",
+              "description": "",
+              "shortDescription": "Travel distance in the air with Magneto Power equipped",
+              "categoryHeader": "Page 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.BPCharacter.01"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpcharacter_b01_q04",
+              "name": "Hit vehicles using Magneto Power",
+              "description": "",
+              "shortDescription": "Hit vehicles using Magneto Power",
+              "categoryHeader": "Page 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.BPCharacter.01"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpcharacter_b01_q05",
+              "name": "Survive storm circles",
+              "description": "",
+              "shortDescription": "Survive storm circles",
+              "categoryHeader": "Page 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.BPCharacter.01"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Character_RoundThumb_Nail",
+                    "type": {
+                      "id": "outfit",
+                      "name": "Outfit"
+                    },
+                    "name": "Wastelander Magneto",
+                    "rarity": {
+                      "id": "Epic",
+                      "name": "Epic"
+                    },
+                    "series": {
+                      "id": "MarvelSeries",
+                      "name": "MARVEL SERIES"
+                    },
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/fde969a8e72fd46502dcae6ef4e58c8c/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/fde969a8e72fd46502dcae6ef4e58c8c/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/fde969a8e72fd46502dcae6ef4e58c8c/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/fde969a8e72fd46502dcae6ef4e58c8c/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpcharacter_b01_q06_01",
+              "name": "Complete Page 1 Quests",
+              "description": "",
+              "shortDescription": "Complete Page 1 Quests",
+              "categoryHeader": "Page 1",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.BPCharacter.01"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpcharacter_b02_granter",
+              "name": "Page 1 Quests",
+              "description": "",
+              "shortDescription": "Page 1 Quests",
+              "categoryHeader": "Page 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.BPCharacter.02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S30_BPCharacter_02",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::RequiresBattlePass",
+          "tags": [
+            "QuestCategory.BR.S30.BPCharacter"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "AccentColor": "#00EE33",
+            "Context_LimitedTimeColor": "#CCF7FF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Magneto",
+            "defaultHeaderName": "Magneto Quests"
+          },
+          "header": "The Herald Quests",
+          "quests": [
+            {
+              "id": "quest_s30_bpcharacter_b02_q01",
+              "name": "Eliminate opponents with Magneto Power",
+              "description": "",
+              "shortDescription": "Eliminate opponents with Magneto Power",
+              "categoryHeader": "Page 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.BPCharacter.02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpcharacter_b02_q02",
+              "name": "Block hits using the Magneto Power",
+              "description": "",
+              "shortDescription": "Block hits using the Magneto Power",
+              "categoryHeader": "Page 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.BPCharacter.02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpcharacter_b02_q03",
+              "name": "Collect Bars from eliminated players",
+              "description": "",
+              "shortDescription": "Collect Bars from eliminated players",
+              "categoryHeader": "Page 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.BPCharacter.02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpcharacter_b02_q04",
+              "name": "Damage opponents from one story above or higher",
+              "description": "",
+              "shortDescription": "Damage opponents from one story above or higher",
+              "categoryHeader": "Page 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.BPCharacter.02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpcharacter_b02_q05",
+              "name": "Configure Rift Beacons",
+              "description": "",
+              "shortDescription": "Configure Rift Beacons",
+              "categoryHeader": "Page 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.BPCharacter.02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpcharacter_b02_q06_02",
+              "name": "Complete Page 2 Quests",
+              "description": "",
+              "shortDescription": "Complete Page 2 Quests",
+              "categoryHeader": "Page 2",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.BPCharacter.02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S30_CompleteSeason",
+          "name": "Bonus Quests",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "ChallengeCategory.XP",
+            "QuestCategory.BR.Weekly.Bonus"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Weekly Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_S30_CompleteSeason_01",
+              "name": "Complete Weekly Quests",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 4,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Weekly.Bonus"
+              ],
+              "reward": {
+                "xp": 25000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "RankedS30_Bundle",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Habanero.Punchcards"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "[Habanero] Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_S30_Ranked_Q01",
+              "name": "Survive Storm Circles in Ranked Matches",
+              "description": "",
+              "shortDescription": "Survive Storm Circles in Ranked Matches",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "QuestCategory.BR.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Backpack_RankedFury",
+                    "type": {
+                      "id": "backpack",
+                      "name": "BackBling"
+                    },
+                    "name": "Nitro'd Ranker",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/083346db2aef93fd315c674fcbd704d9/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/083346db2aef93fd315c674fcbd704d9/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/083346db2aef93fd315c674fcbd704d9/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/083346db2aef93fd315c674fcbd704d9/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Ranked_Q02",
+              "name": "Survive Storm Circles in Ranked Matches",
+              "description": "",
+              "shortDescription": "Survive Storm Circles in Ranked Matches",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 20,
+              "tags": [
+                "QuestCategory.BR.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "BRS30_Ranked",
+                    "type": {
+                      "id": "bannertoken",
+                      "name": "BANNER"
+                    },
+                    "name": "Banner Icon",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/6408b56de9cbe3f481628f4d6db9c9bd/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/6408b56de9cbe3f481628f4d6db9c9bd/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/6408b56de9cbe3f481628f4d6db9c9bd/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/6408b56de9cbe3f481628f4d6db9c9bd/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Ranked_Q03",
+              "name": "Survive Storm Circles in Ranked Matches",
+              "description": "",
+              "shortDescription": "Survive Storm Circles in Ranked Matches",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 30,
+              "tags": [
+                "QuestCategory.BR.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_Ranked_StrategicSpur",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "Leave a Scarr",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/b596e445c8895989d761dfb9eddf0770/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/b596e445c8895989d761dfb9eddf0770/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/b596e445c8895989d761dfb9eddf0770/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/b596e445c8895989d761dfb9eddf0770/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Ranked_Q04",
+              "name": "Survive Storm Circles in Ranked Matches",
+              "description": "",
+              "shortDescription": "Survive Storm Circles in Ranked Matches",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 40,
+              "tags": [
+                "QuestCategory.BR.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_S30_Ranked",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "Danger!",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/ce2ba031f3eeee8f79ee64704689f839/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/ce2ba031f3eeee8f79ee64704689f839/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/ce2ba031f3eeee8f79ee64704689f839/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/ce2ba031f3eeee8f79ee64704689f839/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Ranked_Q05",
+              "name": "Survive Storm Circles in Ranked Matches",
+              "description": "",
+              "shortDescription": "Survive Storm Circles in Ranked Matches",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 50,
+              "tags": [
+                "QuestCategory.BR.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_Ranked_MegaToof",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "Don of the Wastes",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/fd20e1c213cba278612d41a90358c731/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/fd20e1c213cba278612d41a90358c731/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/fd20e1c213cba278612d41a90358c731/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/fd20e1c213cba278612d41a90358c731/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Ranked_Q06",
+              "name": "Survive Storm Circles in Ranked Matches",
+              "description": "",
+              "shortDescription": "Survive Storm Circles in Ranked Matches",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 70,
+              "tags": [
+                "QuestCategory.BR.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_S30_Ranked2",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "Kaboom",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/c92dd9fd39d1c10f75a9b2bfd906a334/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/c92dd9fd39d1c10f75a9b2bfd906a334/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/c92dd9fd39d1c10f75a9b2bfd906a334/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/c92dd9fd39d1c10f75a9b2bfd906a334/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Ranked_Q07",
+              "name": "Survive Storm Circles in Ranked Matches",
+              "description": "",
+              "shortDescription": "Survive Storm Circles in Ranked Matches",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 90,
+              "tags": [
+                "QuestCategory.BR.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_Ranked_QuickBurst",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "Competitor Rust",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/1a63dd592b4ae9baa99843acb8e9a0db/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/1a63dd592b4ae9baa99843acb8e9a0db/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/1a63dd592b4ae9baa99843acb8e9a0db/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/1a63dd592b4ae9baa99843acb8e9a0db/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Ranked_Q08",
+              "name": "Survive Storm Circles in Ranked Matches",
+              "description": "",
+              "shortDescription": "Survive Storm Circles in Ranked Matches",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 110,
+              "tags": [
+                "QuestCategory.BR.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_S30_Ranked3",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "Triple Bullseye",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/a829a6403d02c731add26ddc165e0de4/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/a829a6403d02c731add26ddc165e0de4/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/a829a6403d02c731add26ddc165e0de4/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/a829a6403d02c731add26ddc165e0de4/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Ranked_Q09",
+              "name": "Survive Storm Circles in Ranked Matches",
+              "description": "",
+              "shortDescription": "Survive Storm Circles in Ranked Matches",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 130,
+              "tags": [
+                "QuestCategory.BR.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Spray_Ranked_SpeedyPeas",
+                    "type": {
+                      "id": "spray",
+                      "name": "Spray"
+                    },
+                    "name": "Pea Bois Ready",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/71a802283e2c36da7d639d31dd476dbe/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/71a802283e2c36da7d639d31dd476dbe/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/71a802283e2c36da7d639d31dd476dbe/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/71a802283e2c36da7d639d31dd476dbe/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Ranked_Q10",
+              "name": "Survive Storm Circles in Ranked Matches",
+              "description": "",
+              "shortDescription": "Survive Storm Circles in Ranked Matches",
+              "categoryHeader": "Ranked Rewards",
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 150,
+              "tags": [
+                "QuestCategory.BR.Ranked.Urgent"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "LoadingScreen_S30Ranked",
+                    "type": {
+                      "id": "loadingscreen",
+                      "name": "Loading Screen"
+                    },
+                    "name": "Polar Blast",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/c536e3c7799744d02e1937efe3ffe3ce/transparent.png",
+                      "featured": "https://media.fortniteapi.io/images/c536e3c7799744d02e1937efe3ffe3ce/full_featured.png",
+                      "background": "https://media.fortniteapi.io/images/cosmetics/c536e3c7799744d02e1937efe3ffe3ce/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/c536e3c7799744d02e1937efe3ffe3ce/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/c536e3c7799744d02e1937efe3ffe3ce/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "RankedS30_Bundle_Punchcard",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Habanero.Punchcards"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Ranked Bonus Goals",
+          "quests": [
+            {
+              "id": "Quest_S30_Ranked_BonusGoal",
+              "name": "Complete Ranked Quests",
+              "description": "",
+              "shortDescription": "Complete Ranked Quests",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "QuestCategory.BR.Habanero.Punchcards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Pickaxe_RankedFury",
+                    "type": {
+                      "id": "pickaxe",
+                      "name": "Pickaxes"
+                    },
+                    "name": "Nitro Chainsaw",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/f09bf4d4d585fda3f2051f62f726db9b/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/f09bf4d4d585fda3f2051f62f726db9b/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/f09bf4d4d585fda3f2051f62f726db9b/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/f09bf4d4d585fda3f2051f62f726db9b/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "M_UI_QuestBundle_Midseason_Drops",
+      "name": "",
+      "colorData": {
+        "RGB1": "#43008F",
+        "RGB2": "#7800A9"
+      },
+      "image": "https://media.fortniteapi.io/images/displayAssets/T-FNBR-BattlePass-L.png",
+      "bundles": [
+        {
+          "id": "QuestBundle_S30_BPQuestRewards_01",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.S30.BPQuestRewards"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "BATTLE PASS REWARDS WEEKLY QUESTS 3-4",
+          "quests": [
+            {
+              "id": "quest_s30_bpquestrewards_b01_01",
+              "name": "Complete Weekly Quests : Weeks 3-4",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests : Weeks 3-4",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-06-13 18:38:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [
+                "QuestCategory.BR.S30.BPQuestRewards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "LoadingScreen_S30KeyArt",
+                    "type": {
+                      "id": "loadingscreen",
+                      "name": "Loading Screen"
+                    },
+                    "name": "Wild Wasteland",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/3cc8436d087ff7c87aabd2fc6a84c806/transparent.png",
+                      "featured": "https://media.fortniteapi.io/images/3cc8436d087ff7c87aabd2fc6a84c806/full_featured.png",
+                      "background": "https://media.fortniteapi.io/images/cosmetics/3cc8436d087ff7c87aabd2fc6a84c806/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/3cc8436d087ff7c87aabd2fc6a84c806/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/3cc8436d087ff7c87aabd2fc6a84c806/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpquestrewards_b01_02",
+              "name": "Complete Weekly Quests : Weeks 3-4",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests : Weeks 3-4",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-06-13 18:38:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "QuestCategory.BR.S30.BPQuestRewards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Pickaxe_PrairieSkip_StyleB",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Cobalt Hydraulic Slammer",
+                    "rarity": {
+                      "id": "Rare",
+                      "name": "RARE"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/ad5c0988378a4e52d10c39054acae0b6/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/ad5c0988378a4e52d10c39054acae0b6/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/ad5c0988378a4e52d10c39054acae0b6/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/ad5c0988378a4e52d10c39054acae0b6/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpquestrewards_b01_03",
+              "name": "Complete Weekly Quests : Weeks 3-4",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests : Weeks 3-4",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-06-13 18:38:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 8,
+              "tags": [
+                "QuestCategory.BR.S30.BPQuestRewards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Character_QuickBurst_StyleC",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Oxide Rust",
+                    "rarity": {
+                      "id": "Epic",
+                      "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/f0136852c2dabe69aae99f6227623757/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/f0136852c2dabe69aae99f6227623757/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/f0136852c2dabe69aae99f6227623757/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/f0136852c2dabe69aae99f6227623757/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S30_BPQuestRewards_02",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.S30.BPQuestRewards"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "BATTLE PASS REWARDS WEEKLY QUESTS 5-6",
+          "quests": [
+            {
+              "id": "quest_s30_bpquestrewards_b02_01",
+              "name": "Complete Weekly Quests : Weeks 5-6",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests : Weeks 5-6",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-06-25 18:16:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [
+                "QuestCategory.BR.S30.BPQuestRewards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "Emoji_S30_SpeedyPeas",
+                    "type": {
+                      "id": "emoji",
+                      "name": "Emoticon"
+                    },
+                    "name": "Bouncin' Peas",
+                    "rarity": {
+                      "id": "Uncommon",
+                      "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/c34dd261cee941e4add96bc4c05fb9f8/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/c34dd261cee941e4add96bc4c05fb9f8/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/c34dd261cee941e4add96bc4c05fb9f8/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/c34dd261cee941e4add96bc4c05fb9f8/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpquestrewards_b02_02",
+              "name": "Complete Weekly Quests : Weeks 5-6",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests : Weeks 5-6",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-06-25 18:16:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "QuestCategory.BR.S30.BPQuestRewards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Glider_QuickBurst_StyleA",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Wasteland Rider",
+                    "rarity": {
+                      "id": "Epic",
+                      "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/8451658f67128ef1b5cd580bca294452/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/8451658f67128ef1b5cd580bca294452/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/8451658f67128ef1b5cd580bca294452/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/8451658f67128ef1b5cd580bca294452/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpquestrewards_b02_03",
+              "name": "Complete Weekly Quests : Weeks 5-6",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests : Weeks 5-6",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-06-25 18:16:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 8,
+              "tags": [
+                "QuestCategory.BR.S30.BPQuestRewards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": [
+                  {
+                    "id": "VTID_Character_PrairieSkip_StyleC",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Nitro Flare Machinist",
+                    "rarity": {
+                      "id": "Epic",
+                      "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/e75b3942a95c2b849cbcd6e01629261d/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/e75b3942a95c2b849cbcd6e01629261d/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/e75b3942a95c2b849cbcd6e01629261d/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/e75b3942a95c2b849cbcd6e01629261d/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  },
+                  {
+                    "id": "VTID_Character_PrairieSkip_StyleC",
+                    "type": {
+                      "id": "cosmeticvariant",
+                      "name": "Style"
+                    },
+                    "name": "Nitro Flare Machinist",
+                    "rarity": {
+                      "id": "Epic",
+                      "name": "Epic"
+                    },
+                    "series": null,
+                    "images": {
+                      "icon": "https://media.fortniteapi.io/images/e75b3942a95c2b849cbcd6e01629261d/transparent.png",
+                      "featured": null,
+                      "background": "https://media.fortniteapi.io/images/cosmetics/e75b3942a95c2b849cbcd6e01629261d/v2/background.png",
+                      "icon_background": "https://media.fortniteapi.io/images/cosmetics/e75b3942a95c2b849cbcd6e01629261d/v2/icon_background.png",
+                      "full_background": "https://media.fortniteapi.io/images/cosmetics/e75b3942a95c2b849cbcd6e01629261d/v2/info.en.png"
+                    },
+                    "video": null,
+                    "audio": null
+                  }
+                ]
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S30_BPQuestRewards_03",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.S30.BPQuestRewards"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "BATTLE PASS REWARDS WEEKLY QUESTS 7-8",
+          "quests": [
+            {
+              "id": "quest_s30_bpquestrewards_b03_01",
+              "name": "Complete Weekly Quests : Weeks 7-8",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests : Weeks 7-8",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-07-09 13:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [
+                "QuestCategory.BR.S30.BPQuestRewards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpquestrewards_b03_02",
+              "name": "Complete Weekly Quests : Weeks 7-8",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests : Weeks 7-8",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-07-09 13:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "QuestCategory.BR.S30.BPQuestRewards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpquestrewards_b03_03",
+              "name": "Complete Weekly Quests : Weeks 7-8",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests : Weeks 7-8",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-07-09 13:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 8,
+              "tags": [
+                "QuestCategory.BR.S30.BPQuestRewards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "QuestBundle_S30_BPQuestRewards_04",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.S30.BPQuestRewards"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "BATTLE PASS REWARDS WEEKLY QUESTS 9-10",
+          "quests": [
+            {
+              "id": "quest_s30_bpquestrewards_b04_01",
+              "name": "Complete Weekly Quests : Weeks 9-10",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests : Weeks 9-10",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-07-23 18:24:01+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [
+                "QuestCategory.BR.S30.BPQuestRewards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpquestrewards_b04_02",
+              "name": "Complete Weekly Quests : Weeks 9-10",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests : Weeks 9-10",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-07-23 18:24:01+00:00",
+              "parentQuest": null,
+              "progressTotal": 5,
+              "tags": [
+                "QuestCategory.BR.S30.BPQuestRewards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "quest_s30_bpquestrewards_b04_03",
+              "name": "Complete Weekly Quests : Weeks 9-10",
+              "description": "",
+              "shortDescription": "Complete Weekly Quests : Weeks 9-10",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-07-23 18:24:01+00:00",
+              "parentQuest": null,
+              "progressTotal": 8,
+              "tags": [
+                "QuestCategory.BR.S30.BPQuestRewards"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "QuestCategory.BR.Kickstart",
+      "name": "Kickstart",
+      "colorData": {
+        "RGB1": "#1E0054",
+        "RGB2": "#FF4A80"
+      },
+      "image": "https://media.fortniteapi.io/images/displayAssets/T-Soldier-ShiverFlame-Ace-L.png",
+      "bundles": [
+        {
+          "id": "QuestBundle_S30_Jumpstart",
+          "name": "Jumpstart",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.Kickstart"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": {
+            "PrimaryColor": "#1D1D37",
+            "SecondaryColor": "#000000",
+            "AccentColor": "#FFE81F",
+            "Context_LimitedTimeColor": "#FFFFFF",
+            "Context_BaseColor": "#FFEE33"
+          },
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Kickstart",
+            "defaultHeaderName": "Kickstart Quests"
+          },
+          "header": null,
+          "quests": [
+            {
+              "id": "Quest_S30_Jumpstart_Q01",
+              "name": "Mod a vehicle with a Machine Gun Turret or Grenade Launcher Turret",
+              "description": "Here's a brite idea: install some guns on your ride!! - Brite Raider",
+              "shortDescription": "Mod a vehicle with a Machine Gun Turret or Grenade Launcher Turret",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Kickstart"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Jumpstart_Q02",
+              "name": "Repair vehicle damage with a Service Station",
+              "description": "Gotta know how to repair your ride. Unless you just leave 'em wrecked... - Brite Raider",
+              "shortDescription": "Repair vehicle damage with a Service Station",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 500,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Kickstart"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Jumpstart_Q03",
+              "name": "Pass through a Flaming Boost Hoop",
+              "description": "Watch your head! And your wheels. - Brite Raider",
+              "shortDescription": "Pass through a Flaming Boost Hoop",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Kickstart"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Jumpstart_Q04",
+              "name": "Collect a Medallion",
+              "description": "Show everyone you're the top of the scrap heap! - Brite Raider",
+              "shortDescription": "Collect a Medallion",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Kickstart"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Jumpstart_Q05",
+              "name": "Damage opponents while infused with Nitro",
+              "description": "This Nitro stuff is pretty fun, huh?? - Brite Raider",
+              "shortDescription": "Damage opponents while infused with Nitro",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 200,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Kickstart"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Jumpstart_Q06",
+              "name": "With Nitro Fists perform an Uppercut then land with an Air Punch",
+              "description": "I scream a little every time. It's so FUN! - Brite Raider",
+              "shortDescription": "With Nitro Fists perform an Uppercut then land with an Air Punch",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Kickstart"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Jumpstart_Q07",
+              "name": "Step into an Oasis Pool and the Nitrodrome",
+              "description": "Get to know the wasteland. It's a pretty special place. - Brite Raider",
+              "shortDescription": "Step into an Oasis Pool and the Nitrodrome",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Kickstart"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Jumpstart_Q08",
+              "name": "Accept a Wastelander Challenge",
+              "description": "You up for a REAL challenge? - Brite Raider",
+              "shortDescription": "Accept a Wastelander Challenge",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Kickstart"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Jumpstart_Q09",
+              "name": "Open Collections and view Accolades",
+              "description": "Wastelanders LOVE our bragging rights. - Brite Raider",
+              "shortDescription": "Open Collections and view Accolades",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Kickstart"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Jumpstart_Suppressed_Q01",
+              "name": "Mod vehicles in different matches",
+              "description": "A true wastelander knows how to mod their ride. - Brite Raider",
+              "shortDescription": "Mod vehicles in different matches",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Kickstart"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Jumpstart_Suppressed_Q02",
+              "name": "Apply Nitro in different matches",
+              "description": "Sometimes while I'm shooting 'em, I'll also yell BOOOOO! - Brite Raider",
+              "shortDescription": "Apply Nitro in different matches",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 100,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Kickstart"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Jumpstart_Suppressed_Q03",
+              "name": "Damage Marauder's Vehicles",
+              "description": "Nitro's kind of the heart of the wasteland. Or the adrenaline in its blood. - Brite Raider",
+              "shortDescription": "Damage Marauder's Vehicles",
+              "categoryHeader": null,
+              "enabled": true,
+              "enabledDate": "2024-05-24 20:12:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 3,
+              "tags": [
+                "ChallengeCategory.XP",
+                "QuestCategory.BR.Kickstart"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "QuestCategory.BR.S30.Story",
+      "name": "Story",
+      "colorData": {
+        "RGB1": "#00103D",
+        "RGB2": "#00CAFF"
+      },
+      "image": "https://media.fortniteapi.io/images/displayAssets/T-Soldier-Hero-VoidRedemption-Rebel-L.png",
+      "bundles": [
+        {
+          "id": "Questbundle_S30_Story_Granters",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::Manually",
+          "tags": [
+            "QuestCategory.BR.S30.Story"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": null,
+          "header": "Quests",
+          "quests": [
+            {
+              "id": "Quest_S30_Story_P02_P01CompletionGranter",
+              "name": "Blank",
+              "description": "Blank",
+              "shortDescription": "Blank",
+              "categoryHeader": "Part 2 - Raiding the Rig",
+              "enabled": false,
+              "enabledDate": "2024-06-13 18:38:03+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P02_TimerGranter",
+              "name": "Blank",
+              "description": "Blank",
+              "shortDescription": "Blank",
+              "categoryHeader": "Part 2 - Raiding the Rig",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.02"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P03_P02CompletionGranter",
+              "name": "Blank",
+              "description": "Blank",
+              "shortDescription": "Blank",
+              "categoryHeader": "Part 3 - Enter the Nitrodrome",
+              "enabled": false,
+              "enabledDate": "2024-06-25 18:16:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.03"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P03_TimerGranter",
+              "name": "Blank",
+              "description": "Blank",
+              "shortDescription": "Blank",
+              "categoryHeader": "Part 3 - Enter the Nitrodrome",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.03"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P04_P03CompletionGranter",
+              "name": "Blank",
+              "description": "Blank",
+              "shortDescription": "Blank",
+              "categoryHeader": "Part 4 - Pea Bois Inc.",
+              "enabled": false,
+              "enabledDate": "2024-07-09 13:00:31+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.04"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P04_TimerGranter",
+              "name": "Blank",
+              "description": "Blank",
+              "shortDescription": "Blank",
+              "categoryHeader": "Part 4 - Pea Bois Inc.",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.04"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P05_P04CompletionGranter",
+              "name": "Blank",
+              "description": "Blank",
+              "shortDescription": "Blank",
+              "categoryHeader": "Part 5 - The Great Leviathan Heist",
+              "enabled": false,
+              "enabledDate": "2024-07-23 18:24:01+00:00",
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.05"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P05_TimerGranter",
+              "name": "Blank",
+              "description": "Blank",
+              "shortDescription": "Blank",
+              "categoryHeader": "Part 5 - The Great Leviathan Heist",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.05"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_Tracker_Hidden",
+              "name": "Blank",
+              "description": "Blank",
+              "shortDescription": "Blank",
+              "categoryHeader": null,
+              "enabled": false,
+              "enabledDate": "2024-05-28 19:18:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 6,
+              "tags": [
+                "QuestCategory.BR.S30.Story"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "M_UI_QuestBundle_S28_BoosterPack",
+      "name": "",
+      "colorData": {
+        "RGB1": "#00103D",
+        "RGB2": "#00CAFF"
+      },
+      "image": "https://media.fortniteapi.io/images/displayAssets/T-Soldier-Hero-VoidRedemption-Rebel-L.png",
+      "bundles": [
+        {
+          "id": "Questbundle_S30_Story_Part01",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::GrantWithBundle",
+          "tags": [
+            "QuestCategory.BR.S30.Story.01"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Story",
+            "defaultHeaderName": "Nitro Wasteland Story Quests"
+          },
+          "header": "Quests",
+          "quests": [
+            {
+              "id": "Quest_S30_Story_P01_Q01",
+              "name": "Talk to Hope and Jones",
+              "description": "Welcome to the wasteland. We've got a new mission for you. - Hope and Jones",
+              "shortDescription": "Talk to Hope and Jones",
+              "categoryHeader": "Part 1 - Welcome to the Wasteland",
+              "enabled": false,
+              "enabledDate": "2024-05-28 19:18:02+00:00",
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [
+                "QuestCategory.BR.S30.Story.01",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P01_Q02",
+              "name": "Damage opponents with a vehicle while boosting",
+              "description": "We're going to have to take down Megalo Don. Let's get you in fighting shape. - Hope",
+              "shortDescription": "Damage opponents with a vehicle while boosting",
+              "categoryHeader": "Part 1 - Welcome to the Wasteland",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 100,
+              "tags": [
+                "QuestCategory.BR.S30.Story.01",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P01_Q03",
+              "name": "Destroy objects or structures while infused with Nitro",
+              "description": "How powerful is this Nitro stuff, anyway? - Hope",
+              "shortDescription": "Destroy objects or structures while infused with Nitro",
+              "categoryHeader": "Part 1 - Welcome to the Wasteland",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 100,
+              "tags": [
+                "QuestCategory.BR.S30.Story.01",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P01_Q04",
+              "name": "Install Vehicle Mods",
+              "description": "If we want to keep up with Megalo Don, we'll need vehicles that can keep pace with his. - Jones",
+              "shortDescription": "Install Vehicle Mods",
+              "categoryHeader": "Part 1 - Welcome to the Wasteland",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 4,
+              "tags": [
+                "QuestCategory.BR.S30.Story.01",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P01_Q05",
+              "name": "Search containers at Wasteland Landmarks",
+              "description": "If the loot's in your inventory, it's not in Megalo Don's. And I consider that a win. - Jones",
+              "shortDescription": "Search containers at Wasteland Landmarks",
+              "categoryHeader": "Part 1 - Welcome to the Wasteland",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 10,
+              "tags": [
+                "QuestCategory.BR.S30.Story.01",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P01_Q06",
+              "name": "Collect surveillance devices at different Wasteland locations",
+              "description": "I'm picking up some weird chatter... - Hope",
+              "shortDescription": "Collect surveillance devices at different Wasteland locations",
+              "categoryHeader": "Part 1 - Welcome to the Wasteland",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 6,
+              "tags": [
+                "QuestCategory.BR.S30.Story.01",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "M_UI_QuestBundle_Snapshot_S29",
+      "name": "",
+      "colorData": {
+        "RGB1": "#A46A00",
+        "RGB2": "#F1E95F"
+      },
+      "image": "https://media.fortniteapi.io/images/displayAssets/T_UI_ScryingPool_A.png",
+      "bundles": [
+        {
+          "id": "Questbundle_S30_Story_Part02",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::Manually",
+          "tags": [
+            "QuestCategory.BR.S30.Story.02"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Story",
+            "defaultHeaderName": "Nitro Wasteland Story Quests"
+          },
+          "header": "Quests",
+          "quests": [
+            {
+              "id": "Quest_S30_Story_P02_Q01",
+              "name": "Get intel from Brite Raider and Rust",
+              "description": "I'm hearing some interesting wasteland chatter... - Hope",
+              "shortDescription": "Get intel from Brite Raider and Rust",
+              "categoryHeader": "Part 2 - Raiding the Rig",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.02",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P02_Q02",
+              "name": "Collect a security card from guards at Redline Rig",
+              "description": "A keycard's the fastest way past Redline Rig's security system. - Hope",
+              "shortDescription": "Collect a security card from guards at Redline Rig",
+              "categoryHeader": "Part 2 - Raiding the Rig",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.02",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P02_Q03",
+              "name": "Upload data to Hope from Terminals at Redline Rig",
+              "description": "Log into any Terminal and upload everything you find to Hope's secure uplink. - Jones",
+              "shortDescription": "Upload data to Hope from Terminals at Redline Rig",
+              "categoryHeader": "Part 2 - Raiding the Rig",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.02",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P02_Q04a",
+              "name": "Destroy structures at Megalo Depot or Brutal Beachhead",
+              "description": "While Hope digs through the rest of those files... Why don't we sabotage Megalo Don? - Jones",
+              "shortDescription": "Destroy structures at Megalo Depot or Brutal Beachhead",
+              "categoryHeader": "Part 2 - Raiding the Rig",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.02",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P02_Q04b",
+              "name": "Damage opponents at Megalo Depot or Brutal Beachhead",
+              "description": "A little combat chaos should disrupt Megalo Don's plans nicely. - Jones",
+              "shortDescription": "Damage opponents at Megalo Depot or Brutal Beachhead",
+              "categoryHeader": "Part 2 - Raiding the Rig",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.02",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P02_Q05",
+              "name": "Steal the Pandora Gem at Brutal Beachhead",
+              "description": "If those Gems are from Pandora's Box... we should collect them before they fall into the wrong hands. - Hope",
+              "shortDescription": "Steal the Pandora Gem at Brutal Beachhead",
+              "categoryHeader": "Part 2 - Raiding the Rig",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.02",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P02_Q05_Granter",
+              "name": "",
+              "description": "",
+              "shortDescription": "",
+              "categoryHeader": "Part 2 - Raiding the Rig",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [
+                "QuestCategory.BR.S30.Story.02",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            },
+            {
+              "id": "Quest_S30_Story_P02_Q06",
+              "name": "Deliver the Pandora Gem to Hope",
+              "description": "Bring Pandora Gem to me. I'll make sure it stays out of the wrong hands. - Hope",
+              "shortDescription": "Deliver the Pandora Gem to Hope",
+              "categoryHeader": "Part 2 - Raiding the Rig",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 1,
+              "tags": [
+                "QuestCategory.BR.S30.Story.02",
+                "ChallengeCategory.XP"
+              ],
+              "reward": {
+                "xp": 10000,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "Questbundle_S30_Story_Part03",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::Manually",
+          "tags": [
+            "QuestCategory.BR.S30.Story.03"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Story",
+            "defaultHeaderName": "Nitro Wasteland Story Quests"
+          },
+          "header": "Quests",
+          "quests": [
+            {
+              "id": "Quest_S30_Story_P03_Q01",
+              "name": "Enter the Nitrodrome",
+              "description": "It's time to meet Ringmaster Scarr. - Hope",
+              "shortDescription": "Enter the Nitrodrome",
+              "categoryHeader": "Part 3 - Enter the Nitrodrome",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [
+                "QuestCategory.BR.S30.Story.03"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "Questbundle_S30_Story_Part04",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::Manually",
+          "tags": [
+            "QuestCategory.BR.S30.Story.02"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Story",
+            "defaultHeaderName": "Nitro Wasteland Story Quests"
+          },
+          "header": "Quests",
+          "quests": [
+            {
+              "id": "Quest_S30_Story_P04_Q01",
+              "name": "Talk to Peabody at Pea Bois HQ",
+              "description": "Peabody's got the next Gemstone. Um... Whoever that is. - Jones",
+              "shortDescription": "Talk to Peabody at Pea Bois HQ",
+              "categoryHeader": "Part 4 - Pea Bois Inc.",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [
+                "QuestCategory.BR.S30.Story.04"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        },
+        {
+          "id": "Questbundle_S30_Story_Part05",
+          "name": "",
+          "unlockType": "EChallengeBundleQuestUnlockType::Manually",
+          "tags": [
+            "QuestCategory.BR.S30.Story.02"
+          ],
+          "activeDates": null,
+          "apiTags": [],
+          "colors": null,
+          "images": null,
+          "bundleRewards": [],
+          "category": {
+            "displayName": "Story",
+            "defaultHeaderName": "Nitro Wasteland Story Quests"
+          },
+          "header": "Quests",
+          "quests": [
+            {
+              "id": "Quest_S30_Story_P05_Q01",
+              "name": "Coordinate the plan with Peabody at Pea Bois HQ",
+              "description": "Peabody might know something about Megalo Don's security. - Jones",
+              "shortDescription": "Coordinate the plan with Peabody at Pea Bois HQ",
+              "categoryHeader": "Part 5 - The Great Leviathan Heist",
+              "enabled": false,
+              "enabledDate": null,
+              "parentQuest": null,
+              "progressTotal": 2,
+              "tags": [
+                "QuestCategory.BR.S30.Story.05"
+              ],
+              "reward": {
+                "xp": 0,
+                "items": []
+              },
+              "locations": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

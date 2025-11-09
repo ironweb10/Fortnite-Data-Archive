@@ -1,0 +1,3650 @@
+{
+  "result": true,
+  "season": 35,
+  "displayInfo": {
+    "chapter": "Chapter 6",
+    "season": "Galactic Battle",
+    "chapterSeason": "Chapter 6 - Galactic Battle",
+    "battlepassName": "Battle Pass"
+  },
+  "seasonDates": {
+    "begin": "2025-05-02T06:00:00.000Z",
+    "end": "2025-06-08T05:59:59.000Z"
+  },
+  "videos": [],
+  "rewards": [
+    {
+      "offerId": "48AE9F734052B0AA8507E9B21B6D89E8",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "SID_Placeholder_576",
+        "type": {
+          "id": "sparks_song",
+          "name": "Jam Track"
+        },
+        "name": "Star Wars Main Title Theme/March of the Resistance (Fortnite Rearrangement)",
+        "description": "",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/f438e9a72104ffe1f73921ab15ed55a0/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/f438e9a72104ffe1f73921ab15ed55a0/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/f438e9a72104ffe1f73921ab15ed55a0/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/f438e9a72104ffe1f73921ab15ed55a0/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/SparksSongTemplates/Items/Songs/SID_Placeholder_576",
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "3E12EBEA46E05D3CC9CB76ABC80DF058",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Pickaxe_PlatypusBranch_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Electro Pairing Blades",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/3579424a9f96668dcc460ecb5c9991c1/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/3579424a9f96668dcc460ecb5c9991c1/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/3579424a9f96668dcc460ecb5c9991c1/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/3579424a9f96668dcc460ecb5c9991c1/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_PlatypusBranch_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_PlatypusBranch",
+          "variantNameTag:Cosmetics.Variant.Property.Particle1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 1,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "6FE9CF1B4D4E123F666E28B94CFA0298",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "EID_PlatypusBranch",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Feel the Force",
+        "description": "Become one with the Force.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/1011f311a9a720b0f415fbbd9f11312b/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/1011f311a9a720b0f415fbbd9f11312b/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/1011f311a9a720b0f415fbbd9f11312b/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/1011f311a9a720b0f415fbbd9f11312b/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_PlatypusBranch",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Set.SpaceCrime"
+        ],
+        "apiTags": [
+          "emoteDuration:15.50",
+          "emoteLoop"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "SpaceCrime",
+          "name": "Galactic Syndicate",
+          "partOf": "Part of the Galactic Syndicate set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "F66303394B8AF05880B2D2A918BEA40A",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Wrap_PlatypusBranch",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Choose Your Alignment",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/1bb822ae381b23a7b7ea301f488bc70a/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/1bb822ae381b23a7b7ea301f488bc70a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/1bb822ae381b23a7b7ea301f488bc70a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/1bb822ae381b23a7b7ea301f488bc70a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_PlatypusBranch",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Source.Season35.BattlePass.Paid",
+          "Cosmetics.Set.SpaceCrime",
+          "Cosmetics.UserFacingFlags.Elimination"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "SpaceCrime",
+          "name": "Galactic Syndicate",
+          "partOf": "Part of the Galactic Syndicate set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "C3CDADF24D56B7F0722DC5A2BDC86EF3",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Backbling_PlatypusBranch_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Twin Blasters",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/097c3c17cdbc7f647a980fa16c7533ee/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/097c3c17cdbc7f647a980fa16c7533ee/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/097c3c17cdbc7f647a980fa16c7533ee/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/097c3c17cdbc7f647a980fa16c7533ee/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_PlatypusBranch_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_PlatypusBranch",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 1,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "3EF681204C03AC5379F2778C81B929D3",
+      "tier": 0,
+      "page": 1,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_PlatypusBranch_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Jedi Evie",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/94dfd12d8e07bee263883dcbed06d9d4/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/94dfd12d8e07bee263883dcbed06d9d4/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/94dfd12d8e07bee263883dcbed06d9d4/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/94dfd12d8e07bee263883dcbed06d9d4/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_PlatypusBranch_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_PlatypusBranch",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 1,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "55CEF2F040A0B2687BF89BB3A2C0235A",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Pickaxe_PlatypusBranch_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Sith Pairing Blades",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/bbbe5a04f3ea5f3ace1ad6545aec2a19/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/bbbe5a04f3ea5f3ace1ad6545aec2a19/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/bbbe5a04f3ea5f3ace1ad6545aec2a19/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/bbbe5a04f3ea5f3ace1ad6545aec2a19/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_PlatypusBranch_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_PlatypusBranch",
+          "variantNameTag:Cosmetics.Variant.Property.Particle2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "9F5486964F6B6D50872BB2A32E68554F",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "E6698DCE4CE73D85B182AE91D1A71915",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Backbling_PlatypusBranch_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Sith Blasters",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/a2ad9d7970664a244a9021f8504b811e/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/a2ad9d7970664a244a9021f8504b811e/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/a2ad9d7970664a244a9021f8504b811e/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/a2ad9d7970664a244a9021f8504b811e/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Backbling_PlatypusBranch_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Backpack_PlatypusBranch",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "4F8AB0D34D36F96315016884FB947F64",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Contrail_PlatypusBranch",
+        "type": {
+          "id": "contrail",
+          "name": "Contrail"
+        },
+        "name": "Training Remote Trail",
+        "description": "Drop down, combat-ready.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/aa6be9335e3195480f70739552bd6559/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/aa6be9335e3195480f70739552bd6559/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/aa6be9335e3195480f70739552bd6559/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/aa6be9335e3195480f70739552bd6559/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Contrails/Contrail_PlatypusBranch",
+        "gameplayTags": [
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Source.Season35.BattlePass.Free",
+          "Cosmetics.Set.SpaceCrime"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 2,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "SpaceCrime",
+          "name": "Galactic Syndicate",
+          "partOf": "Part of the Galactic Syndicate set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "EB6C7D7B4B7E37601BBCDF994EEDCD4C",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "37BEFB0D44233D64C990E084E783AE79",
+      "tier": 0,
+      "page": 2,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_PlatypusBranch_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Sith Evie",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/46ef2955fd68b265b0d1fcb4beb9c621/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/46ef2955fd68b265b0d1fcb4beb9c621/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/46ef2955fd68b265b0d1fcb4beb9c621/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/46ef2955fd68b265b0d1fcb4beb9c621/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_PlatypusBranch_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_PlatypusBranch",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 2,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "C36900124244B2F4AD6FF8A03F5933BE",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Glider_MarkerDeer_Tin",
+        "type": {
+          "id": "glider",
+          "name": "Glider"
+        },
+        "name": "Black One X-wing",
+        "description": "The pride of the Resistance.",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/cb512d379f1a0335f1ba757b12c460aa/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/cb512d379f1a0335f1ba757b12c460aa/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/cb512d379f1a0335f1ba757b12c460aa/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/cb512d379f1a0335f1ba757b12c460aa/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Gliders/Glider_MarkerDeer_Tin",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Source.Season35.BattlePass.Free",
+          "Cosmetics.Set.LatestTerminal"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 3,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "LatestTerminal",
+          "name": "The New Trilogy",
+          "partOf": "Part of the The New Trilogy set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "63E26397448A5310980B04AFDD8B7807",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "19BA246C43CD32399805389032641872",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "EID_MarkerDeer_Tin",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Lil' Resistance Bomber",
+        "description": "Lil' proton bombs away!",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/284deeb408c08df892e82a3ac17235a0/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/284deeb408c08df892e82a3ac17235a0/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/284deeb408c08df892e82a3ac17235a0/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/284deeb408c08df892e82a3ac17235a0/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_MarkerDeer_Tin",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.UserFacingFlags.Emote.Traversal",
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Set.LatestTerminal"
+        ],
+        "apiTags": [
+          "emoteDuration:12.53",
+          "emoteLoop"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "LatestTerminal",
+          "name": "The New Trilogy",
+          "partOf": "Part of the The New Trilogy set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "AF5368AC464A899CBEC80F9748B502F2",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Contrail_MarkerDeer",
+        "type": {
+          "id": "contrail",
+          "name": "Contrail"
+        },
+        "name": "Black Squadron Dive",
+        "description": "S-foils in attack position.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/cc90f958a41336aef062f6a0d080c467/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/cc90f958a41336aef062f6a0d080c467/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/cc90f958a41336aef062f6a0d080c467/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/cc90f958a41336aef062f6a0d080c467/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Contrails/Contrail_MarkerDeer",
+        "gameplayTags": [
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Source.Season35.BattlePass.Paid",
+          "Cosmetics.Set.LatestTerminal"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "LatestTerminal",
+          "name": "The New Trilogy",
+          "partOf": "Part of the The New Trilogy set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "EE9FB5024603498B6696A0A081A95C8A",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Wrap_MarkerDeer",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Black Leader",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/63a8ad8bd9ac5f84d02348fae5e22068/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/63a8ad8bd9ac5f84d02348fae5e22068/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/63a8ad8bd9ac5f84d02348fae5e22068/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/63a8ad8bd9ac5f84d02348fae5e22068/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_MarkerDeer",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Source.Season35.BattlePass.Free",
+          "Cosmetics.Set.LatestTerminal",
+          "Cosmetics.UserFacingFlags.Elimination"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 3,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "LatestTerminal",
+          "name": "The New Trilogy",
+          "partOf": "Part of the The New Trilogy set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "F5C8C31640981E7FA36ED28DA41629E0",
+      "tier": 0,
+      "page": 3,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_MarkerDeer_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Poe Dameron",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/a979e7d072aaa6d2b23cc1d89b27b4bf/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/a979e7d072aaa6d2b23cc1d89b27b4bf/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/a979e7d072aaa6d2b23cc1d89b27b4bf/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/a979e7d072aaa6d2b23cc1d89b27b4bf/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_MarkerDeer_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_MarkerDeer_Tin",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 3,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "39958C214E73EC1F4D0CB7ABB4DF7339",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "4BD3265A44205BF456A1E18BF5568489",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Backpack_MarkerDeer_Tin",
+        "type": {
+          "id": "backpack",
+          "name": "BackBling"
+        },
+        "name": "Poe's Model X-wing",
+        "description": "A perfect scale model of Black One.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": true,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/fa3832def9552157b4cffbb64d12ac95/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/fa3832def9552157b4cffbb64d12ac95/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/fa3832def9552157b4cffbb64d12ac95/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/fa3832def9552157b4cffbb64d12ac95/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Backpacks/Backpack_MarkerDeer_Tin",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Set.LatestTerminal",
+          "Cosmetics.UserFacingFlags.Reactive"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "LatestTerminal",
+          "name": "The New Trilogy",
+          "partOf": "Part of the The New Trilogy set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "0A7CC86746FEE2A6974AC38BC5DA6EED",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Emoji_S35_MarkerDeer",
+        "type": {
+          "id": "emoji",
+          "name": "Emoticon"
+        },
+        "name": "Targeting...",
+        "description": "Express yourself on the battlefield.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/67c525dbf57d961fdcb716fba62e1702/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/67c525dbf57d961fdcb716fba62e1702/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/67c525dbf57d961fdcb716fba62e1702/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/67c525dbf57d961fdcb716fba62e1702/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S35_MarkerDeer",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Emoji",
+          "Cosmetics.Source.Season35.BattlePass",
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Set.LatestTerminal"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "LatestTerminal",
+          "name": "The New Trilogy",
+          "partOf": "Part of the The New Trilogy set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7C5F9B3344E301AA2C126791AEB060EF",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "434DA8164E3C488B47CCA89F68E2612D",
+      "tier": 0,
+      "page": 4,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_MarkerDeer_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Resistance Poe",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/fee49deda578d6f8e49a93e8b1287207/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/fee49deda578d6f8e49a93e8b1287207/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/fee49deda578d6f8e49a93e8b1287207/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/fee49deda578d6f8e49a93e8b1287207/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_MarkerDeer_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_MarkerDeer_Tin",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 4,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "A981CFEC4B423D86B9C8EE886B2F9B66",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "EID_HydraTrumpet_Coach",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Mini Dogfight",
+        "description": "The fate of the galaxy rests in your hands.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/856c22d0ff417bea755bc8c0149afe07/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/856c22d0ff417bea755bc8c0149afe07/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/856c22d0ff417bea755bc8c0149afe07/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/856c22d0ff417bea755bc8c0149afe07/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_HydraTrumpet_Coach",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Set.FurBlast"
+        ],
+        "apiTags": [
+          "emoteDuration:10.10"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 5,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "FurBlast",
+          "name": "Cuddly Kashyyyk",
+          "partOf": "Part of the Cuddly Kashyyyk set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "32D7F3444B5A9F1F6D047E9F2739282B",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Glider_HydraTrumpetCoach",
+        "type": {
+          "id": "glider",
+          "name": "Glider"
+        },
+        "name": "Rebel Wookiee Lander",
+        "description": "Fly the Rebellion's emblem with furry flair.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/03eaf9f75ebdca6a1aa8b5a094f24046/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/03eaf9f75ebdca6a1aa8b5a094f24046/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/03eaf9f75ebdca6a1aa8b5a094f24046/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/03eaf9f75ebdca6a1aa8b5a094f24046/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Gliders/Glider_HydraTrumpetCoach",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Source.Season35.BattlePass.Paid",
+          "Cosmetics.Set.FurBlast"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "FurBlast",
+          "name": "Cuddly Kashyyyk",
+          "partOf": "Part of the Cuddly Kashyyyk set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "BCB6513043EA9BED3EFECC93FB9A252F",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Pickaxe_HydraTrumpet_Coach_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Wookiee Paw",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/6cee9d50278be42c603a77793b1a01b9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/6cee9d50278be42c603a77793b1a01b9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/6cee9d50278be42c603a77793b1a01b9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/6cee9d50278be42c603a77793b1a01b9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_HydraTrumpet_Coach_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_HydraTrumpetCoach",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "91B566D948908E9A14DB9881557B55EF",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "SID_Placeholder_578",
+        "type": {
+          "id": "sparks_song",
+          "name": "Jam Track"
+        },
+        "name": "Where My Wookiees At?",
+        "description": "",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-02-22",
+          "version": "34.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/c2f41b4c0ea15251286c72e29cad250b/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/c2f41b4c0ea15251286c72e29cad250b/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/c2f41b4c0ea15251286c72e29cad250b/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/c2f41b4c0ea15251286c72e29cad250b/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/SparksSongTemplates/Items/Songs/SID_Placeholder_578",
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 5,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "FCEE1D4D450AAECE84902A950852D6B5",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "993CD4D94F04DF6DD20F96A08CFCB5B5",
+      "tier": 0,
+      "page": 5,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_HydraTrumpet_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Wookiee Team Leader",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/732c78083b7364591e244e1e03821c4d/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/732c78083b7364591e244e1e03821c4d/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/732c78083b7364591e244e1e03821c4d/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/732c78083b7364591e244e1e03821c4d/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_HydraTrumpet_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_HydraTrumpetCoach",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 5,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "5A18C5C7450BC73C8DEBBD875B7A8D5F",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Backpack_HydraTrumpet_Coach",
+        "type": {
+          "id": "backpack",
+          "name": "BackBling"
+        },
+        "name": "Metal Team Mishap",
+        "description": "What have you done? She's backwards!",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": true,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/eaba233f81305049a68a571d451c6800/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/eaba233f81305049a68a571d451c6800/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/eaba233f81305049a68a571d451c6800/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/eaba233f81305049a68a571d451c6800/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Backpacks/Backpack_HydraTrumpet_Coach",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.UserFacingFlags.Reactive",
+          "Cosmetics.Set.FurBlast"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "FurBlast",
+          "name": "Cuddly Kashyyyk",
+          "partOf": "Part of the Cuddly Kashyyyk set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "4457669C40BD42BD9AF9DA8D1832569E",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Pickaxe_HydraTrumpet_Coach_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Wookiee Fist",
+        "description": "",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/03405dbebc71137e34d8341051a130ec/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/03405dbebc71137e34d8341051a130ec/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/03405dbebc71137e34d8341051a130ec/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/03405dbebc71137e34d8341051a130ec/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Pickaxe_HydraTrumpet_Coach_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Pickaxe_HydraTrumpetCoach",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 6,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "60F6549C47E9C0F37BE4A0A2C0B5CD4D",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "461C1F21446364A41E8FF1B604CC4104",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "D294758047B9F02A3A56F28BA3C1E518",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_HydraTrumpet_StyleB",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Tarfful Team Leader",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/de31b23ae33c752f3da92b38e36ae37a/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/de31b23ae33c752f3da92b38e36ae37a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/de31b23ae33c752f3da92b38e36ae37a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/de31b23ae33c752f3da92b38e36ae37a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_HydraTrumpet_StyleB",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_HydraTrumpetCoach",
+          "variantNameTag:Cosmetics.Variant.Property.Stage2"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 6,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "CE0FCFFE4AF0B7B96788CCB22527E924",
+      "tier": 0,
+      "page": 6,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "BRS35_HydraTrumpet",
+        "type": {
+          "id": "bannertoken",
+          "name": "BANNER"
+        },
+        "name": "Banner Icon",
+        "description": "A new icon for your banner. Assign it in the Locker.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/2f8ae09df7b6ee1967dfe7e31953fa7a/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/2f8ae09df7b6ee1967dfe7e31953fa7a/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/2f8ae09df7b6ee1967dfe7e31953fa7a/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/2f8ae09df7b6ee1967dfe7e31953fa7a/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/BannerIcons/BRS35_HydraTrumpet",
+        "gameplayTags": [
+          "Cosmetics.Source.Season35.BattlePass",
+          "Cosmetics.Set.FurBlast",
+          "Cosmetics.Filter.Season.35"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 6,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "FurBlast",
+          "name": "Cuddly Kashyyyk",
+          "partOf": "Part of the Cuddly Kashyyyk set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "B74EA1CF45A3E0220682509B3E1EBF6F",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "EID_ClawPad_Host",
+        "type": {
+          "id": "emote",
+          "name": "Emote"
+        },
+        "name": "Force Lightning",
+        "description": "Wield the power of the Dark Side.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-07-23",
+          "version": "36.20"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/5c56acf02f0b9f4e34be846c62971599/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/5c56acf02f0b9f4e34be846c62971599/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/5c56acf02f0b9f4e34be846c62971599/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/5c56acf02f0b9f4e34be846c62971599/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Dances/EID_ClawPad_Host",
+        "gameplayTags": [
+          "Cosmetics.EmoteType.Dance",
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Set.SuddenBoundary"
+        ],
+        "apiTags": [
+          "emoteDuration:8.70"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "SuddenBoundary",
+          "name": "Original Trilogy",
+          "partOf": "Part of the Original Trilogy set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "7C07EE654EBED23A2DF70C93FDD16BC6",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Contrail_ClawPad",
+        "type": {
+          "id": "contrail",
+          "name": "Contrail"
+        },
+        "name": "Imperial Shuttle Dive",
+        "description": "Your landing party, prepared.",
+        "rarity": {
+          "id": "Uncommon",
+          "name": "UNCOMMON"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/6dd445f1fa7ae3d1f3711222dc9a1f1f/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/6dd445f1fa7ae3d1f3711222dc9a1f1f/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/6dd445f1fa7ae3d1f3711222dc9a1f1f/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/6dd445f1fa7ae3d1f3711222dc9a1f1f/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Contrails/Contrail_ClawPad",
+        "gameplayTags": [
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionIn",
+          "Cosmetics.BattlepassTrack.Display.DisableVFXDuringTransitionOut",
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Source.Season35.BattlePass.Paid",
+          "Cosmetics.Set.SuddenBoundary"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "SuddenBoundary",
+          "name": "Original Trilogy",
+          "partOf": "Part of the Original Trilogy set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "5EB2B68146FFA571C801EB93159DA854",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "0568141E4CCA8D5DA1DC0784CF1EB6CC",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Wrap_ClawPad",
+        "type": {
+          "id": "wrap",
+          "name": "Wrap"
+        },
+        "name": "Emperor's Might",
+        "description": "Show your style.",
+        "rarity": {
+          "id": "Rare",
+          "name": "RARE"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/37944dfb375a112707cbd62956caebc6/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/37944dfb375a112707cbd62956caebc6/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/37944dfb375a112707cbd62956caebc6/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/37944dfb375a112707cbd62956caebc6/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/ItemWraps/Wrap_ClawPad",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Source.Season35.BattlePass.Paid",
+          "Cosmetics.Set.SuddenBoundary",
+          "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "SuddenBoundary",
+          "name": "Original Trilogy",
+          "partOf": "Part of the Original Trilogy set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "A9FAD22C45214B66C613D7840EDCCEB2",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "free",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "Glider_ClawPadHost",
+        "type": {
+          "id": "glider",
+          "name": "Glider"
+        },
+        "name": "Senate Repulsorpod",
+        "description": "Take the floor and take down the Republic.",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": {
+          "id": "ColumbusSeries",
+          "name": "Star Wars Series"
+        },
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/945944538b9dd942012c9f88b64ae2f2/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/945944538b9dd942012c9f88b64ae2f2/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/945944538b9dd942012c9f88b64ae2f2/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/945944538b9dd942012c9f88b64ae2f2/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/Cosmetics/Gliders/Glider_ClawPadHost",
+        "gameplayTags": [
+          "Cosmetics.Filter.Season.35",
+          "Cosmetics.Source.Season35.BattlePass.Free",
+          "Cosmetics.Set.SuddenBoundary"
+        ],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 7,
+          "type": "free",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": {
+          "id": "SuddenBoundary",
+          "name": "Original Trilogy",
+          "partOf": "Part of the Original Trilogy set."
+        },
+        "introduction": {
+          "chapter": "Chapter 6",
+          "season": "Galactic Battle",
+          "text": "Introduced in Chapter 6 - Galactic Battle."
+        },
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "E97F612143BD2B465AF90FA6B8425038",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "MtxGiveaway",
+        "type": {
+          "id": "misc",
+          "name": "Other Overrides"
+        },
+        "name": "V-bucks",
+        "description": "Valuable currency used to purchase goods from the store.",
+        "rarity": {
+          "id": "Legendary",
+          "name": "LEGENDARY"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2019-10-13",
+          "version": "10.40"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0.01,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/652b99f7863db4ba398c40c326ac15a9/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/652b99f7863db4ba398c40c326ac15a9/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": null,
+        "gameplayTags": [],
+        "apiTags": [],
+        "searchTags": [],
+        "battlepass": {
+          "season": 36,
+          "tier": 0,
+          "page": 10,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Season 3",
+            "chapterSeason": "Chapter 6 - Season 3"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    },
+    {
+      "offerId": "2D097D7B400E38EFF937D68AE0C6A0BD",
+      "tier": 0,
+      "page": 7,
+      "battlepass": "paid",
+      "quantity": 1,
+      "price": {
+        "type": "AthenaBattleStar",
+        "amount": 0
+      },
+      "rewardsNeededForUnlock": 0,
+      "levelsNeededForUnlock": 0,
+      "item": {
+        "id": "VTID_Character_ClawPad_StyleA",
+        "type": {
+          "id": "cosmeticvariant",
+          "name": "Style"
+        },
+        "name": "Emperor Palpatine",
+        "description": "",
+        "rarity": {
+          "id": "Epic",
+          "name": "Epic"
+        },
+        "series": null,
+        "price": 0,
+        "added": {
+          "date": "2025-05-02",
+          "version": "35.00"
+        },
+        "builtInEmote": null,
+        "copyrightedAudio": false,
+        "upcoming": false,
+        "reactive": false,
+        "releaseDate": null,
+        "lastAppearance": null,
+        "interest": 0,
+        "images": {
+          "icon": "https://media.fortniteapi.io/images/838041d6c074a028fb8795d148d3262e/transparent.png",
+          "featured": null,
+          "background": "https://media.fortniteapi.io/images/cosmetics/838041d6c074a028fb8795d148d3262e/v2/background.png",
+          "icon_background": "https://media.fortniteapi.io/images/cosmetics/838041d6c074a028fb8795d148d3262e/v2/icon_background.png",
+          "full_background": "https://media.fortniteapi.io/images/cosmetics/838041d6c074a028fb8795d148d3262e/v2/info.en.png"
+        },
+        "juno": {
+          "icon": null
+        },
+        "beans": {
+          "icon": null
+        },
+        "video": null,
+        "audio": null,
+        "path": "/BRCosmetics/Athena/Items/CosmeticVariantTokens/VTID_Character_ClawPad_StyleA",
+        "gameplayTags": [],
+        "apiTags": [
+          "cosmeticItem:Character_ClawPad_Host",
+          "variantNameTag:Cosmetics.Variant.Property.Stage1"
+        ],
+        "searchTags": [],
+        "battlepass": {
+          "season": 35,
+          "tier": 0,
+          "page": 7,
+          "type": "paid",
+          "displayText": {
+            "chapter": "Chapter 6",
+            "season": "Galactic Battle",
+            "chapterSeason": "Chapter 6 - Galactic Battle"
+          },
+          "battlePassName": "Battle Pass"
+        },
+        "set": null,
+        "introduction": null,
+        "displayAssets": [],
+        "shopHistory": null,
+        "styles": [],
+        "previewVideos": [],
+        "epicVideos": [],
+        "grants": [],
+        "grantedBy": []
+      }
+    }
+  ]
+}
