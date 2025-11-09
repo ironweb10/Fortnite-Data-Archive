@@ -23,8 +23,8 @@ jobs:
           npm init -y
           npm install axios
           
-      - name: Fetch Fortnite Data
-        run: node fetch-data.js
+      - name: Main
+        run: node index.js
         env:
           FORTNITE_API_KEY: ${{ secrets.FORTNITE_API_KEY }}
           
