@@ -99,7 +99,7 @@ function generateReadme() {
     
   let readme = `# Fortnite Data Repository
 
-This repository contains historical Fortnite data obtained from FortniteAPI.io
+Fortnite data obtained from [FortniteAPI.io](https://fortniteapi.io/)
 
 ## 📊 Available Data
 
