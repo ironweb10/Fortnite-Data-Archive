@@ -1,4 +1,4 @@
-# Fortnite Data Archive
+# Fortnite Data Repository
 
 Fortnite data obtained from [FortniteAPI.io](https://fortniteapi.io/)
 
@@ -88,7 +88,7 @@ Fortnite data obtained from [FortniteAPI.io](https://fortniteapi.io/)
 
 The data is automatically updated every week via GitHub Actions.
 
-**Last update:** 2025-11-09
+**Last update:** 2025-11-15
 
 ## 📝 Data Source
 
