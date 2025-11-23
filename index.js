@@ -97,7 +97,7 @@ function generateReadme() {
     .map(f => parseInt(f.match(/\d+/)[0]))
     .sort((a, b) => a - b);
     
-  let readme = `# Fortnite Data Repository
+  let readme = `# Fortnite Data Archive
 
 Fortnite data obtained from [FortniteAPI.io](https://fortniteapi.io/)
 
