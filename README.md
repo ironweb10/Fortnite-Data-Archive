@@ -81,6 +81,44 @@ Fortnite data obtained from [FortniteAPI.io](https://fortniteapi.io/)
 - [Season 37](challenges/season_37.json)
 - [Season 38](challenges/season_38.json)
 
+### Fish (28 seasons, from Season 11)
+- [Season 11](fish/season_11.json)
+- [Season 12](fish/season_12.json)
+- [Season 13](fish/season_13.json)
+- [Season 14](fish/season_14.json)
+- [Season 15](fish/season_15.json)
+- [Season 16](fish/season_16.json)
+- [Season 17](fish/season_17.json)
+- [Season 18](fish/season_18.json)
+- [Season 19](fish/season_19.json)
+- [Season 20](fish/season_20.json)
+- [Season 21](fish/season_21.json)
+- [Season 22](fish/season_22.json)
+- [Season 23](fish/season_23.json)
+- [Season 24](fish/season_24.json)
+- [Season 25](fish/season_25.json)
+- [Season 26](fish/season_26.json)
+- [Season 27](fish/season_27.json)
+- [Season 28](fish/season_28.json)
+- [Season 29](fish/season_29.json)
+- [Season 30](fish/season_30.json)
+- [Season 31](fish/season_31.json)
+- [Season 32](fish/season_32.json)
+- [Season 33](fish/season_33.json)
+- [Season 34](fish/season_34.json)
+- [Season 35](fish/season_35.json)
+- [Season 36](fish/season_36.json)
+- [Season 37](fish/season_37.json)
+- [Season 38](fish/season_38.json)
+
+### POI (0 game versions)
+
+### Weapons
+- [Weapons List](weapons/weapons_list.json)
+
+### Vehicles
+- [Vehicles](vehicles/vehicles.json)
+
 ### Seasons Info
 - [Complete list of seasons](seasons/seasons_list.json)
 
@@ -88,7 +126,7 @@ Fortnite data obtained from [FortniteAPI.io](https://fortniteapi.io/)
 
 The data is automatically updated every week via GitHub Actions.
 
-**Last update:** 2026-02-15
+**Last update:** 2026-02-19
 
 ## 📝 Data Source
 
