@@ -1,0 +1,213 @@
+{
+  "result": true,
+  "scale": 2048,
+  "type": "poi",
+  "lang": "en",
+  "gameVersion": "22.40",
+  "list": [
+    {
+      "id": "Athena.Location.POI.AirborneButterBarn",
+      "name": "FLUTTER BARN",
+      "x": 975.72,
+      "y": 1651.21,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/ca6c0ce938705e4e1d37bb60d660522f.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.ChonkersSpeedway",
+      "name": "CHONKER'S SPEEDWAY",
+      "x": 1280.39,
+      "y": 1841.63,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/d4fd7ea97bbace7f96d290a6244c7133.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.CondoCanyon",
+      "name": "CLOUDY CONDOS",
+      "x": 1518.92,
+      "y": 1773.98,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/736ef28ad70dd49d4cdc14a123aae04f.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.CrazyCave",
+      "name": "RAVE CAVE",
+      "x": 505.84,
+      "y": 794.79,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/fd3d0c2459f22ae3073499930fa57ce8.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.CreamyCrossroads",
+      "name": "CHROME CROSSROADS",
+      "x": 1242.81,
+      "y": 903.81,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/c4989af840bf809222b005330bc5003f.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.GreasyGrove",
+      "name": "GREASY GROVE",
+      "x": 602.89,
+      "y": 1496.87,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/66b9bda81c614dc79993a98c75d6191d.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.HeraldFortress",
+      "name": "HERALD'S SANCTUM",
+      "x": 1400.4,
+      "y": 1151.61,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/079246a85533ece91255c80a61b716b7.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.LazyLagoon",
+      "name": "LUSTROUS LAGOON",
+      "x": 1544.97,
+      "y": 779.97,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/0f6faf90e15bab189a54a8ce4a9bbe05.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.LogJam",
+      "name": "CHROMEJAM JUNCTION",
+      "x": 759.24,
+      "y": 498.66,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/6d1b316b4d3e42a3e057c0303232422c.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.RealityFalls",
+      "name": "REALITY TREE",
+      "x": 465.12,
+      "y": 1173.81,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/6cf80de264c23831fe4a85e4e56afb5f.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.RockyReels",
+      "name": "ROCKY REELS",
+      "x": 1108.01,
+      "y": 1480.83,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/247d296a888311d936154df74a79602a.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.ShiftyShafts",
+      "name": "GRIM GABLES",
+      "x": 1003.78,
+      "y": 651,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/9681e6d9cdb3d5b4cdd7fc3e315cc3cf.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.ShuffledShrines",
+      "name": "SHIMMERING SHRINE",
+      "x": 1411.4,
+      "y": 1417.22,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/4d4a99b1fb7ca85490a38d3fbede3b8f.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.SleepySound",
+      "name": "SHINY SOUND",
+      "x": 1260.35,
+      "y": 510.69,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/8e7874ec577584ed50dd9a92c55bb189.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.SynapseStation",
+      "name": "SYNAPSE STATION",
+      "x": 877.5,
+      "y": 1887.73,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/e14c2ff82ef66e093133af0587349f6b.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.TheJoneses",
+      "name": "FORT JONESY",
+      "x": 1705.33,
+      "y": 1456.78,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/00ce09adacc68159ca7512f0b145550e.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.TiltedTowers",
+      "name": "TAINTED TOWERS",
+      "x": 872.96,
+      "y": 1158.5,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/a4d10053ae153e2969d5958d61f7f970.png"
+        }
+      ]
+    }
+  ]
+}

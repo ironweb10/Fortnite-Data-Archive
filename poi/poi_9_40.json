@@ -1,0 +1,156 @@
+{
+  "result": true,
+  "scale": 2048,
+  "type": "poi",
+  "lang": "en",
+  "gameVersion": "9.40",
+  "list": [
+    {
+      "id": "Athena.Location.POI.DustyDepot",
+      "name": "DUSTY DIVOT",
+      "x": 1307.57,
+      "y": 1072.68,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.FatalFields",
+      "name": "FATAL FIELDS",
+      "x": 1338.89,
+      "y": 1652.09,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.FrostyFlights",
+      "name": "FROSTY FLIGHTS",
+      "x": 289.7,
+      "y": 1612.94,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.HappyHamlet",
+      "name": "HAPPY HAMLET",
+      "x": 759.49,
+      "y": 1902.64,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.HauntedHills",
+      "name": "HAUNTED HILLS",
+      "x": 383.66,
+      "y": 538.69,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.JunkJunction",
+      "name": "JUNK JUNCTION",
+      "x": 481.53,
+      "y": 297.53,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.LazyLagoon",
+      "name": "LAZY LAGOON",
+      "x": 1260.6,
+      "y": 595.06,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.LonelyLodge",
+      "name": "LONELY LODGE",
+      "x": 1886.98,
+      "y": 948.19,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.LootLake",
+      "name": "LOOT LAKE",
+      "x": 970.89,
+      "y": 880.07,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.LuckyLanding",
+      "name": "LUCKY LANDING",
+      "x": 1237.11,
+      "y": 1957.45,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.ParadisePalms",
+      "name": "PARADISE PALMS",
+      "x": 1769.53,
+      "y": 1612.94,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.PleasantPark",
+      "name": "PLEASANT PARK",
+      "x": 667.1,
+      "y": 698.03,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.PolarPeak",
+      "name": "POLAR PEAK",
+      "x": 579.4,
+      "y": 1534.64,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.PressurePlant",
+      "name": "PRESSURE PLANT",
+      "x": 1612.94,
+      "y": 697.63,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.RetailRow",
+      "name": "MEGA MALL",
+      "x": 1612.94,
+      "y": 1182.3,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.RiskyReels",
+      "name": "THE BLOCK",
+      "x": 844.05,
+      "y": 375.83,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.SaltySprings",
+      "name": "SALTY SPRINGS",
+      "x": 1221.45,
+      "y": 1401.53,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.ShiftyShafts",
+      "name": "SHIFTY SHAFTS",
+      "x": 849.53,
+      "y": 1455.56,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.SnobbyShores",
+      "name": "SNOBBY SHORES",
+      "x": 242.72,
+      "y": 1017.87,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.SpicySteps",
+      "name": "SUNNY STEPS",
+      "x": 1773.45,
+      "y": 575.49,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.TiltedTowers",
+      "name": "NEO TILTED",
+      "x": 829.96,
+      "y": 1104,
+      "images": []
+    }
+  ]
+}

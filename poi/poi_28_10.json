@@ -1,0 +1,86 @@
+{
+  "result": true,
+  "scale": 2048,
+  "type": "poi",
+  "lang": "en",
+  "gameVersion": "28.10",
+  "list": [
+    {
+      "id": "Athena.Location.POI.AbandonedMansion",
+      "name": "REBEL'S ROOST",
+      "x": 640.67,
+      "y": 463.06,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.AbandonedRuins",
+      "name": "RESTORED REELS",
+      "x": 924.71,
+      "y": 1090.27,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.CostalCity",
+      "name": "SANDY STEPPES",
+      "x": 571.83,
+      "y": 1653.23,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.GrandGlacierHotel",
+      "name": "GRAND GLACIER",
+      "x": 1705.8,
+      "y": 885.77,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.MarinaTown",
+      "name": "RITZY RIVIERA",
+      "x": 428.97,
+      "y": 735.05,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.MountainVillage",
+      "name": "HAZY HILLSIDE",
+      "x": 1336.38,
+      "y": 1389.44,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Orchard",
+      "name": "FENCING FIELDS",
+      "x": 938.13,
+      "y": 1320.06,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.RiverCapital",
+      "name": "FREAKY FIELDS",
+      "x": 1336.38,
+      "y": 934.41,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.RuralVillage",
+      "name": "PLEASANT PIAZZA",
+      "x": 598.98,
+      "y": 1221.69,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.SocietyEstate",
+      "name": "LAVISH LAIR",
+      "x": 946.27,
+      "y": 610.53,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.TennisClub",
+      "name": "CLASSY COURTS",
+      "x": 1381.28,
+      "y": 456.37,
+      "images": []
+    }
+  ]
+}

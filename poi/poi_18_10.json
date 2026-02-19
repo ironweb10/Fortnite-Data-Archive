@@ -1,0 +1,189 @@
+{
+  "result": true,
+  "scale": 2048,
+  "type": "poi",
+  "lang": "en",
+  "gameVersion": "18.10",
+  "list": [
+    {
+      "id": "Athena.Location.POI.BeachyBluffs",
+      "name": "CRAGGY CLIFFS",
+      "x": 1322.48,
+      "y": 326.28,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/9d97b0051394e63ad257461de39e4fc5.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.Carl",
+      "name": "CORAL CASTLE",
+      "x": 486.64,
+      "y": 490.4,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/a5d57cd1cb03d4b1d1683bda021b9ca7.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.CattyCorner",
+      "name": "CATTY CORNER",
+      "x": 1733.33,
+      "y": 1646.85,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/90d1b0b7f439a0f4afa04ec341ba66bb.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.DirtyDocks",
+      "name": "DIRTY DOCKS",
+      "x": 1995.97,
+      "y": 980.73,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/9d38d1b1a60621a0ff5f889f42e68420.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.GovernmentComplex",
+      "name": "CORNY CROPS",
+      "x": 1450.98,
+      "y": 870.3,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/6c2c1e52b1f25cb3ff19c61be698052f.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.HollyHedges",
+      "name": "HOLLY HEDGES",
+      "x": 458.57,
+      "y": 1181.17,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/0a38a72bfbabb23889c307e84cfb6c63.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.LazyLake",
+      "name": "LAZY LAKE",
+      "x": 1520.42,
+      "y": 1482.84,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/7b80da7d2ca03950f5fc33f52fdafabb.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.MountainMeadow",
+      "name": "MISTY MEADOWS",
+      "x": 1306.45,
+      "y": 1795.53,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/54f0c49526f1d7506c319496f5886ede.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.PleasantPark",
+      "name": "PLEASANT PARK",
+      "x": 971.58,
+      "y": 587.86,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/8bd1848d02eb34ec6924d993de2f90b8.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.PowerPlant",
+      "name": "STEAMY STACKS",
+      "x": 1856.16,
+      "y": 455.07,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/31ff51684cda42cbe86f95126258a6f2.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.RetailRow",
+      "name": "RETAIL ROW",
+      "x": 1856.16,
+      "y": 1409.67,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/b51570866f81b71cb81f21df11a5443d.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.SaltyTowers",
+      "name": "BONEY BURBS",
+      "x": 920.22,
+      "y": 993.16,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/af76b5da99f51a6542d92a2627f82165.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.SlurpySwamp",
+      "name": "SLUDGY SWAMP",
+      "x": 730.68,
+      "y": 1617.13,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/153f4634947b7517e14526ba3be4e822.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.SunnyShores",
+      "name": "BELIEVER BEACH",
+      "x": 506.68,
+      "y": 828.89,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/566e1c6a3a009d2d3c4522a92deab829.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.WeepingWoods",
+      "name": "WEEPING WOODS",
+      "x": 821.38,
+      "y": 1336.51,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/acc23133a1e8daadc1b2d11cbc6c971f.png"
+        }
+      ]
+    }
+  ]
+}

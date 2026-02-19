@@ -1,0 +1,117 @@
+{
+  "result": true,
+  "scale": 2048,
+  "type": "poi",
+  "lang": "en",
+  "gameVersion": "23.20",
+  "list": [
+    {
+      "id": "Athena.Location.POI.Farm",
+      "name": "FRENZY FIELDS",
+      "x": 841.45,
+      "y": 1515.72,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/269d2f84617a0a495e704e21c6e83cc7.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.FortaniumQuarry",
+      "name": "SHATTERED SLABS",
+      "x": 451.47,
+      "y": 1241.46,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/4c5176cddc9cdfc76abab4a803897989.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.IcebergStation",
+      "name": "LONELY LABS",
+      "x": 1623.99,
+      "y": 482.22,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/f23fa3199ea4ae32c0e1733f74853dcb.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.IndustrialTown",
+      "name": "SLAPPY SHORES",
+      "x": 1597.15,
+      "y": 951.57,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/3f8af5abbbe7e87005329be622b0712c.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.LightCastle",
+      "name": "THE CITADEL",
+      "x": 531.3,
+      "y": 722.66,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/1898a254aad073f253fd696dd60b748c.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.MedievalTown",
+      "name": "ANVIL SQUARE",
+      "x": 830.58,
+      "y": 868.79,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/b1ce9872c981b09a38c30b98ad704ba9.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.NorthHarbor",
+      "name": "BREAKWATER BAY",
+      "x": 413.07,
+      "y": 417.42,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/7dfda63a22de93bef87aff8d488b3751.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.RealityFortress",
+      "name": "BRUTAL BASTION",
+      "x": 1357,
+      "y": 619.68,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/d54bf9aed565128edc1dc7e7d1f70def.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.SplitTown",
+      "name": "STILT TOWN",
+      "x": 1209.89,
+      "y": 1291.48,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/651c1020467cfbd25b2d18c9ff136be3.png"
+        }
+      ]
+    }
+  ]
+}

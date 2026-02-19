@@ -1,0 +1,114 @@
+{
+  "result": true,
+  "scale": 2048,
+  "type": "poi",
+  "lang": "en",
+  "gameVersion": "30.30",
+  "list": [
+    {
+      "id": "Athena.Location.POI.AbandonedMansion",
+      "name": "REBEL'S ROOST",
+      "x": 640.67,
+      "y": 463.06,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.AbandonedRuins",
+      "name": "RESTORED REELS",
+      "x": 924.71,
+      "y": 1090.27,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Arena",
+      "name": "BRAWLER'S PATCH",
+      "x": 1440.68,
+      "y": 1718.89,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.CostalCity",
+      "name": "SANDY STEPPES",
+      "x": 565.2,
+      "y": 1620.64,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Gate",
+      "name": "GRIM GATE",
+      "x": 668.97,
+      "y": 913.06,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.GrandGlacierHotel",
+      "name": "GRAND GLACIER",
+      "x": 1705.8,
+      "y": 885.77,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Hades",
+      "name": "THE UNDERWORLD",
+      "x": 470.53,
+      "y": 683.02,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Megalodon",
+      "name": "BRUTAL BEACHHEAD",
+      "x": 724.63,
+      "y": 1809.98,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.MountOlympus",
+      "name": "MOUNT OLYMPUS",
+      "x": 1504.78,
+      "y": 1506.72,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.NitroDome",
+      "name": "NITRODROME",
+      "x": 947.5,
+      "y": 1365.87,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.NitroTown",
+      "name": "REDLINE RIG",
+      "x": 1156.28,
+      "y": 1795.69,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.RiverCapital",
+      "name": "FREAKY FIELDS",
+      "x": 1336.38,
+      "y": 934.41,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.RuralVillage",
+      "name": "PLEASANT PIAZZA",
+      "x": 598.98,
+      "y": 1221.69,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.SocietyEstate",
+      "name": "LAVISH LAIR",
+      "x": 946.27,
+      "y": 610.53,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.TennisClub",
+      "name": "CLASSY COURTS",
+      "x": 1381.28,
+      "y": 456.37,
+      "images": []
+    }
+  ]
+}

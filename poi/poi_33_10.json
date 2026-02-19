@@ -1,0 +1,135 @@
+{
+  "result": true,
+  "scale": 2048,
+  "type": "poi",
+  "lang": "en",
+  "gameVersion": "33.10",
+  "list": [
+    {
+      "id": "Athena.Location.POI.Generic.01",
+      "name": "DEMON'S DOJO",
+      "x": 595.46,
+      "y": 456,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.02",
+      "name": "MAGIC MOSSES",
+      "x": 554.1,
+      "y": 984.17,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.03",
+      "name": "SHOGUN'S SOLITUDE",
+      "x": 1672.39,
+      "y": 1694.02,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.04",
+      "name": "CANYON CROSSING",
+      "x": 1521,
+      "y": 1474.5,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.05",
+      "name": "WARRIOR'S WATCH",
+      "x": 1224.95,
+      "y": 1422.3,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.06",
+      "name": "SEAPORT CITY",
+      "x": 1161.78,
+      "y": 687.5,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.07",
+      "name": "FOXY FLOODGATE",
+      "x": 1135.38,
+      "y": 1126.17,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.08",
+      "name": "WHIFFY WHARF",
+      "x": 473.24,
+      "y": 1695.25,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.09",
+      "name": "FLOODED FROGS",
+      "x": 437.9,
+      "y": 1235.24,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.10",
+      "name": "PUMPED POWER",
+      "x": 655.1,
+      "y": 728.1,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.11",
+      "name": "SHINING SPAN",
+      "x": 1098.37,
+      "y": 455.04,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.12",
+      "name": "TWINKLE TERRACE",
+      "x": 859.37,
+      "y": 1655.1,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.13",
+      "name": "BURD",
+      "x": 1320,
+      "y": 1705.34,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.14",
+      "name": "NIGHTSHIFT FOREST",
+      "x": 1087.88,
+      "y": 1650.81,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.15",
+      "name": "LOST LAKE",
+      "x": 752.59,
+      "y": 1282.48,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.16",
+      "name": "HOPEFUL HEIGHTS",
+      "x": 1644.2,
+      "y": 633.15,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.17",
+      "name": "BRUTAL BOXCARS",
+      "x": 805.93,
+      "y": 1009.78,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.18",
+      "name": "MASKED MEADOWS",
+      "x": 1552.83,
+      "y": 971.95,
+      "images": []
+    }
+  ]
+}

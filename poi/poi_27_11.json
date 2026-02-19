@@ -1,0 +1,256 @@
+{
+  "result": true,
+  "scale": 2048,
+  "type": "poi",
+  "lang": "en",
+  "gameVersion": "27.11",
+  "list": [
+    {
+      "id": "Athena.Location.POI.DustyDivot",
+      "name": "DUSTY DIVOT",
+      "x": 1156.83,
+      "y": 906.56,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/9398e9230c7a7eccaca051b4c2b3dfe1.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.FatalFields",
+      "name": "FATAL FIELDS",
+      "x": 1209.59,
+      "y": 1506.38,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/551efea7fb4a8fb1e859603eaaef11ac.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.FlushFactory",
+      "name": "FLUSH FACTORY",
+      "x": 705.02,
+      "y": 1705.77,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/5d5f5c86e44d80585776b49342c28177.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.FrostyFlights",
+      "name": "FROSTY FLIGHTS",
+      "x": 263.11,
+      "y": 1437.96,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.GreasyGrove",
+      "name": "GREASY GROVE",
+      "x": 468.14,
+      "y": 1181.93,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/255134d29e0ff00ca8b7a2dbcf1e09fd.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.HauntedHills",
+      "name": "HAUNTED HILLS",
+      "x": 325.25,
+      "y": 385.8,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/6eecfee7dec69b20271b6a9a5694595d.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.JunkJunction",
+      "name": "JUNK JUNCTION",
+      "x": 390.82,
+      "y": 207.59,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/23b18c3590eb990bfcaccdcef27a361f.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.LazyLinks",
+      "name": "LAZY LINKS",
+      "x": 1064.12,
+      "y": 424.97,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/112d7cec0ded45ca342e46d1c012972a.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.LonelyLodge",
+      "name": "LONELY LODGE",
+      "x": 1708.98,
+      "y": 810.78,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/1f7fb32ed3f34e56ffb27109b5a7fa46.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.LootLake",
+      "name": "LOOT LAKE",
+      "x": 851.9,
+      "y": 734.89,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/8fc60e3b5afc5b8e3e4936dd0d141fbb.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.LuckyLanding",
+      "name": "LUCKY LANDING",
+      "x": 1121.85,
+      "y": 1769.55,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/1198a96b1fb424763db4619d695cd7e6.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.ParadisePalms",
+      "name": "PARADISE PALMS",
+      "x": 1581.13,
+      "y": 1441.38,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/99a49b3a2ba355050796d1e725fbd9a0.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.PleasantPark",
+      "name": "PLEASANT PARK",
+      "x": 569.66,
+      "y": 562.06,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/b9849e81c3340b33f96e8d017eea57df.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.RetailRow",
+      "name": "RETAIL ROW",
+      "x": 1445.77,
+      "y": 1034.04,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/afb70e8566f87beaf46239dbc389bd09.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.RiskyReels",
+      "name": "RISKY REELS",
+      "x": 1436.37,
+      "y": 377.97,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/3ad2d0a5bfceda8c191de524a9da4d92.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.SaltySprings",
+      "name": "SALTY SPRINGS",
+      "x": 1114.88,
+      "y": 1198.54,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/1960ad5d6cc68a2e573b54cf1e4d951b.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.ShiftyShafts",
+      "name": "SHIFTY SHAFTS",
+      "x": 725.7,
+      "y": 1300.5,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/8392f70bbaf0b6a40b61cfd9c1652ea5.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.SnobbyShores",
+      "name": "SNOBBY SHORES",
+      "x": 195.53,
+      "y": 867.57,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/ab56a8d53bd592dd525c9909523a4630.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.TiltedTowers",
+      "name": "TILTED TOWERS",
+      "x": 742.63,
+      "y": 965.49,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/c5da5286d628710934ffad16438bbe9b.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.TomatoTown",
+      "name": "TOMATO TOWN",
+      "x": 1276.56,
+      "y": 636.36,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/e11d5ce174773f2f2f1f8eab3c16dad1.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.WailingWoods",
+      "name": "WAILING WOODS",
+      "x": 1645.06,
+      "y": 539.66,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/25c829acf8d0d9b3bd5cedd153ee0b11.png"
+        }
+      ]
+    }
+  ]
+}

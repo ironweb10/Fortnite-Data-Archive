@@ -1,0 +1,135 @@
+{
+  "result": true,
+  "scale": 2048,
+  "type": "poi",
+  "lang": "en",
+  "gameVersion": "36.10",
+  "list": [
+    {
+      "id": "Athena.Location.POI.Generic.02",
+      "name": "MAGIC MOSSES",
+      "x": 554.1,
+      "y": 984.17,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.04",
+      "name": "CANYON CROSSING",
+      "x": 1521,
+      "y": 1474.5,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.06",
+      "name": "SEAPORT CITY",
+      "x": 1161.78,
+      "y": 687.5,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.07",
+      "name": "FOXY FLOODGATE",
+      "x": 1135.38,
+      "y": 1126.17,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.09",
+      "name": "FLOODED FROGS",
+      "x": 437.9,
+      "y": 1235.24,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.10",
+      "name": "PUMPED POWER",
+      "x": 655.1,
+      "y": 728.1,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.17",
+      "name": "BRUTAL BOXCARS",
+      "x": 805.93,
+      "y": 1009.78,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.18",
+      "name": "MASKED MEADOWS",
+      "x": 1552.83,
+      "y": 971.95,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.19",
+      "name": "CRIME CITY",
+      "x": 1129,
+      "y": 1458.79,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.20",
+      "name": "OUTLAW OASIS",
+      "x": 1118.8,
+      "y": 1758.88,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.21",
+      "name": "SHINY SHAFTS",
+      "x": 905.73,
+      "y": 1628.79,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.22",
+      "name": "LONEWOLF LAIR",
+      "x": 722.08,
+      "y": 1284.23,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.23",
+      "name": "VADER SAMURAI'S SOLITUDE",
+      "x": 1672.39,
+      "y": 1694.02,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.24",
+      "name": "OUTPOST ENCLAVE",
+      "x": 1640.52,
+      "y": 542.01,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.25",
+      "name": "RESISTANCE BASE",
+      "x": 492.3,
+      "y": 1602.99,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.26",
+      "name": "FIRST ORDER BASE",
+      "x": 381.84,
+      "y": 470.97,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.EE.01",
+      "name": "KAPPA KAPPA FACTORY",
+      "x": 1480.68,
+      "y": 378.19,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Generic.EE.02",
+      "name": "SHINING SPAN",
+      "x": 1098.37,
+      "y": 455.04,
+      "images": []
+    }
+  ]
+}

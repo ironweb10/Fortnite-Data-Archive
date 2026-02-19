@@ -1,0 +1,139 @@
+{
+  "result": true,
+  "scale": 2048,
+  "type": "poi",
+  "lang": "en",
+  "gameVersion": "26.20",
+  "list": [
+    {
+      "id": "Athena.Location.POI.CherryBlossomForest",
+      "name": "STEAMY SPRINGS",
+      "x": 1064.28,
+      "y": 1695.66,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.EstateLair",
+      "name": "ECLIPSED ESTATE",
+      "x": 599.31,
+      "y": 809.34,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.Farm",
+      "name": "FRENZY FIELDS",
+      "x": 872.63,
+      "y": 1466.83,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/269d2f84617a0a495e704e21c6e83cc7.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.FishingVillageIsland",
+      "name": "KNOTTY NETS",
+      "x": 1751.52,
+      "y": 1537.13,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.FortaniumQuarry",
+      "name": "SHATTERED SLABS",
+      "x": 528.95,
+      "y": 1225.14,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/4c5176cddc9cdfc76abab4a803897989.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.Hotel",
+      "name": "SANDY SHEETS",
+      "x": 1583.36,
+      "y": 459.71,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.IndustrialTown",
+      "name": "SLAPPY SHORES",
+      "x": 1538.59,
+      "y": 969.67,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/3f8af5abbbe7e87005329be622b0712c.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.JungleCompound",
+      "name": "CREEKY COMPOUND",
+      "x": 996.86,
+      "y": 917.04,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.JungleTemple",
+      "name": "RUMBLE RUINS",
+      "x": 800.4,
+      "y": 1103.2,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.JungleTown",
+      "name": "SHADY STILTS",
+      "x": 957.33,
+      "y": 528.65,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.MountainDojo",
+      "name": "KENJUTSU CROSSING",
+      "x": 1486.15,
+      "y": 1804.38,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.NeonCity",
+      "name": "MEGA CITY",
+      "x": 1291.74,
+      "y": 1460.9,
+      "images": []
+    },
+    {
+      "id": "Athena.Location.POI.NorthHarbor",
+      "name": "BREAKWATER BAY",
+      "x": 495.12,
+      "y": 498.95,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/7dfda63a22de93bef87aff8d488b3751.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.RealityFortress",
+      "name": "BRUTAL BASTION",
+      "x": 1326.95,
+      "y": 677.19,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/d54bf9aed565128edc1dc7e7d1f70def.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.Resort",
+      "name": "RELENTLESS RETREAT",
+      "x": 565.25,
+      "y": 1587.72,
+      "images": []
+    }
+  ]
+}

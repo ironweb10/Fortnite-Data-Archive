@@ -1,0 +1,321 @@
+{
+  "result": true,
+  "scale": 2048,
+  "type": "poi",
+  "lang": "en",
+  "gameVersion": "13.20",
+  "list": [
+    {
+      "id": "Athena.Location.POI.CattyCorner",
+      "name": "CATTY CORNER",
+      "x": 1709.34,
+      "y": 1665.24,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/90d1b0b7f439a0f4afa04ec341ba66bb.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.Fortilla",
+      "name": "THE FORTILLA",
+      "x": 430.51,
+      "y": 1589.07,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/d34767a2259f901e980178cbd03bf84e.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.FrenzyFarm",
+      "name": "FRENZY FARM",
+      "x": 1428.72,
+      "y": 867.48,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/212113bb7d1a6821e04d2c67df14f6c0.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.HollyHedges",
+      "name": "HOLLY HEDGES",
+      "x": 478.62,
+      "y": 1200.21,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/90580b0e013678e2130fddbcb41f682e.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.LazyLake",
+      "name": "LAZY LAKE",
+      "x": 1528.94,
+      "y": 1484.84,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/10560da606b371da986666aa5864d7ba.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.MountainMeadow",
+      "name": "MISTY MEADOWS",
+      "x": 1312.46,
+      "y": 1801.54,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/ea3c76d59eae41e8c1412afe08c90b37.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.PleasantPark",
+      "name": "PLEASANT PARK",
+      "x": 979.73,
+      "y": 590.87,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/1c89ec357a18101c07278d4ccfd1dfce.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.PowerPlant",
+      "name": "STEAMY STACKS",
+      "x": 1853.66,
+      "y": 454.57,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/702ba484488b4bf2d364c39c7b8704bd.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.RetailRow",
+      "name": "RETAIL ROW",
+      "x": 1905.77,
+      "y": 1404.66,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/b51570866f81b71cb81f21df11a5443d.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.RicketyRig",
+      "name": "RICKETY RIG",
+      "x": 891.53,
+      "y": 1713.35,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/8d71abb4dba10e648c221880fe6da85f.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.SaltySprings",
+      "name": "SALTY SPRINGS",
+      "x": 915.58,
+      "y": 1003.78,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/fb92589464e077ea8c0f8eb8b94a33de.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.ShadowAgency",
+      "name": "THE AUTHORITY",
+      "x": 1144.09,
+      "y": 1059.9,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/5c92082eca02f77dd36e7b2338ebc12f.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.SunnyShores",
+      "name": "SWEATY SANDS",
+      "x": 518.71,
+      "y": 803.34,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/d365f525ee540d667b9fca0150f3eb08.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.CattyCorner",
+      "name": "CATTY CORNER",
+      "x": 1709.34,
+      "y": 1665.24,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/90d1b0b7f439a0f4afa04ec341ba66bb.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.Fortilla",
+      "name": "THE FORTILLA",
+      "x": 430.51,
+      "y": 1589.07,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/c8022b32bdd2be964aece50338aed72a.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.FrenzyFarm",
+      "name": "FRENZY FARM",
+      "x": 1428.72,
+      "y": 867.48,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/25cfe9b085bb50850f584bc87908d96a.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.HollyHedges",
+      "name": "HOLLY HEDGES",
+      "x": 478.62,
+      "y": 1200.21,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/e6e194b58f3d3648181d8979101d0969.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.LazyLake",
+      "name": "LAZY LAKE",
+      "x": 1528.94,
+      "y": 1484.84,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/10560da606b371da986666aa5864d7ba.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.MountainMeadow",
+      "name": "MISTY MEADOWS",
+      "x": 1312.46,
+      "y": 1801.54,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/ea3c76d59eae41e8c1412afe08c90b37.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.PleasantPark",
+      "name": "PLEASANT PARK",
+      "x": 979.73,
+      "y": 590.87,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/be89fd17ff4ec54e6e49122863015998.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.PowerPlant",
+      "name": "STEAMY STACKS",
+      "x": 1853.66,
+      "y": 454.57,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/98a504398f926ca3430081205de94dc4.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.RetailRow",
+      "name": "RETAIL ROW",
+      "x": 1905.77,
+      "y": 1404.66,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/b51570866f81b71cb81f21df11a5443d.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.RicketyRig",
+      "name": "RICKETY RIG",
+      "x": 891.53,
+      "y": 1713.35,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/144d5947ea33c5d7c38bad8ce9bd8bbc.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.SaltySprings",
+      "name": "SALTY SPRINGS",
+      "x": 915.58,
+      "y": 1003.78,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/fb92589464e077ea8c0f8eb8b94a33de.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.ShadowAgency",
+      "name": "THE AUTHORITY",
+      "x": 1144.09,
+      "y": 1059.9,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/04de3eb754743d33424c34abf307e111.png"
+        }
+      ]
+    },
+    {
+      "id": "Athena.Location.POI.SunnyShores",
+      "name": "SWEATY SANDS",
+      "x": 518.71,
+      "y": 803.34,
+      "images": [
+        {
+          "type": "overview",
+          "url": "https://media.fortniteapi.io/images/poi/9cb27ccb2c33571f341dac060b3f0235.png"
+        }
+      ]
+    }
+  ]
+}
