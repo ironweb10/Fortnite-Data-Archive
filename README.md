@@ -329,7 +329,7 @@ Fortnite data obtained from [FortniteAPI.io](https://fortniteapi.io/)
 
 The data is automatically updated every week via GitHub Actions.
 
-**Last update:** 2026-04-05
+**Last update:** 2026-04-12
 
 ## 📝 Data Source
 
