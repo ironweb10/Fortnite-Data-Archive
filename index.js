@@ -309,7 +309,7 @@ The data is automatically updated every week via GitHub Actions.
 
 ## 📝 Data Source
 
-All data comes from [fnapi.osirion.gg](https://fnapi.osirion.gg)
+All data comes from [fnapi.osirion.gg](https://fnapi.osirion.gg) & fortniteapi.io
 `;
 
   fs.writeFileSync('README.md', readme);
