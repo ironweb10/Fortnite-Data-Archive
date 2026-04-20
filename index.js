@@ -2,21 +2,18 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
-const API_KEY = process.env.FORTNITE_API_KEY;
-const BASE_URL = 'https://fortniteapi.io';
+const BASE_URL = 'https://fnapi.osirion.gg';
 
-const dirs = ['battlepasses', 'challenges', 'seasons', 'weapons', 'fish', 'poi', 'vehicles'];
+const dirs = ['season-passes', 'quests', 'maps', 'seasons', 'weapons', 'fish', 'poi', 'vehicles'];
 dirs.forEach(dir => {
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
   }
 });
 
-async function fetchData(endpoint) {
+async function fetchData(endpoint, params = {}) {
   try {
-    const response = await axios.get(`${BASE_URL}${endpoint}`, {
-      headers: { 'Authorization': API_KEY }
-    });
+    const response = await axios.get(`${BASE_URL}${endpoint}`, { params });
     return response.data;
   } catch (error) {
     console.error(`Error fetching ${endpoint}:`, error.response?.data || error.message);
@@ -28,44 +25,69 @@ function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-async function getBattlepass(season) {
-  const filePath = path.join('battlepasses', `season_${season}.json`);
+async function getSeasonPasses(season) {
+  const filePath = path.join('season-passes', `season_${season}.json`);
   if (fs.existsSync(filePath)) {
-    console.log(`✓ Battlepass Season ${season} already exists`);
+    console.log(`✓ Season Passes Season ${season} already exist`);
     return true;
   }
-  console.log(`Fetching Battlepass Season ${season}...`);
-  const data = await fetchData(`/v2/battlepass?lang=en&season=${season}`);
-  if (data && data.result) {
+  console.log(`Fetching Season Passes for Season ${season}...`);
+  const data = await fetchData('/v1/season-passes', { lang: 'en', season });
+  if (data && data.success && data.seasonPasses && data.seasonPasses.length > 0) {
+    const matched = data.seasonPasses.some(p => p.seasonNumber === season);
+    if (!matched) {
+      console.log(`✗ Season Passes Season ${season} not available`);
+      return false;
+    }
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
-    console.log(`✓ Battlepass Season ${season} saved`);
+    const modes = data.seasonPasses.map(p => p.modeId).join(', ');
+    console.log(`✓ Season Passes Season ${season} saved (${data.seasonPasses.length} passes: ${modes})`);
     return true;
   }
-  console.log(`✗ Battlepass Season ${season} not available`);
+  console.log(`✗ Season Passes Season ${season} not available`);
   return false;
 }
 
-async function getChallenges(season) {
-  const filePath = path.join('challenges', `season_${season}.json`);
+async function getQuests(season) {
+  const filePath = path.join('quests', `season_${season}.json`);
   if (fs.existsSync(filePath)) {
-    console.log(`✓ Challenges Season ${season} already exists`);
+    console.log(`✓ Quests Season ${season} already exist`);
     return true;
   }
-  console.log(`Fetching Challenges Season ${season}...`);
-  const data = await fetchData(`/v3/challenges?season=${season}&lang=en`);
-  if (data && data.result !== false) {
+  console.log(`Fetching Quests for Season ${season}...`);
+  const data = await fetchData('/v1/quests', { lang: 'en', season });
+  if (data && data.success && data.questBundles && data.questBundles.length > 0) {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
-    console.log(`✓ Challenges Season ${season} saved`);
+    console.log(`✓ Quests Season ${season} saved (${data.questBundles.length} bundles)`);
     return true;
   }
-  console.log(`✗ Challenges Season ${season} not available`);
+  console.log(`✗ Quests Season ${season} not available`);
+  return false;
+}
+
+async function getMap(gameVersion) {
+  const versionSafe = gameVersion.replace(/\./g, '_');
+  const filePath = path.join('maps', `map_${versionSafe}.json`);
+  if (fs.existsSync(filePath)) {
+    console.log(`✓ Map ${gameVersion} already exists`);
+    return true;
+  }
+  console.log(`Fetching Map for game version ${gameVersion}...`);
+  const data = await fetchData('/v1/maps', { lang: 'en', gameVersion });
+  if (data && data.success && data.maps && data.maps.length > 0) {
+    fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+    const modes = data.maps.map(m => m.id).join(', ');
+    console.log(`✓ Map ${gameVersion} saved (${data.maps.length} modes: ${modes})`);
+    return true;
+  }
+  console.log(`✗ Map ${gameVersion} not available`);
   return false;
 }
 
 async function getSeasonsList() {
   const filePath = path.join('seasons', 'seasons_list.json');
   console.log('Fetching Seasons List...');
-  const data = await fetchData('/v1/seasons/list?lang=en');
+  const data = await fetchData('/v1/seasons/list', { lang: 'en' });
   if (data && data.seasons) {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
     console.log('✓ Seasons List saved');
@@ -99,7 +121,7 @@ async function getFish(season) {
     return true;
   }
   console.log(`Fetching Fish Season ${season}...`);
-  const data = await fetchData(`/v1/loot/fish?lang=en&season=${season}`);
+  const data = await fetchData('/v1/loot/fish', { lang: 'en', season });
   if (data && data.result !== false) {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
     console.log(`✓ Fish Season ${season} saved`);
@@ -117,7 +139,7 @@ async function getPOI(gameVersion) {
     return true;
   }
   console.log(`Fetching POI for game version ${gameVersion}...`);
-  const data = await fetchData(`/v2/game/poi?lang=en&gameVersion=${gameVersion}`);
+  const data = await fetchData('/v2/game/poi', { lang: 'en', gameVersion });
   if (data && data.result !== false) {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
     console.log(`✓ POI ${gameVersion} saved`);
@@ -169,15 +191,24 @@ function extractGameVersions(seasons) {
 }
 
 function generateReadme(gameVersions) {
-  const battlepasses = fs.readdirSync('battlepasses')
+  const seasonPassFiles = fs.readdirSync('season-passes')
     .filter(f => f.endsWith('.json'))
     .map(f => parseInt(f.match(/\d+/)[0]))
     .sort((a, b) => a - b);
 
-  const challenges = fs.readdirSync('challenges')
+  const questFiles = fs.readdirSync('quests')
     .filter(f => f.endsWith('.json'))
     .map(f => parseInt(f.match(/\d+/)[0]))
     .sort((a, b) => a - b);
+
+  const mapFiles = fs.readdirSync('maps')
+    .filter(f => f.endsWith('.json'))
+    .map(f => f.replace('map_', '').replace('.json', '').replace(/_/g, '.'))
+    .sort((a, b) => {
+      const [aMaj, aMin] = a.split('.').map(Number);
+      const [bMaj, bMin] = b.split('.').map(Number);
+      return aMaj !== bMaj ? aMaj - bMaj : aMin - bMin;
+    });
 
   const fishSeasons = fs.readdirSync('fish')
     .filter(f => f.endsWith('.json'))
@@ -193,18 +224,39 @@ function generateReadme(gameVersions) {
       return aMaj !== bMaj ? aMaj - bMaj : aMin - bMin;
     });
 
+  function getModesForSeason(season) {
+    try {
+      const filePath = path.join('season-passes', `season_${season}.json`);
+      const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+      return (data.seasonPasses || []).map(p => p.modeId).join(', ');
+    } catch {
+      return '';
+    }
+  }
+
   let readme = `# Fortnite Data Archive
 
-Fortnite data obtained from [FortniteAPI.io](https://fortniteapi.io/)
+Fortnite data obtained from [fnapi.osirion.gg](https://fnapi.osirion.gg)
 
 ## 📊 Available Data
 
-### Battle Passes (${battlepasses.length} seasons)
-`;
-  battlepasses.forEach(s => { readme += `- [Season ${s}](battlepasses/season_${s}.json)\n`; });
+### Season Passes (${seasonPassFiles.length} seasons)
+> Each file contains all passes for that season (Battle Royale, LEGO, Festival, Rocket Racing, etc.)
 
-  readme += `\n### Challenges (${challenges.length} seasons)\n`;
-  challenges.forEach(s => { readme += `- [Season ${s}](challenges/season_${s}.json)\n`; });
+`;
+  seasonPassFiles.forEach(s => {
+    const modes = getModesForSeason(s);
+    readme += `- [Season ${s}](season-passes/season_${s}.json)${modes ? ` — \`${modes}\`` : ''}\n`;
+  });
+
+  readme += `\n### Quests (${questFiles.length} seasons)\n`;
+  questFiles.forEach(s => { readme += `- [Season ${s}](quests/season_${s}.json)\n`; });
+
+  readme += `\n### Maps (${mapFiles.length} game versions)\n`;
+  mapFiles.forEach(v => {
+    const safe = v.replace(/\./g, '_');
+    readme += `- [Version ${v}](maps/map_${safe}.json)\n`;
+  });
 
   readme += `\n### Fish (${fishSeasons.length} seasons, from Season 11)\n`;
   fishSeasons.forEach(s => { readme += `- [Season ${s}](fish/season_${s}.json)\n`; });
@@ -232,7 +284,7 @@ The data is automatically updated every week via GitHub Actions.
 
 ## 📝 Data Source
 
-All data comes from [FortniteAPI.io](https://fortniteapi.io)
+All data comes from [fnapi.osirion.gg](https://fnapi.osirion.gg) & fortniteapi.io
 `;
 
   fs.writeFileSync('README.md', readme);
@@ -245,6 +297,9 @@ async function main() {
   const seasons = await getSeasonsList();
   await delay(1000);
 
+  const gameVersions = extractGameVersions(seasons);
+  console.log(`Found ${gameVersions.length} unique game versions`);
+
   console.log('\n🔫 Fetching Weapons...');
   await getWeapons();
   await delay(1000);
@@ -253,29 +308,33 @@ async function main() {
   await getVehicles();
   await delay(1000);
 
-  console.log('\n📦 Fetching Battle Passes...');
-  for (let season = 1; season <= 38; season++) {
-    await getBattlepass(season);
+  console.log('\n🎫 Fetching Season Passes...');
+  for (let season = 1; season <= 40; season++) {
+    await getSeasonPasses(season);
     await delay(1000);
   }
 
-  console.log('\n🎯 Fetching Challenges...');
-  for (let season = 1; season <= 38; season++) {
-    await getChallenges(season);
+  console.log('\n📋 Fetching Quests...');
+  for (let season = 1; season <= 40; season++) {
+    await getQuests(season);
     await delay(1000);
   }
 
   console.log('\n🐟 Fetching Fish...');
-  for (let season = 11; season <= 38; season++) {
+  for (let season = 11; season <= 40; season++) {
     await getFish(season);
     await delay(1000);
   }
 
   console.log('\n🗺️  Fetching POI...');
-  const gameVersions = extractGameVersions(seasons);
-  console.log(`Found ${gameVersions.length} unique game versions`);
   for (const version of gameVersions) {
     await getPOI(version);
+    await delay(1000);
+  }
+
+  console.log('\n🗺️  Fetching Maps...');
+  for (const version of gameVersions) {
+    await getMap(version);
     await delay(1000);
   }
 
