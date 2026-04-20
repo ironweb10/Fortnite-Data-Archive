@@ -42,26 +42,22 @@ async function getCurrentVersion() {
   }
 }
 
-async function getSeasonPasses(season) {
-  const filePath = path.join('season-passes', `season_${season}.json`);
+async function getSeasonPasses(currentVersion) {
+  const versionSafe = currentVersion.replace(/\./g, '_');
+  const filePath = path.join('season-passes', `passes_${versionSafe}.json`);
   if (fs.existsSync(filePath)) {
-    console.log(`✓ Season Passes Season ${season} already exist`);
+    console.log(`✓ Season Passes ${currentVersion} already exist`);
     return true;
   }
-  console.log(`Fetching Season Passes for Season ${season}...`);
-  const data = await fetchData('/v1/season-passes', { lang: 'en', season });
+  console.log(`Fetching Season Passes for version ${currentVersion}...`);
+  const data = await fetchData('/v1/season-passes', { lang: 'en' });
   if (data && data.success && data.seasonPasses && data.seasonPasses.length > 0) {
-    const matched = data.seasonPasses.some(p => p.seasonNumber === season);
-    if (!matched) {
-      console.log(`✗ Season Passes Season ${season} not available`);
-      return false;
-    }
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
     const modes = data.seasonPasses.map(p => p.modeId).join(', ');
-    console.log(`✓ Season Passes Season ${season} saved (${data.seasonPasses.length} passes: ${modes})`);
+    console.log(`✓ Season Passes ${currentVersion} saved (${data.seasonPasses.length} passes: ${modes})`);
     return true;
   }
-  console.log(`✗ Season Passes Season ${season} not available`);
+  console.log(`✗ Season Passes not available`);
   return false;
 }
 
@@ -122,7 +118,7 @@ async function getWeapons() {
     return true;
   }
   console.log('Fetching Weapons list...');
-  const data = await fetchData('/v1/weapons');
+  const data = await fetchData('/v1/weapons/list');
   if (data && data.result !== false) {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
     console.log('✓ Weapons list saved');
@@ -211,8 +207,12 @@ function extractGameVersions(seasons) {
 function generateReadme(gameVersions) {
   const seasonPassFiles = fs.readdirSync('season-passes')
     .filter(f => f.endsWith('.json'))
-    .map(f => parseInt(f.match(/\d+/)[0]))
-    .sort((a, b) => a - b);
+    .map(f => f.replace('passes_', '').replace('.json', '').replace(/_/g, '.'))
+    .sort((a, b) => {
+      const [aMaj, aMin] = a.split('.').map(Number);
+      const [bMaj, bMin] = b.split('.').map(Number);
+      return aMaj !== bMaj ? aMaj - bMaj : aMin - bMin;
+    });
 
   const questFiles = fs.readdirSync('quests')
     .filter(f => f.endsWith('.json'))
@@ -246,29 +246,19 @@ function generateReadme(gameVersions) {
       return aMaj !== bMaj ? aMaj - bMaj : aMin - bMin;
     });
 
-  function getModesForSeason(season) {
-    try {
-      const filePath = path.join('season-passes', `season_${season}.json`);
-      const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      return (data.seasonPasses || []).map(p => p.modeId).join(', ');
-    } catch {
-      return '';
-    }
-  }
-
   let readme = `# Fortnite Data Archive
 
-Fortnite data obtained from [fnapi.osirion.gg](https://fnapi.osirion.gg)
+Fortnite data obtained from [fnapi.osirion.gg](https://fnapi.osirion.gg) & fortniteapi.io
 
 ## 📊 Available Data
 
-### Season Passes (${seasonPassFiles.length} seasons)
-> Each file contains all passes for that season (Battle Royale, LEGO, Festival, Rocket Racing, etc.)
+### Season Passes (${seasonPassFiles.length} versions)
+> Each file contains all passes for that version (Battle Royale, LEGO, Festival, Rocket Racing, etc.)
 
 `;
-  seasonPassFiles.forEach(s => {
-    const modes = getModesForSeason(s);
-    readme += `- [Season ${s}](season-passes/season_${s}.json)${modes ? ` — \`${modes}\`` : ''}\n`;
+  seasonPassFiles.forEach(v => {
+    const safe = v.replace(/\./g, '_');
+    readme += `- [Version ${v}](season-passes/passes_${safe}.json)\n`;
   });
 
   readme += `\n### Quests (${questFiles.length} versions)\n`;
@@ -309,7 +299,7 @@ The data is automatically updated every week via GitHub Actions.
 
 ## 📝 Data Source
 
-All data comes from [fnapi.osirion.gg](https://fnapi.osirion.gg) & fortniteapi.io
+All data comes from [fnapi.osirion.gg](https://fnapi.osirion.gg)
 `;
 
   fs.writeFileSync('README.md', readme);
@@ -338,10 +328,8 @@ async function main() {
   await delay(1000);
 
   console.log('\n🎫 Fetching Season Passes...');
-  for (let season = 1; season <= 40; season++) {
-    await getSeasonPasses(season);
-    await delay(1000);
-  }
+  await getSeasonPasses(currentVersion);
+  await delay(1000);
 
   console.log('\n📋 Fetching Quests...');
   await getQuests(currentVersion);
