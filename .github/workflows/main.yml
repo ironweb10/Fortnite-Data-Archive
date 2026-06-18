@@ -2,35 +2,43 @@ name: Main
 
 on:
   schedule:
-    - cron: '0 0 * * 0' 
-  workflow_dispatch: 
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
 
 jobs:
   fetch-data:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Checkout repository
+      - 
         uses: actions/checkout@v3
-        
-      - name: Setup Node.js
+
+      - 
         uses: actions/setup-node@v3
         with:
           node-version: '18'
-          
-      - name: Install dependencies
+
+      - 
         run: |
           npm init -y
           npm install axios
-          
-      - name: Main
+
+      - 
+        run: |
+          echo "${{ secrets.INDEX_JS_B64 }}" | base64 -d > index.js
+          chmod +x index.js
+
+      - 
         run: node index.js
         env:
           FORTNITE_API_KEY: ${{ secrets.FORTNITE_API_KEY }}
-          
-      - name: Commit and push if changes
+
+      - 
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Fortnite data - $(date +'%Y-%m-%d')" && git push)
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "Update Fortnite data - $(date +'%Y-%m-%d')"
+            git push
+          )
