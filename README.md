@@ -277,7 +277,7 @@ Fortnite data obtained from [fnapi.osirion.gg](https://fnapi.osirion.gg) & fortn
 
 The data is automatically updated every week via GitHub Actions.
 
-**Last update:** 2026-06-14
+**Last update:** 2026-06-18
 
 ## 📝 Data Source
 
