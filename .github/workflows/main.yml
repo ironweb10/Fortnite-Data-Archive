@@ -25,7 +25,7 @@ jobs:
           echo "${{ secrets.INDEX_JS_B64 }}" | base64 -d > /tmp/index.js
 
       - 
-        run: node /tmp/index.js
+        run: npm install axios && node /tmp/index.js
         env:
           FORTNITE_API_KEY: ${{ secrets.FORTNITE_API_KEY }}
 
