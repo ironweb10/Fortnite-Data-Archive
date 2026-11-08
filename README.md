@@ -4,7 +4,7 @@ Fortnite data obtained from [fnapi.osirion.gg](https://fnapi.osirion.gg) & fortn
 
 ## 📊 Available Data
 
-### Season Passes (12 versions)
+### Season Passes (13 versions)
 > Each file contains all passes for that version (Battle Royale, LEGO, Festival, Rocket Racing, etc.)
 
 - [Version 40.20](season-passes/passes_40_20.json)
@@ -19,8 +19,9 @@ Fortnite data obtained from [fnapi.osirion.gg](https://fnapi.osirion.gg) & fortn
 - [Version 42.20](season-passes/passes_42_20.json)
 - [Version 42.30](season-passes/passes_42_30.json)
 - [Version 42.40](season-passes/passes_42_40.json)
+- [Version 43.00](season-passes/passes_43_00.json)
 
-### Quests (12 versions)
+### Quests (13 versions)
 - [Version 40.20](quests/quests_40_20.json)
 - [Version 40.30](quests/quests_40_30.json)
 - [Version 40.40](quests/quests_40_40.json)
@@ -33,8 +34,9 @@ Fortnite data obtained from [fnapi.osirion.gg](https://fnapi.osirion.gg) & fortn
 - [Version 42.20](quests/quests_42_20.json)
 - [Version 42.30](quests/quests_42_30.json)
 - [Version 42.40](quests/quests_42_40.json)
+- [Version 43.00](quests/quests_43_00.json)
 
-### Maps (12 versions)
+### Maps (13 versions)
 - [Version 40.20](maps/map_40_20.json)
 - [Version 40.30](maps/map_40_30.json)
 - [Version 40.40](maps/map_40_40.json)
@@ -47,6 +49,7 @@ Fortnite data obtained from [fnapi.osirion.gg](https://fnapi.osirion.gg) & fortn
 - [Version 42.20](maps/map_42_20.json)
 - [Version 42.30](maps/map_42_30.json)
 - [Version 42.40](maps/map_42_40.json)
+- [Version 43.00](maps/map_43_00.json)
 
 ### Fish (30 seasons, from Season 11)
 - [Season 11](fish/season_11.json)
@@ -298,7 +301,7 @@ Fortnite data obtained from [fnapi.osirion.gg](https://fnapi.osirion.gg) & fortn
 
 The data is automatically updated every week via GitHub Actions.
 
-**Last update:** 2026-11-01
+**Last update:** 2026-11-08
 
 ## 📝 Data Source
 
